@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
 
 
-print("Hello World")
+# print("Hello World")
 # from streamlit_option_menu import option_menu
 from streamlit_option_menu import option_menu
 
@@ -272,38 +272,88 @@ elif selected == "Visualizations":
     ax.set_xlabel("Year")
     st.pyplot(fig)
 
+    # import plotly.express as px
+
+    # st.subheader("📅 Matches per Year")
+
+    # matches_per_year = filtered.groupby("year")["Match ID"].nunique().reset_index()
+
+    # fig = px.bar(
+    #     matches_per_year,
+    #     x="year",
+    #     y="Match ID",
+    #     labels={"year": "Year", "Match ID": "Number of Matches"},
+    #     title="Matches per Year",
+    #     color="Match ID",  # optional for a color scale
+    #     text="Match ID"    # show values on bars
+    # )
+
+    # fig.update_traces(textposition="outside")  # place labels outside bars
+    # fig.update_layout(
+    #     xaxis_title="Year",
+    #     yaxis_title="Number of Matches",
+    #     bargap=0.2
+    # )
+
+    # st.plotly_chart(fig, use_container_width=True)
+
 # ==========================
 # 2. Most Winning Teams
 # ==========================
-    st.subheader("🏆 Most Successful Teams")
-    top_winners = filtered["Match Winner"].value_counts().head(10)
+    # st.subheader("🏆 Most Successful Teams")
+    # top_winners = filtered["Match Winner"].value_counts().head(10)
 
-    fig, ax = plt.subplots()
-    sns.barplot(x=top_winners.values, y=top_winners.index, ax=ax)
-    ax.set_xlabel("Wins")
-    ax.set_ylabel("Team")
-    st.pyplot(fig)
+    # fig, ax = plt.subplots()
+    # sns.barplot(x=top_winners.values, y=top_winners.index, ax=ax)
+    # ax.set_xlabel("Wins")
+    # ax.set_ylabel("Team")
+    # st.pyplot(fig)
+
+# import plotly.express as px
+
+st.subheader("📅 Matches per Year")
+
+matches_per_year = filtered.groupby("year")["Match ID"].nunique().reset_index()
+
+fig = px.bar(
+    matches_per_year,
+    x="year",
+    y="Match ID",
+    labels={"year": "Year", "Match ID": "Number of Matches"},
+    title="Matches per Year",
+    color="Match ID",  # optional for a color scale
+    text="Match ID"    # show values on bars
+)
+
+fig.update_traces(textposition="outside")  # place labels outside bars
+fig.update_layout(
+    xaxis_title="Year",
+    yaxis_title="Number of Matches",
+    bargap=0.2
+)
+
+st.plotly_chart(fig, use_container_width=True)
 
 # ==========================
 # 3. Toss Decision Impact
 # ==========================
-    st.subheader("🎲 Toss Decision vs Match Result")
-    fig, ax = plt.subplots()
-    sns.countplot(data=filtered, x="Toss Winner Choice", hue="Match Result Text", ax=ax)
-    plt.xticks(rotation=45)
-    st.pyplot(fig)
+    # st.subheader("🎲 Toss Decision vs Match Result")
+    # fig, ax = plt.subplots()
+    # sns.countplot(data=filtered, x="Toss Winner Choice", hue="Match Result Text", ax=ax)
+    # plt.xticks(rotation=45)
+    # st.pyplot(fig)
 
 # ==========================
 # 4. Match Venues
 # ==========================
-    st.subheader("🌍 Top Match Venues")
-    venue_counts = filtered["Match Venue (Stadium)"].value_counts().head(15)
+    # st.subheader("🌍 Top Match Venues")
+    # venue_counts = filtered["Match Venue (Stadium)"].value_counts().head(15)
 
-    fig, ax = plt.subplots()
-    sns.barplot(x=venue_counts.values, y=venue_counts.index, ax=ax)
-    ax.set_xlabel("Matches Hosted")
-    ax.set_ylabel("Stadium")
-    st.pyplot(fig)
+    # fig, ax = plt.subplots()
+    # sns.barplot(x=venue_counts.values, y=venue_counts.index, ax=ax)
+    # ax.set_xlabel("Matches Hosted")
+    # ax.set_ylabel("Stadium")
+    # st.pyplot(fig)
 # st.title("🏏 ODI Matches Analysis Dashboard")
 
 
@@ -400,4 +450,3 @@ elif selected == "Visualizations":
 #                         left_on="bowler id", right_on="player_id", how="left") \
 #                  .drop(columns=["player_id"]) \
 #                  .rename(columns={"player_name": "bowler_name"})
-
