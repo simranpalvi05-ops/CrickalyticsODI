@@ -1,0 +1,2111 @@
+player_id,player_name,bowling_style,innings_bowled,total_overs,total_balls,total_runs,economy,wickets
+46533.0,AB de Villiers,right-arm medium,2,32.0,192.0,202.0,6.3125,178.0
+112855.0,AM Ghazanfar,right-arm offbreak,1,9.0,54.0,47.0,5.222222222222222,1.0
+105519.0,Aakash Chand,right-arm medium,1,13.0,78.0,82.0,6.307692307692308,0.0
+1485.0,Aamer Hameed,right-arm medium-fast,1,11.0,88.0,38.0,3.4545454545454546,0.0
+2130.0,Aamer Hanif,right-arm medium,2,21.4,130.0,122.0,5.700934579439252,2.0
+1872.0,Aamer Malik,right-arm fast-medium,1,20.0,120.0,86.0,4.3,22.0
+2083.0,Aamer Nazir,right-arm fast-medium,2,69.3,417.0,346.0,4.992784992784993,1.0
+2032.0,Aamer Sohail,slow left-arm orthodox,2,804.0,4836.0,3703.0,4.605721393034826,150.0
+61552.0,Aamer Yamin,right-arm medium,2,26.0,156.0,154.0,5.923076923076923,1.0
+62411.0,Aamir Kaleem,slow left-arm orthodox,2,16.5,101.0,83.0,5.03030303030303,2.0
+1923.0,Aaqib Javed,right-arm fast-medium,2,1331.6,8012.0,5721.0,4.2963352358065485,25.0
+74677.0,Aarif Sheikh,right-arm medium,2,111.3,669.0,529.0,4.752920035938904,38.0
+35812.0,Aaron Finch,slow left-arm orthodox,2,46.8,284.0,259.0,5.534188034188035,138.0
+101340.0,Aaron Hardie,right-arm medium-fast,1,18.0,108.0,89.0,4.944444444444445,3.0
+88991.0,Aaron Jones,legbreak googly,2,31.0,186.0,174.0,5.612903225806452,40.0
+46936.0,Aaron Phangiso,slow left-arm orthodox,2,170.1,1025.0,790.0,4.644326866549089,11.0
+2174.0,Aashish Kapoor,right-arm offbreak,2,150.0,900.0,612.0,4.08,6.0
+2270.0,Aasif Karim,slow left-arm orthodox,2,261.2,1568.0,1114.0,4.264931087289433,18.0
+11930.0,Aavishkar Salvi,right-arm medium,2,28.4,172.0,120.0,4.225352112676057,2.0
+108302.0,Aayan Afzal Khan,slow left-arm orthodox,2,251.8,1514.0,978.0,3.884034948371724,18.0
+46191.0,Abdool Samad,right-arm offbreak,2,38.7,235.0,281.0,7.260981912144702,25.0
+1538.0,Abdul Qadir,legbreak googly,2,847.2,5100.0,3454.0,4.076959395656279,42.0
+80325.0,Abdul Rahman,right-arm fast-medium,2,17.2,104.0,133.0,7.732558139534884,2.0
+4178.0,Abdul Razzaq,right-arm fast-medium,2,1819.3,10941.0,8564.0,4.707305007420437,171.0
+59288.0,Abdullah Mazari,slow left-arm orthodox,2,16.0,96.0,49.0,3.0625,1.0
+19036.0,Abdur Rauf,right-arm fast-medium,1,35.4,214.0,212.0,5.988700564971752,0.0
+45159.0,Abdur Razzak,slow left-arm orthodox,2,1322.9,7965.0,6065.0,4.584624688185047,58.0
+10443.0,Abdur Rehman,slow left-arm orthodox,2,270.4,1624.0,1142.0,4.223372781065089,17.0
+5010.0,Abey Kuruvilla,right-arm fast-medium,2,187.1,1131.0,890.0,4.756814537680385,7.0
+53314.0,Abhimanyu Mithun,right-arm medium,2,30.0,180.0,203.0,6.766666666666667,3.0
+47308.0,Abhishek Nayar,right-arm medium,1,3.0,18.0,17.0,5.666666666666667,0.0
+110012.0,Abhishek Paradkar,left-arm medium,2,24.0,144.0,159.0,6.625,3.0
+94919.0,Abinash Bohara,right-arm medium,2,11.0,66.0,51.0,4.636363636363637,0.0
+67278.0,Abu Hider,left-arm fast-medium,1,18.0,108.0,89.0,4.944444444444445,1.0
+60029.0,Abu Jayed,right-arm fast-medium,1,18.0,108.0,114.0,6.333333333333333,0.0
+58219.0,Abul Hasan,right-arm medium-fast,2,36.0,216.0,244.0,6.777777777777778,3.0
+2838.0,Adam Bacher,right-arm medium,2,18.0,108.0,64.0,3.555555555555556,13.0
+5574.0,Adam Dale,right-arm fast-medium,2,266.0,1596.0,979.0,3.680451127819549,4.0
+3401.0,Adam Hollioake,right-arm medium,2,200.0,1208.0,1019.0,5.095,24.0
+4022.0,Adam Huckle,legbreak googly,2,143.0,858.0,661.0,4.622377622377623,4.0
+62153.0,Adam Milne,right-arm fast,2,372.2,2242.0,2027.0,5.445996775926921,14.0
+12400.0,Adam Voges,slow left-arm orthodox,2,50.1,301.0,276.0,5.508982035928144,19.0
+58435.0,Adam Zampa,legbreak googly,2,864.3,5199.0,4742.0,5.486520883952331,30.0
+6320.0,Adeel Raja,right-arm offbreak,2,140.2,846.0,690.0,4.921540656205421,10.0
+108276.0,Adhitya Shetty,legbreak googly,1,10.0,60.0,56.0,5.6,0.0
+49427.0,Adil Rashid,legbreak,2,1130.1,6789.0,6377.0,5.642863463410318,45.0
+105881.0,Adithya Ashok,legbreak googly,2,10.1,61.0,65.0,6.435643564356436,1.0
+2014.0,Adrian Kuiper,right-arm medium,2,98.0,588.0,518.0,5.285714285714286,16.0
+102531.0,Adrian Neill,right-arm medium,2,71.5,431.0,342.0,4.783216783216783,2.0
+87075.0,Afif Hossain,right-arm offbreak,2,15.4,94.0,91.0,5.909090909090909,21.0
+45558.0,Aftab Ahmed,right-arm medium,2,122.3,739.0,656.0,5.36385936222404,79.0
+61857.0,Aftab Alam,right-arm medium-fast,2,208.5,1257.0,1033.0,4.954436450839329,7.0
+47133.0,Aftab Shamsudeen,right-arm offbreak,1,3.0,18.0,24.0,8.0,1.0
+19071.0,Afzaal Haider,right-arm medium,1,30.0,180.0,227.0,7.566666666666666,3.0
+70611.0,Agha Salman,right-arm offbreak,2,69.0,414.0,399.0,5.782608695652174,12.0
+9367.0,Ahmed Kamal,right-arm fast-medium,1,5.0,30.0,39.0,7.8,1.0
+49463.0,Ahmed Raza,slow left-arm orthodox,2,466.5,2801.0,1924.0,4.12433011789925,34.0
+53604.0,Ahmed Shah,slow left-arm orthodox,1,1.0,6.0,12.0,12.0,1.0
+49899.0,Ahmed Shehzad,legbreak,2,18.7,115.0,140.0,7.486631016042781,80.0
+65446.0,Ahsan Malik,right-arm medium-fast,2,77.9,471.0,408.0,5.237483953786906,0.0
+70277.0,Aiden Markram,right-arm offbreak,2,146.5,881.0,833.0,5.686006825938566,58.0
+69959.0,Ainsley Ndlovu,slow left-arm orthodox,1,17.0,102.0,80.0,4.705882352941177,0.0
+44909.0,Aizaz Cheema,right-arm medium-fast,2,109.4,658.0,593.0,5.420475319926873,3.0
+59686.0,Aizaz Khan,right-arm medium-fast,2,120.4,728.0,680.0,5.647840531561462,13.0
+50377.0,Ajantha Mendis,right-arm offbreak,2,688.6,4154.0,3324.0,4.827185593958757,23.0
+2060.0,Ajay Jadeja,right-arm medium,2,206.4,1248.0,1094.0,5.300387596899225,145.0
+67018.0,Ajay Lalcheta,slow left-arm orthodox,1,14.0,84.0,62.0,4.428571428571429,2.0
+1878.0,Ajay Sharma,slow left-arm orthodox,2,190.0,1140.0,875.0,4.605263157894737,21.0
+7129.0,Ajit Agarkar,right-arm fast,2,1575.2,9484.0,8021.0,5.092051802945657,87.0
+1660.0,Ajit de Silva,slow left-arm orthodox,2,50.5,305.0,262.0,5.188118811881188,2.0
+2154.0,Ajith Weerakkody,right-arm fast-medium,1,6.0,36.0,41.0,6.833333333333333,1.0
+47848.0,Ajmal Shahzad,right-arm fast-medium,2,97.6,588.0,490.0,5.020491803278689,6.0
+10411.0,Akalanka Ganegama,right-arm fast-medium,2,11.0,66.0,88.0,8.0,2.0
+66259.0,Akeal Hosein,slow left-arm orthodox,2,348.2,2090.0,1687.0,4.844916714531879,19.0
+103879.0,Akeem Jordan,right-arm fast-medium,2,11.0,66.0,56.0,5.090909090909091,0.0
+72629.0,Akif Raja,right-arm medium-fast,2,38.0,228.0,160.0,4.2105263157894735,1.0
+68065.0,Akila Dananjaya,right-arm offbreak,2,332.3,1995.0,1715.0,5.160999097201324,24.0
+1903.0,Akram Khan,right-arm medium,2,19.3,117.0,138.0,7.150259067357513,42.0
+1941.0,Akram Raza,right-arm offbreak,2,433.3,2601.0,1611.0,3.71797830602354,11.0
+65060.0,Al-Amin Hossain,right-arm medium-fast,2,109.9,663.0,608.0,5.532302092811647,2.0
+1207.0,Alan Connolly,right-arm fast-medium,1,8.0,64.0,62.0,7.75,0.0
+3970.0,Alan Dawson,right-arm medium-fast,2,150.1,901.0,715.0,4.763491005996003,3.0
+1424.0,Alan Hurst,right-arm fast,2,58.2,402.0,203.0,3.4879725085910653,0.0
+1930.0,Alan Igglesden,right-arm fast-medium,2,28.0,168.0,122.0,4.357142857142857,2.0
+2360.0,Alan Mullally,left-arm fast-medium,2,449.5,2699.0,1728.0,3.844271412680756,15.0
+1363.0,Alan Thomson,right-arm fast-medium,1,8.0,64.0,22.0,2.75,0.0
+59616.0,Alasdair Evans,right-arm medium-fast,2,320.0,1928.0,1679.0,5.246875,11.0
+62677.0,Albert van der Merwe,right-arm offbreak,2,72.0,432.0,323.0,4.486111111111111,4.0
+9505.0,Albie Morkel,right-arm medium-fast,2,344.5,2073.0,1899.0,5.51233671988389,33.0
+65883.0,Alei Nao,right-arm medium,2,191.2,1148.0,972.0,5.083682008368201,10.0
+51559.0,Alex Cusack,right-arm medium-fast,2,323.7,1953.0,1510.0,4.664813098548039,33.0
+10179.0,Alex Loudon,right-arm offbreak,1,6.0,36.0,36.0,6.0,1.0
+7289.0,Alex Tait,right-arm medium,2,20.0,120.0,88.0,4.4,3.0
+7003.0,Alex Tudor,right-arm fast,2,21.1,127.0,136.0,6.4454976303317535,1.0
+4729.0,Alex Wharf,right-arm medium-fast,2,96.8,584.0,428.0,4.421487603305785,2.0
+5443.0,Alexander French,right-arm offbreak,1,12.0,72.0,67.0,5.583333333333333,2.0
+48654.0,Alexei Kervezee,right-arm medium,1,4.0,24.0,34.0,8.5,33.0
+35641.0,Alfred Luseno,right-arm medium,2,55.0,330.0,316.0,5.745454545454545,2.0
+19108.0,Ali Asad,right-arm fast-medium,1,20.0,120.0,73.0,3.65,1.0
+2357.0,Ali Brown,right-arm offbreak,1,1.0,6.0,5.0,5.0,16.0
+85811.0,Ali Khan,right-arm fast-medium,2,112.5,681.0,542.0,4.817777777777778,6.0
+107318.0,Ali Naseer,right-arm medium,2,70.2,422.0,396.0,5.6410256410256405,8.0
+2054.0,Ali Shah,right-arm medium,2,179.3,1077.0,812.0,4.5287228109314,26.0
+96368.0,Alick Athanaze,right-arm offbreak,1,1.0,6.0,7.0,7.0,10.0
+2045.0,Alistair Campbell,right-arm offbreak,2,84.5,509.0,434.0,5.136094674556213,170.0
+1572.0,Allan Border,slow left-arm orthodox,2,442.3,2661.0,2071.0,4.682342301605245,213.0
+2011.0,Allan Donald,right-arm fast,2,1422.9,8561.0,5926.0,4.164733993956005,22.0
+1679.0,Allan Lamb,right-arm medium,1,1.0,6.0,3.0,3.0,102.0
+35501.0,Alok Kapali,legbreak,2,240.8,1452.0,1255.0,5.211794019933555,63.0
+1389.0,Alvin Kallicharran,right-arm offbreak,2,17.3,105.0,64.0,3.699421965317919,24.0
+35711.0,Alviro Petersen,right-arm offbreak,1,1.0,6.0,7.0,7.0,18.0
+72397.0,Alzarri Joseph,right-arm fast,2,576.8,3464.0,3158.0,5.4750346740638,25.0
+53735.0,Aman Ali,left-arm fast-medium,1,2.0,12.0,22.0,11.0,1.0
+8999.0,Ambati Rayudu,right-arm offbreak,2,20.1,121.0,124.0,6.169154228855721,36.0
+61125.0,Amila Aponso,slow left-arm orthodox,2,69.9,423.0,377.0,5.393419170243204,3.0
+8233.0,Aminul Islam,right-arm fast-medium,1,5.0,30.0,33.0,6.6,34.0
+1898.0,Aminul Islam,right-arm offbreak,2,67.6,412.0,411.0,6.079881656804735,34.0
+59773.0,Amir Hamza,slow left-arm orthodox,2,258.0,1552.0,1016.0,3.937984496124031,7.0
+101476.0,Amir Hayat,right-arm medium,2,74.5,449.0,382.0,5.12751677852349,3.0
+7570.0,Amit Bhandari,right-arm fast-medium,1,17.4,106.0,106.0,6.0919540229885065,0.0
+12562.0,Amit Mishra,legbreak,2,318.5,1917.0,1511.0,4.744113029827315,8.0
+48412.0,Amjad Javed,right-arm medium,2,103.0,618.0,608.0,5.902912621359223,12.0
+102673.0,Ammar Khalid,right-arm medium-fast,2,33.0,198.0,146.0,4.424242424242424,0.0
+2076.0,Anderson Cummins,right-arm fast-medium,2,626.7,3767.0,2877.0,4.590713259932982,36.0
+84139.0,Anderson Phillip,right-arm fast-medium,2,32.3,195.0,207.0,6.408668730650155,1.0
+66859.0,Andile Phehlukwayo,right-arm medium-fast,2,497.5,2995.0,2889.0,5.807035175879397,33.0
+10316.0,Andre Adams,right-arm fast-medium,2,312.5,1885.0,1643.0,5.2576,24.0
+6325.0,Andre Botha,right-arm medium,2,260.0,1560.0,1134.0,4.361538461538461,34.0
+47602.0,Andre Fletcher,right-arm medium-fast,1,4.4,28.0,26.0,5.909090909090908,25.0
+49037.0,Andre McCarthy,right-arm offbreak,1,2.0,12.0,10.0,5.0,2.0
+6343.0,Andre Nel,right-arm fast-medium,2,632.5,3801.0,2935.0,4.640316205533597,10.0
+51012.0,Andre Russell,right-arm fast,2,381.0,2290.0,2229.0,5.850393700787402,38.0
+52638.0,Andrew Britton,right-arm fast,1,6.0,36.0,37.0,6.166666666666667,0.0
+45365.0,Andrew Ellis,right-arm fast-medium,2,80.0,480.0,425.0,5.3125,11.0
+4271.0,Andrew Flintoff,right-arm fast-medium,2,932.4,5624.0,4121.0,4.41977691977692,106.0
+4013.0,Andrew Hall,right-arm fast-medium,2,553.3,3341.0,2515.0,4.545454545454546,43.0
+2012.0,Andrew Hudson,right-arm medium,1,1.0,6.0,3.0,3.0,87.0
+1863.0,Andrew Jones,right-arm offbreak,2,51.0,306.0,216.0,4.235294117647059,78.0
+57195.0,Andrew Mathieson,right-arm medium,1,4.0,24.0,40.0,10.0,0.0
+5618.0,Andrew Penn,right-arm fast-medium,2,26.3,159.0,201.0,7.642585551330798,2.0
+7023.0,Andrew Strauss,left-arm medium,1,1.0,6.0,3.0,3.0,119.0
+4382.0,Andrew Symonds,right-arm medium,2,987.1,5935.0,4955.0,5.019754837402492,129.0
+62500.0,Andrew Tye,right-arm medium-fast,2,63.9,387.0,392.0,6.134585289514867,4.0
+10342.0,Andrew White,right-arm offbreak,2,143.7,869.0,688.0,4.7877522616562285,43.0
+1885.0,Andrew Zesers,right-arm medium-fast,2,15.0,90.0,74.0,4.933333333333334,0.0
+52628.0,Andy Balbirnie,right-arm offbreak,2,10.0,60.0,68.0,6.8,95.0
+4356.0,Andy Bichel,right-arm fast-medium,2,542.5,3257.0,2463.0,4.540092165898617,23.0
+8068.0,Andy Blignaut,right-arm medium-fast,2,390.0,2348.0,2063.0,5.28974358974359,33.0
+2086.0,Andy Caddick,right-arm fast-medium,2,489.3,2937.0,1965.0,4.015941140404659,20.0
+2047.0,Andy Flower,right-arm offbreak,1,5.0,30.0,23.0,4.6,192.0
+60322.0,Andy McBrine,right-arm offbreak,2,685.5,4115.0,3090.0,4.50765864332604,47.0
+46567.0,Andy McKay,left-arm fast-medium,2,153.8,926.0,800.0,5.201560468140442,3.0
+1426.0,Andy Roberts,right-arm fast,2,518.7,3123.0,1771.0,3.4143049932523613,24.0
+1492.0,Andy Roberts,right-arm medium,1,7.0,56.0,30.0,4.285714285714286,24.0
+3404.0,Andy Whittall,right-arm offbreak,2,513.7,3085.0,2251.0,4.381934981506715,22.0
+47023.0,Angelo Mathews,right-arm medium,2,885.2,5324.0,4110.0,4.643018526886579,147.0
+52372.0,Angelo Perera,slow left-arm orthodox,2,6.0,36.0,33.0,5.5,4.0
+1927.0,Angus Fraser,right-arm fast-medium,2,398.0,2392.0,1412.0,3.5477386934673367,11.0
+1973.0,Anil Kumble,legbreak googly,2,2412.4,14496.0,10412.0,4.316033825236279,89.0
+2202.0,Anisur Rahman,left-arm medium-fast,1,8.0,48.0,68.0,8.5,2.0
+63651.0,Anrich Nortje,right-arm fast,2,166.6,1006.0,982.0,5.894357743097239,6.0
+1438.0,Anshuman Gaekwad,right-arm offbreak,1,8.0,48.0,39.0,4.875,13.0
+62189.0,Anshy Rath,slow left-arm orthodox,2,56.1,337.0,167.0,2.976827094474153,16.0
+58080.0,Anthony Hawkins-Kay,right-arm fast-medium,1,9.0,54.0,58.0,6.444444444444445,1.0
+46653.0,Anthony Ireland,right-arm medium,2,221.0,1326.0,1115.0,5.04524886877828,8.0
+49455.0,Anthony Martin,legbreak,2,74.0,444.0,296.0,4.0,1.0
+4540.0,Anthony McGrath,right-arm medium,2,38.0,228.0,175.0,4.605263157894737,10.0
+4357.0,Anthony Stuart,right-arm fast-medium,2,30.0,180.0,109.0,3.633333333333333,1.0
+47485.0,Anton Devcich,slow left-arm orthodox,2,54.0,324.0,291.0,5.388888888888889,11.0
+1676.0,Anura Ranasinghe,left-arm medium,2,54.0,324.0,281.0,5.203703703703703,7.0
+49125.0,Anwar Ali,right-arm medium-fast,2,153.9,927.0,944.0,6.133853151397011,11.0
+10228.0,Anwar Hossain Monir,right-arm fast-medium,1,8.0,48.0,45.0,5.625,0.0
+87469.0,Aqib Ilyas,right-arm offbreak,2,122.0,732.0,552.0,4.524590163934426,21.0
+45560.0,Arafat Sunny,slow left-arm orthodox,2,137.4,830.0,600.0,4.366812227074235,4.0
+1762.0,Aravinda de Silva,right-arm offbreak,2,856.4,5148.0,4177.0,4.87739374124241,266.0
+50468.0,Ariful Haque,right-arm medium-fast,1,3.0,18.0,17.0,5.666666666666667,0.0
+1666.0,Arjuna Ranatunga,right-arm medium,2,784.6,4710.0,3757.0,4.788427224063216,208.0
+36601.0,Arshad Ali,legbreak,1,17.0,102.0,105.0,6.176470588235294,4.0
+1867.0,Arshad Ayub,right-arm offbreak,2,294.5,1769.0,1216.0,4.129032258064516,10.0
+2124.0,Arshad Khan,right-arm offbreak,2,469.9,2823.0,1948.0,4.145562885720366,11.0
+2147.0,Arshad Laeeq,right-arm fast-medium,2,33.0,198.0,198.0,6.0,5.0
+101430.0,Arshdeep Singh,left-arm medium-fast,2,40.1,241.0,184.0,4.58852867830424,2.0
+106014.0,Aryan Dutt,right-arm offbreak,2,294.1,1769.0,1526.0,5.18871132267936,22.0
+95021.0,Aryan Lakra,slow left-arm orthodox,2,53.0,318.0,280.0,5.283018867924528,16.0
+106006.0,Asa Tribe,right-arm offbreak,2,4.0,24.0,30.0,7.5,4.0
+48835.0,Asad Ali,right-arm medium-fast,2,30.0,180.0,115.0,3.8333333333333335,2.0
+53493.0,Asad Shafiq,right-arm offbreak,2,2.0,12.0,18.0,9.0,54.0
+1789.0,Asanka Gurusinha,right-arm medium,2,263.7,1585.0,1354.0,5.134622677284794,138.0
+57410.0,Asela Gunaratne,right-arm medium-fast,2,138.6,834.0,723.0,5.216450216450217,21.0
+53809.0,Asghar Afghan,right-arm medium-fast,2,22.7,139.0,91.0,4.008810572687225,99.0
+49222.0,Ashan Priyanjan,right-arm offbreak,2,44.1,265.0,233.0,5.28344671201814,18.0
+1658.0,Ashantha de Mel,right-arm medium-fast,2,454.3,2735.0,2237.0,4.924058991855602,32.0
+89075.0,Ashen Bandara,legbreak,1,1.0,6.0,8.0,8.0,4.0
+48131.0,Ashfaq Ahmed,right-arm offbreak,2,36.7,223.0,185.0,5.040871934604905,16.0
+2112.0,Ashfaq Ahmed,right-arm fast-medium,2,17.0,102.0,84.0,4.941176470588236,16.0
+7804.0,Ashish Nehra,left-arm medium-fast,2,955.9,5751.0,4981.0,5.2107961083795376,25.0
+45575.0,Ashish Patel,right-arm medium,2,10.0,60.0,73.0,7.3,1.0
+4279.0,Ashley Giles,slow left-arm orthodox,2,476.0,2856.0,2069.0,4.3466386554621845,22.0
+1319.0,Ashley Mallett,right-arm offbreak,2,78.0,502.0,341.0,4.371794871794871,2.0
+8244.0,Ashley Noffke,right-arm fast-medium,1,9.0,54.0,46.0,5.111111111111111,0.0
+53434.0,Ashley Nurse,right-arm offbreak,2,396.4,2384.0,2125.0,5.36074672048436,26.0
+48965.0,Ashok Dinda,right-arm medium-fast,2,97.8,594.0,612.0,6.257668711656442,5.0
+1655.0,Ashok Malhotra,right-arm medium,1,1.0,6.0,0.0,0.0,15.0
+1342.0,Ashok Mankad,right-arm medium,1,5.5,35.0,47.0,8.545454545454545,1.0
+1815.0,Ashok Patel,right-arm offbreak,2,60.0,360.0,263.0,4.383333333333334,2.0
+64929.0,Ashton Agar,slow left-arm orthodox,2,183.0,1098.0,958.0,5.2349726775956285,13.0
+64758.0,Ashton Turner,right-arm offbreak,2,14.0,84.0,60.0,4.285714285714286,6.0
+4086.0,Ashwell Prince,right-arm offbreak,1,2.0,12.0,3.0,1.5,29.0
+64412.0,Asif Ali,right-arm offbreak,1,0.5,5.0,9.0,18.0,15.0
+1237.0,Asif Iqbal,right-arm medium,2,97.0,592.0,378.0,3.896907216494845,7.0
+1324.0,Asif Masood,right-arm medium-fast,2,62.0,402.0,234.0,3.774193548387097,2.0
+1849.0,Asif Mujtaba,slow left-arm orthodox,2,126.0,756.0,658.0,5.222222222222222,41.0
+7244.0,Asim Butt,left-arm medium-fast,2,37.0,222.0,148.0,4.0,4.0
+15537.0,Asim Saeed,left-arm medium,1,9.0,54.0,40.0,4.444444444444445,2.0
+78275.0,Asitha Fernando,right-arm medium-fast,2,45.0,270.0,269.0,5.977777777777778,1.0
+1784.0,Asoka de Silva,legbreak googly,2,229.0,1374.0,967.0,4.222707423580786,14.0
+47469.0,Assad Vala,right-arm offbreak,2,397.2,2388.0,1579.0,3.975327291037261,65.0
+2033.0,Ata-ur-Rehman,right-arm fast-medium,2,248.0,1492.0,1186.0,4.782258064516129,7.0
+1897.0,Athar Ali Khan,right-arm medium,2,70.0,420.0,365.0,5.214285714285714,18.0
+1916.0,Athula Samarasekera,right-arm medium,2,56.2,338.0,291.0,5.177935943060498,37.0
+1948.0,Atul Wassan,right-arm fast-medium,2,71.0,426.0,283.0,3.9859154929577465,4.0
+36507.0,Austin Codrington,right-arm medium-fast,2,50.0,300.0,265.0,5.3,8.0
+73507.0,Avesh Khan,right-arm fast-medium,2,58.8,356.0,329.0,5.595238095238096,3.0
+67455.0,Axar Patel,slow left-arm orthodox,2,433.5,2607.0,1972.0,4.549019607843137,26.0
+88971.0,Ayaan Khan,slow left-arm orthodox,2,192.0,1156.0,938.0,4.885416666666667,29.0
+1737.0,Azeem Hafeez,left-arm fast-medium,2,119.1,719.0,586.0,4.920235096557515,3.0
+11475.0,Azhar Ali,legbreak,2,43.0,258.0,260.0,6.046511627906977,50.0
+1829.0,Azhar Hossain,right-arm offbreak,2,43.5,263.0,209.0,4.804597701149425,7.0
+4173.0,Azhar Mahmood,right-arm fast-medium,2,1038.6,6242.0,4813.0,4.634122857693049,84.0
+2141.0,Azhar Saeed,slow left-arm orthodox,2,45.1,271.0,213.0,4.722838137472284,7.0
+80247.0,Azmatullah Omarzai,right-arm medium-fast,2,144.4,868.0,824.0,5.706371191135734,16.0
+66838.0,Babar Hayat,right-arm medium,1,1.0,6.0,9.0,9.0,20.0
+1887.0,Babu Meman,right-arm offbreak,1,6.5,41.0,34.0,5.230769230769231,1.0
+51212.0,Badal Singh,slow left-arm orthodox,1,10.0,60.0,70.0,7.0,1.0
+8053.0,Balaji Rao,legbreak googly,2,79.0,474.0,448.0,5.670886075949367,8.0
+1695.0,Balwinder Sandhu,right-arm medium-fast,2,185.0,1110.0,763.0,4.124324324324324,4.0
+1667.0,Bandula Warnapura,right-arm medium,2,69.0,414.0,316.0,4.579710144927536,12.0
+66726.0,Barinder Sran,left-arm medium,2,50.2,302.0,269.0,5.3585657370517925,0.0
+35756.0,Barney Rogers,right-arm offbreak,2,54.0,324.0,321.0,5.944444444444445,15.0
+2190.0,Barrington Browne,right-arm fast,2,30.0,180.0,156.0,5.2,1.0
+56835.0,Barry McCarthy,right-arm fast-medium,2,371.8,2242.0,2166.0,5.825712748789671,23.0
+5608.0,Barry Seebaran,slow left-arm orthodox,2,18.0,108.0,130.0,7.222222222222222,1.0
+1396.0,Barry Wood,right-arm medium,2,68.0,420.0,224.0,3.294117647058824,10.0
+93293.0,Bas de Leede,right-arm fast-medium,2,218.2,1314.0,1362.0,6.241979835013749,39.0
+24689.0,Basant Regmi,slow left-arm orthodox,2,29.0,174.0,117.0,4.0344827586206895,4.0
+1283.0,Basil D'Oliveira,right-arm medium,2,32.0,204.0,140.0,4.375,3.0
+106969.0,Basil Hameed,right-arm offbreak,2,188.0,1132.0,754.0,4.01063829787234,36.0
+110886.0,Basir Ahamad,slow left-arm orthodox,1,18.3,111.0,71.0,3.879781420765027,2.0
+2082.0,Basit Ali,right-arm offbreak,1,5.0,30.0,21.0,4.2,37.0
+9266.0,Bazid Khan,right-arm offbreak,1,2.0,12.0,11.0,5.5,5.0
+49028.0,Ben Cutting,right-arm fast-medium,2,36.0,216.0,158.0,4.388888888888889,2.0
+44865.0,Ben Hilfenhaus,right-arm fast-medium,2,201.2,1216.0,1075.0,5.342942345924453,3.0
+5635.0,Ben Hollioake,right-arm fast-medium,2,107.0,642.0,532.0,4.97196261682243,15.0
+53439.0,Ben Laughlin,right-arm fast-medium,2,37.2,224.0,219.0,5.887096774193548,0.0
+101396.0,Ben Lister,left-arm fast-medium,1,26.0,156.0,158.0,6.076923076923077,1.0
+95279.0,Ben Shikongo,right-arm medium-fast,2,87.0,522.0,540.0,6.206896551724138,2.0
+58081.0,Ben Stevens,slow left-arm orthodox,1,3.0,18.0,28.0,9.333333333333334,1.0
+53320.0,Ben Stokes,right-arm fast-medium,2,517.8,3110.0,3137.0,6.058323677095404,84.0
+61846.0,Ben Wheeler,left-arm medium-fast,2,51.3,309.0,315.0,6.140350877192983,0.0
+85967.0,Ben White,legbreak,1,18.0,108.0,118.0,6.555555555555555,0.0
+99277.0,Benjamin Ward,legbreak,2,40.1,241.0,221.0,5.511221945137157,4.0
+60104.0,Berend Westdijk,right-arm medium,2,26.0,156.0,195.0,7.5,2.0
+1416.0,Bernard Julien,left-arm medium-fast,2,127.0,778.0,463.0,3.645669291338583,6.0
+62789.0,Bernard Loots,right-arm medium,2,46.4,280.0,287.0,6.185344827586207,3.0
+54563.0,Bernard Scholtz,slow left-arm orthodox,2,383.7,2309.0,1281.0,3.338545738858483,14.0
+58511.0,Beuran Hendricks,left-arm fast-medium,2,64.2,386.0,346.0,5.389408099688473,3.0
+1251.0,Bevan Congdon,right-arm medium,2,64.3,437.0,287.0,4.463452566096423,6.0
+1219.0,Bhagwath Chandrasekhar,legbreak,1,7.0,56.0,36.0,5.142857142857143,0.0
+1856.0,Bharat Arun,right-arm medium,2,17.0,102.0,103.0,6.0588235294117645,2.0
+95872.0,Bhim Sharki,right-arm offbreak,1,1.0,6.0,8.0,8.0,19.0
+2139.0,Bhupinder Singh,right-arm fast-medium,1,17.0,102.0,78.0,4.588235294117647,1.0
+54282.0,Bhuvneshwar Kumar,right-arm medium,2,972.3,5847.0,4951.0,5.092049778874833,39.0
+87079.0,Bikram Sob,right-arm fast-medium,2,21.1,127.0,115.0,5.450236966824644,3.0
+64616.0,Bilal Asif,right-arm offbreak,1,22.0,132.0,96.0,4.363636363636363,3.0
+87127.0,Bilal Khan,left-arm medium-fast,2,388.6,2346.0,1969.0,5.06690684508492,8.0
+56563.0,Bilawal Bhatti,right-arm medium-fast,2,68.1,409.0,439.0,6.446402349486051,6.0
+1629.0,Bill Athey,right-arm offbreak,1,1.0,6.0,10.0,10.0,27.0
+66371.0,Billy Stanlake,right-arm fast,2,59.0,354.0,324.0,5.491525423728813,3.0
+4117.0,Billy Stelling,right-arm fast-medium,2,116.3,699.0,567.0,4.875322441960448,6.0
+70894.0,Binura Fernando,left-arm medium-fast,1,24.8,152.0,136.0,5.483870967741935,3.0
+1290.0,Bishan Bedi,slow left-arm orthodox,2,96.0,590.0,340.0,3.5416666666666665,5.0
+67364.0,Bjorn Fortuin,slow left-arm orthodox,2,31.0,186.0,175.0,5.645161290322581,2.0
+5519.0,Bjorn Kotze,right-arm fast-medium,1,43.0,258.0,276.0,6.418604651162791,3.0
+81257.0,Blair Tickner,right-arm medium-fast,2,103.5,623.0,679.0,6.560386473429952,2.0
+35751.0,Blessing Mahwire,right-arm fast-medium,2,146.9,885.0,775.0,5.275697753573859,11.0
+80845.0,Blessing Muzarabani,right-arm fast-medium,2,384.4,2312.0,1962.0,5.104058272632675,23.0
+1768.0,Bob Holland,legbreak googly,2,21.0,126.0,99.0,4.714285714285714,0.0
+1395.0,Bob Massie,right-arm medium-fast,2,30.3,183.0,129.0,4.257425742574258,0.0
+1060.0,Bob Simpson,legbreak googly,1,17.0,102.0,95.0,5.588235294117647,2.0
+1366.0,Bob Willis,right-arm fast,2,589.3,3595.0,1968.0,3.3395554047174616,8.0
+1449.0,Bob Woolmer,right-arm medium,2,53.3,321.0,260.0,4.878048780487805,4.0
+47056.0,Boyd Rankin,right-arm fast-medium,2,616.2,3702.0,2955.0,4.7955209347614405,13.0
+73599.0,Brad Evans,right-arm fast,2,86.4,524.0,521.0,6.030092592592593,10.0
+6253.0,Brad Hodge,right-arm offbreak,2,11.0,66.0,51.0,4.636363636363637,19.0
+3328.0,Brad Hogg,left-arm wrist-spin,2,924.4,5564.0,4188.0,4.530506274340112,39.0
+79841.0,Brad Wheal,right-arm fast-medium,2,122.9,741.0,559.0,4.548413344182261,5.0
+6290.0,Brad Williams,right-arm fast,2,199.9,1203.0,814.0,4.072036018009005,2.0
+5659.0,Brad Young,slow left-arm orthodox,2,39.0,234.0,251.0,6.435897435897436,2.0
+91689.0,Bradley Currie,left-arm fast-medium,2,25.0,150.0,80.0,3.2,0.0
+52205.0,Bradley Kruger,right-arm fast-medium,2,30.4,184.0,131.0,4.309210526315789,3.0
+69468.0,Brandon Glover,right-arm fast,2,73.0,438.0,444.0,6.082191780821918,2.0
+79663.0,Brandon Mavuta,legbreak,2,66.0,396.0,349.0,5.287878787878788,6.0
+88557.0,Brandon McMullen,right-arm medium,2,113.0,678.0,479.0,4.238938053097345,14.0
+12012.0,Brendan Nash,left-arm medium,2,49.0,294.0,224.0,4.571428571428571,4.0
+45253.0,Brendan Taylor,right-arm offbreak,2,66.0,396.0,406.0,6.151515151515151,188.0
+1565.0,Brendon Bracewell,right-arm medium,1,11.0,66.0,41.0,3.727272727272727,0.0
+47683.0,Brendon Diamanti,right-arm medium-fast,1,2.0,12.0,25.0,12.5,0.0
+2087.0,Brendon Julian,left-arm fast-medium,2,191.0,1146.0,997.0,5.219895287958115,17.0
+47704.0,Brett Dorey,right-arm fast-medium,2,27.0,162.0,146.0,5.407407407407407,1.0
+12402.0,Brett Geeves,right-arm fast-medium,2,15.0,90.0,78.0,5.2,0.0
+5966.0,Brett Lee,right-arm fast,2,1859.3,11185.0,8877.0,4.774377453880493,66.0
+2063.0,Brett Schultz,left-arm fast,1,9.0,54.0,35.0,3.888888888888889,0.0
+858.0,Brian Close,right-arm medium,1,3.0,18.0,21.0,7.0,3.0
+1982.0,Brian Lara,legbreak googly,1,8.1,49.0,61.0,7.530864197530865,260.0
+1459.0,Brian McKechnie,right-arm fast-medium,2,132.8,818.0,495.0,3.727409638554216,4.0
+2061.0,Brian McMillan,right-arm medium-fast,2,603.5,3623.0,2589.0,4.289975144987572,36.0
+10544.0,Brian Murphy,legbreak googly,2,237.0,1422.0,1130.0,4.767932489451477,9.0
+49266.0,Brian Vitori,left-arm fast-medium,2,198.1,1193.0,1149.0,5.80010095911156,11.0
+2290.0,Brijal Patel,slow left-arm orthodox,2,27.3,165.0,163.0,5.970695970695971,22.0
+7597.0,Brooke Walker,legbreak,2,73.0,438.0,417.0,5.712328767123288,3.0
+1715.0,Bruce Blair,right-arm medium,1,5.0,30.0,34.0,6.8,12.0
+1566.0,Bruce Edgar,right-arm bowler,1,2.0,12.0,5.0,2.5,59.0
+1794.0,Bruce Reid,left-arm fast-medium,2,540.2,3250.0,2203.0,4.078119215105517,13.0
+1265.0,Bruce Taylor,right-arm fast-medium,2,18.6,114.0,62.0,3.333333333333333,1.0
+1548.0,Bruce Yardley,right-arm offbreak,2,33.0,198.0,130.0,3.939393939393939,4.0
+2183.0,Bryan Strang,left-arm medium,2,415.0,2494.0,1718.0,4.139759036144579,18.0
+69920.0,Brydon Carse,right-arm fast,2,97.4,586.0,582.0,5.9753593429158105,5.0
+10376.0,Burton van Rooi,right-arm medium,1,20.0,120.0,119.0,5.95,1.0
+49112.0,Calum MacLeod,right-arm medium-fast,2,161.2,968.0,836.0,5.186104218362283,79.0
+53376.0,Calvert Hooper,right-arm fast-medium,2,28.1,169.0,181.0,6.441281138790036,3.0
+2171.0,Cameron Cuffy,right-arm fast,2,358.5,2153.0,1436.0,4.00557880055788,14.0
+96335.0,Cameron Green,right-arm fast-medium,2,125.4,754.0,714.0,5.69377990430622,15.0
+88923.0,Cameron Stevenson,right-arm fast-medium,2,115.3,693.0,642.0,5.568083261058109,13.0
+12049.0,Cameron White,legbreak googly,2,54.7,331.0,351.0,6.416819012797075,61.0
+8209.0,Carl Bulfin,right-arm fast-medium,2,17.0,102.0,109.0,6.411764705882353,1.0
+1873.0,Carl Hooper,right-arm offbreak,2,1593.3,9573.0,6958.0,4.367036967300571,163.0
+72441.0,Carl Mumba,right-arm fast-medium,2,45.2,272.0,326.0,7.212389380530973,4.0
+1692.0,Carl Rackemann,right-arm fast,2,463.9,2791.0,1833.0,3.951282604009485,12.0
+7179.0,Carl Tuckett,right-arm fast-medium,1,8.0,48.0,41.0,5.125,0.0
+62457.0,Carlos Brathwaite,right-arm fast-medium,2,303.7,1825.0,1766.0,5.814948962792229,34.0
+49282.0,Cephas Zhuwao,slow left-arm orthodox,1,3.1,19.0,21.0,6.774193548387097,9.0
+68066.0,Chad Soper,right-arm medium-fast,2,434.4,2612.0,1985.0,4.569521178637201,38.0
+48520.0,Chamara Kapugedera,right-arm medium,2,44.0,264.0,225.0,5.113636363636363,77.0
+8197.0,Chamara Silva,legbreak,2,7.0,42.0,33.0,4.714285714285714,55.0
+107090.0,Chamika Gunasekara,right-arm medium-fast,1,1.0,6.0,8.0,8.0,0.0
+70580.0,Chamika Karunaratne,right-arm medium-fast,2,132.5,797.0,765.0,5.773584905660377,18.0
+35422.0,Chamila Gamage,right-arm fast-medium,2,50.0,300.0,254.0,5.08,1.0
+57565.0,Chaminda Bandara,left-arm medium-fast,1,10.0,60.0,83.0,8.3,0.0
+2166.0,Chaminda Vaas,left-arm fast-medium,2,2624.7,15775.0,11014.0,4.196289099706633,148.0
+1881.0,Champaka Ramanayake,right-arm fast-medium,2,475.6,2864.0,2049.0,4.308242220353238,21.0
+47619.0,Chamu Chibhabha,right-arm medium,2,278.7,1679.0,1631.0,5.852170792967349,107.0
+44671.0,Chanaka Welegedara,left-arm fast-medium,2,75.7,457.0,433.0,5.719947159841479,1.0
+1987.0,Chandika Hathurusinghe,right-arm medium-fast,2,159.0,954.0,709.0,4.459119496855346,32.0
+66258.0,Chandrapaul Hemraj,slow left-arm orthodox,1,1.1,7.0,9.0,8.181818181818182,6.0
+78229.0,Charith Asalanka,right-arm offbreak,2,32.4,196.0,167.0,5.154320987654321,44.0
+12398.0,Charitha Buddhika,right-arm fast-medium,2,116.4,700.0,586.0,5.034364261168385,4.0
+7540.0,Charl Langeveldt,right-arm fast-medium,2,579.3,3489.0,2962.0,5.113067495252892,11.0
+4152.0,Charl Willoughby,left-arm fast-medium,2,28.0,168.0,148.0,5.285714285714286,2.0
+55134.0,Charles Amini,legbreak,2,284.2,1706.0,1378.0,4.848698099929627,48.0
+60200.0,Charles Perchard,right-arm medium,2,45.0,270.0,208.0,4.622222222222222,1.0
+2224.0,Charlie Lock,right-arm fast-medium,2,48.1,289.0,219.0,4.5530145530145525,1.0
+89127.0,Charlton Tshuma,right-arm fast-medium,1,11.0,66.0,83.0,7.545454545454546,1.0
+56648.0,Chaturanga de Silva,slow left-arm orthodox,2,52.4,316.0,256.0,4.885496183206107,6.0
+84179.0,Chemar Holder,right-arm fast,1,3.0,18.0,26.0,8.666666666666666,0.0
+101780.0,Chetan Sakariya,left-arm medium-fast,1,8.0,48.0,34.0,4.25,0.0
+1763.0,Chetan Sharma,right-arm fast-medium,2,470.7,2835.0,2336.0,4.96282132993414,19.0
+46836.0,Chris Amini,right-arm medium,1,18.0,108.0,79.0,4.388888888888889,0.0
+1758.0,Chris Broad,right-arm medium,1,1.0,6.0,6.0,6.0,34.0
+1939.0,Chris Cairns,right-arm fast-medium,2,1357.6,8168.0,6594.0,4.85710076605775,168.0
+7057.0,Chris Drum,right-arm fast-medium,2,36.0,216.0,261.0,7.25,0.0
+7568.0,Chris Gayle,right-arm offbreak,2,1232.0,7424.0,5926.0,4.810064935064935,278.0
+81813.0,Chris Greaves,legbreak,2,106.1,641.0,576.0,5.4288407163053725,15.0
+2065.0,Chris Harris,right-arm medium,2,1775.5,10667.0,7613.0,4.287806251760068,151.0
+51421.0,Chris Jordan,right-arm fast-medium,2,276.0,1660.0,1660.0,6.0144927536231885,15.0
+1918.0,Chris Kuggeleijn,right-arm offbreak,2,136.1,817.0,604.0,4.43791329904482,9.0
+1970.0,Chris Lewis,right-arm fast-medium,2,435.7,2625.0,1942.0,4.4571953178792745,26.0
+52950.0,Chris Lonsdale,right-arm offbreak,1,2.0,12.0,19.0,9.5,1.0
+9711.0,Chris Martin,right-arm fast-medium,2,158.0,948.0,804.0,5.0886075949367084,5.0
+61832.0,Chris Morris,right-arm fast-medium,2,315.0,1894.0,1756.0,5.574603174603174,23.0
+47210.0,Chris Mpofu,right-arm fast-medium,2,658.0,3960.0,3581.0,5.442249240121581,20.0
+1403.0,Chris Old,right-arm fast-medium,2,278.5,1755.0,999.0,3.5870736086175943,18.0
+1976.0,Chris Pringle,right-arm fast-medium,2,549.8,3314.0,2459.0,4.4725354674427065,22.0
+4353.0,Chris Silverwood,right-arm fast-medium,2,51.0,306.0,244.0,4.784313725490196,4.0
+1735.0,Chris Smith,right-arm offbreak,2,6.0,36.0,28.0,4.666666666666667,4.0
+72419.0,Chris Sole,right-arm medium-fast,2,247.4,1490.0,1255.0,5.072756669361358,11.0
+1628.0,Chris Tavaré,right-arm offbreak,1,2.0,12.0,3.0,1.5,26.0
+67398.0,Chris Tremain,right-arm medium-fast,2,40.0,240.0,255.0,6.375,1.0
+10851.0,Chris Tremlett,right-arm medium-fast,2,130.0,784.0,705.0,5.423076923076923,7.0
+49496.0,Chris Woakes,right-arm fast-medium,2,953.3,5737.0,5193.0,5.4473932654987935,64.0
+59080.0,Christi Viljoen,right-arm medium,1,5.0,30.0,14.0,2.8,1.0
+93001.0,Christopher McBride,right-arm medium,2,22.0,132.0,100.0,4.545454545454546,16.0
+63447.0,Chundangapoyil Rizwan,legbreak googly,1,9.4,58.0,50.0,5.319148936170213,34.0
+4016.0,Claude Henderson,slow left-arm orthodox,2,36.1,217.0,132.0,3.6565096952908585,0.0
+106392.0,Clayton Floyd,slow left-arm orthodox,2,63.0,378.0,305.0,4.841269841269841,3.0
+1995.0,Clayton Lambert,right-arm offbreak,2,12.0,72.0,74.0,6.166666666666667,12.0
+47693.0,Clint McKay,right-arm fast-medium,2,491.7,2965.0,2364.0,4.807809640024405,21.0
+2097.0,Clive Eksteen,slow left-arm orthodox,2,37.0,222.0,181.0,4.891891891891892,0.0
+1286.0,Clive Lloyd,right-arm medium,2,58.4,358.0,210.0,3.595890410958904,50.0
+2021.0,Clive Rice,right-arm fast-medium,2,23.0,138.0,114.0,4.956521739130435,2.0
+65996.0,Cole McConchie,right-arm offbreak,2,28.0,168.0,135.0,4.821428571428571,3.0
+58464.0,Colin Ackermann,right-arm offbreak,2,91.2,548.0,451.0,4.9451754385964914,15.0
+1520.0,Colin Croft,right-arm fast,2,178.2,1070.0,620.0,3.479236812570146,2.0
+48155.0,Colin Ingram,legbreak,1,1.0,6.0,17.0,17.0,26.0
+49106.0,Colin Munro,right-arm medium-fast,2,92.0,552.0,481.0,5.228260869565218,51.0
+10458.0,Colin Stuart,right-arm fast-medium,2,43.0,258.0,205.0,4.767441860465116,0.0
+47231.0,Colin de Grandhomme,right-arm medium-fast,2,258.0,1548.0,1230.0,4.767441860465116,28.0
+21463.0,Collins Obuya,legbreak,2,301.8,1818.0,1637.0,5.424121935056329,80.0
+1498.0,Collis King,right-arm medium,2,124.0,744.0,529.0,4.266129032258065,12.0
+8143.0,Con de Lange,slow left-arm orthodox,2,91.0,546.0,371.0,4.076923076923077,6.0
+51057.0,Corey Anderson,left-arm medium-fast,2,246.5,1485.0,1502.0,6.093306288032454,40.0
+8277.0,Corey Collymore,right-arm fast-medium,2,677.4,4074.0,2924.0,4.316504281074698,18.0
+1608.0,Cornelius Henry,right-arm medium,1,15.0,90.0,53.0,3.533333333333333,1.0
+2028.0,Corrie van Zyl,right-arm fast-medium,2,18.0,108.0,93.0,5.166666666666667,1.0
+1765.0,Courtney Walsh,right-arm fast,2,1801.4,10822.0,6918.0,3.8403463972465857,46.0
+2030.0,Craig Evans,right-arm medium,2,160.4,964.0,848.0,5.286783042394015,42.0
+2064.0,Craig Matthews,right-arm fast-medium,2,499.9,3003.0,1975.0,3.9507901580316074,13.0
+1773.0,Craig McDermott,right-arm fast,2,1240.5,7461.0,5018.0,4.045143087464732,61.0
+5619.0,Craig McMillan,right-arm medium,2,309.9,1879.0,1717.0,5.540496934494999,167.0
+62701.0,Craig Overton,right-arm medium-fast,2,51.2,308.0,291.0,5.68359375,3.0
+2159.0,Craig White,right-arm fast-medium,2,392.4,2364.0,1726.0,4.398572884811418,36.0
+53463.0,Craig Williams,right-arm medium,2,48.0,288.0,224.0,4.666666666666667,16.0
+2223.0,Craig Wishart,right-arm offbreak,1,2.0,12.0,12.0,6.0,74.0
+7236.0,Craig Wright,right-arm medium,2,143.3,861.0,663.0,4.62665736217725,15.0
+57785.0,Craig Young,right-arm fast-medium,2,354.0,2132.0,1930.0,5.451977401129944,12.0
+69644.0,Curtis Campher,right-arm medium-fast,2,168.4,1012.0,999.0,5.932304038004751,27.0
+1884.0,Curtly Ambrose,right-arm fast,2,1555.7,9353.0,5429.0,3.489747380600373,60.0
+53268.0,D'Arcy Short,left-arm wrist-spin,2,15.0,90.0,114.0,7.6,7.0
+6365.0,Daan van Bunge,legbreak,2,55.1,331.0,329.0,5.970961887477314,30.0
+3940.0,Dale Benkenstein,right-arm medium,2,10.5,65.0,44.0,4.190476190476191,17.0
+47154.0,Dale Steyn,right-arm fast,2,1029.8,6202.0,5023.0,4.877646144882502,38.0
+2168.0,Damien Fleming,right-arm fast-medium,2,767.5,4619.0,3402.0,4.4325732899022805,13.0
+2066.0,Damien Martyn,right-arm medium,2,131.8,794.0,704.0,5.341426403641881,131.0
+101285.0,Damien Ravu,right-arm medium-fast,2,108.0,648.0,574.0,5.314814814814815,10.0
+45773.0,Damodar Daesrath,right-arm offbreak,1,12.0,72.0,48.0,4.0,3.0
+44853.0,Dan Christian,right-arm fast-medium,2,121.1,727.0,595.0,4.913294797687861,13.0
+46480.0,Dan Cullen,right-arm offbreak,2,35.3,213.0,147.0,4.164305949008499,0.0
+54444.0,Dane Paterson,right-arm fast-medium,2,34.5,209.0,217.0,6.2898550724637685,0.0
+99279.0,Daniel Birrell,right-arm fast-medium,1,10.0,60.0,54.0,5.4,1.0
+47488.0,Daniel Flynn,left-arm slow,2,4.0,24.0,25.0,6.25,15.0
+4380.0,Daniel Vettori,slow left-arm orthodox,2,2340.8,14060.0,9674.0,4.132775119617224,130.0
+67526.0,Daniel Worrall,right-arm fast-medium,2,26.2,158.0,171.0,6.526717557251908,0.0
+79125.0,Danish Aziz,slow left-arm orthodox,1,5.0,30.0,27.0,5.4,2.0
+10398.0,Danish Kaneria,legbreak,2,142.2,854.0,683.0,4.80309423347398,2.0
+53296.0,Danny Briggs,slow left-arm orthodox,1,10.0,60.0,39.0,3.9,0.0
+1870.0,Danny Morrison,right-arm fast-medium,2,762.6,4586.0,3470.0,4.550222921584054,19.0
+56646.0,Danushka Gunathilaka,right-arm offbreak,2,67.0,402.0,371.0,5.537313432835821,45.0
+7406.0,Daren Ganga,right-arm offbreak,1,0.1,1.0,4.0,40.0,33.0
+17837.0,Daren Powell,right-arm fast-medium,2,475.0,2850.0,2239.0,4.713684210526316,22.0
+44829.0,Daren Sammy,right-arm medium,2,824.8,4956.0,3851.0,4.669010669253153,75.0
+101504.0,Darius D'Silva,right-arm medium,2,31.0,186.0,118.0,3.806451612903226,4.0
+12574.0,Darrel Brown,right-arm medium,2,25.0,150.0,124.0,4.96,1.0
+2160.0,Darren Gough,right-arm fast-medium,2,1409.0,8470.0,6209.0,4.40667139815472,49.0
+3329.0,Darren Lehmann,slow left-arm orthodox,2,297.3,1793.0,1445.0,4.860410359905819,80.0
+10323.0,Darron Reekers,right-arm medium,2,85.0,510.0,436.0,5.129411764705883,19.0
+58772.0,Daryl Mitchell,right-arm medium,2,48.3,291.0,275.0,5.693581780538302,30.0
+9631.0,Daryl Tuffey,right-arm fast-medium,2,720.9,4333.0,3534.0,4.90220557636288,31.0
+2069.0,Daryll Cullinan,right-arm offbreak,2,29.0,174.0,124.0,4.275862068965517,118.0
+64858.0,Daryn Dupavillon,right-arm fast,1,11.0,66.0,51.0,4.636363636363637,1.0
+61690.0,Dasun Shanaka,right-arm medium,2,175.6,1056.0,999.0,5.689066059225513,58.0
+2123.0,Dave Callaghan,right-arm medium,2,74.0,444.0,365.0,4.9324324324324325,19.0
+1782.0,Dave Gilbert,right-arm fast-medium,2,114.0,684.0,552.0,4.842105263157895,5.0
+2049.0,Dave Houghton,right-arm offbreak,1,2.0,12.0,19.0,9.5,58.0
+49423.0,Dave Langford-Smith,right-arm fast-medium,2,157.0,942.0,797.0,5.076433121019108,9.0
+34585.0,Dave Mohammed,left-arm wrist-spin,2,58.5,353.0,235.0,4.017094017094017,0.0
+2133.0,Dave Rundle,right-arm offbreak,1,16.0,96.0,95.0,5.9375,2.0
+17839.0,David Bernard,right-arm medium-fast,2,104.0,624.0,526.0,5.057692307692308,10.0
+1767.0,David Boon,right-arm offbreak,1,13.4,82.0,86.0,6.4179104477611935,161.0
+2055.0,David Brain,left-arm fast-medium,2,181.5,1091.0,849.0,4.677685950413223,14.0
+1866.0,David Capel,right-arm medium-fast,2,173.0,1038.0,805.0,4.6531791907514455,17.0
+1391.0,David Colley,right-arm fast-medium,1,11.0,66.0,72.0,6.545454545454546,0.0
+1564.0,David Gower,right-arm offbreak,1,0.5,5.0,14.0,28.0,103.0
+2338.0,David Hemp,right-arm medium,2,19.0,114.0,119.0,6.2631578947368425,19.0
+11984.0,David Hussey,right-arm offbreak,2,133.0,802.0,698.0,5.24812030075188,55.0
+1912.0,David Lawrence,right-arm fast,1,11.0,66.0,67.0,6.090909090909091,0.0
+1430.0,David Lloyd,slow left-arm orthodox,1,2.0,12.0,3.0,1.5,7.0
+6303.0,David Mutendera,right-arm fast-medium,2,64.6,390.0,334.0,5.170278637770898,2.0
+1410.0,David O'Sullivan,slow left-arm orthodox,2,21.0,168.0,123.0,5.857142857142857,1.0
+57641.0,David Payne,left-arm fast-medium,1,9.0,54.0,38.0,4.222222222222222,0.0
+1448.0,David Steele,slow left-arm orthodox,1,1.0,6.0,9.0,9.0,1.0
+7545.0,David Terbrugge,right-arm fast-medium,2,21.0,126.0,105.0,5.0,1.0
+2273.0,David Tikolo,right-arm medium,2,8.0,48.0,55.0,6.875,0.0
+48739.0,David Warner,legbreak,1,1.0,6.0,8.0,8.0,154.0
+48777.0,David Wiese,right-arm medium-fast,2,122.5,737.0,686.0,5.6,13.0
+53121.0,David Willey,left-arm fast-medium,2,537.0,3230.0,2975.0,5.540037243947858,27.0
+5601.0,Davis Joseph,right-arm medium-fast,2,31.0,186.0,170.0,5.483870967741935,0.0
+49309.0,Dawid Malan,legbreak,1,1.9,15.0,17.0,8.947368421052632,26.0
+46890.0,Dawlat Ahmadzai,right-arm fast-medium,2,18.4,112.0,121.0,6.576086956521739,0.0
+65399.0,Dawlat Zadran,right-arm fast-medium,2,625.7,3769.0,3423.0,5.470672846412018,29.0
+1336.0,Dayle Hadlee,right-arm medium-fast,2,90.0,628.0,364.0,4.044444444444444,5.0
+49044.0,Dean Elgar,slow left-arm orthodox,2,16.0,96.0,67.0,4.1875,6.0
+3403.0,Dean Headley,right-arm fast-medium,2,99.0,594.0,520.0,5.252525252525253,2.0
+1754.0,Dean Jones,right-arm offbreak,1,17.0,106.0,81.0,4.764705882352941,136.0
+6234.0,Debasis Mohanty,right-arm medium,2,332.4,1996.0,1662.0,5.0,5.0
+62022.0,Deepak Chahar,right-arm medium,2,85.0,510.0,489.0,5.752941176470588,6.0
+64479.0,Deepak Hooda,right-arm offbreak,2,25.0,150.0,119.0,4.76,6.0
+21239.0,Deighton Butler,left-arm fast-medium,2,41.0,246.0,188.0,4.585365853658536,1.0
+47976.0,Delyone Borden,right-arm offbreak,2,68.3,411.0,392.0,5.739385065885799,7.0
+1369.0,Dennis Lillee,right-arm fast,2,595.3,3593.0,2145.0,3.603225264572485,26.0
+5520.0,Deon Kotze,right-arm offbreak,1,47.0,282.0,256.0,5.446808510638298,5.0
+2189.0,Derek Crookes,right-arm offbreak,2,202.9,1221.0,1011.0,4.982750123213405,20.0
+1681.0,Derek Pringle,right-arm medium,2,395.9,2379.0,1677.0,4.235918161151806,18.0
+1516.0,Derek Randall,right-arm medium,1,0.2,2.0,2.0,10.0,40.0
+1766.0,Derek Stirling,right-arm fast-medium,2,41.0,246.0,207.0,5.048780487804878,3.0
+1284.0,Derek Underwood,slow left-arm orthodox,2,211.0,1278.0,734.0,3.4786729857819907,9.0
+1555.0,Derick Parry,right-arm offbreak,2,55.0,330.0,259.0,4.709090909090909,4.0
+2002.0,Dermot Reeve,right-arm medium,2,190.3,1147.0,820.0,4.308985811875985,12.0
+108571.0,Dev Khanal,right-arm offbreak,1,3.0,18.0,20.0,6.666666666666667,12.0
+56471.0,Devendra Bishoo,legbreak,2,336.6,2022.0,1668.0,4.955436720142602,15.0
+1929.0,Devon Malcolm,right-arm fast,2,87.4,526.0,404.0,4.622425629290618,3.0
+10494.0,Devon Smith,right-arm offbreak,1,2.5,17.0,17.0,6.8,43.0
+49521.0,Devon Thomas,right-arm medium,1,1.1,7.0,11.0,10.0,17.0
+47873.0,Dewald Nel,right-arm medium-fast,2,120.6,730.0,649.0,5.381426202321725,2.0
+35946.0,Dhammika Prasad,right-arm fast-medium,2,169.1,1015.0,976.0,5.771732702542875,6.0
+78805.0,Dhananjaya Lakshan,right-arm medium-fast,2,11.0,66.0,76.0,6.909090909090909,2.0
+62760.0,Dhananjaya de Silva,right-arm offbreak,2,374.6,2250.0,1907.0,5.090763481046449,72.0
+12227.0,Dharshana Gamage,right-arm medium-fast,2,15.5,95.0,83.0,5.354838709677419,1.0
+51098.0,Dhawal Kulkarni,right-arm medium,2,99.4,598.0,508.0,5.11066398390342,0.0
+11271.0,Dilhara Fernando,right-arm fast-medium,2,1081.9,6507.0,5648.0,5.220445512524263,26.0
+12209.0,Dilhara Lokuhettige,right-arm fast-medium,2,55.0,330.0,261.0,4.745454545454545,9.0
+1588.0,Dilip Doshi,slow left-arm orthodox,2,132.0,792.0,524.0,3.9696969696969697,3.0
+1491.0,Dilip Vengsarkar,right-arm medium,1,1.0,6.0,4.0,4.0,103.0
+95122.0,Dillon Heyliger,right-arm medium,2,69.0,414.0,336.0,4.869565217391305,4.0
+108046.0,Dilpreet Bajwa,right-arm offbreak,1,3.0,18.0,14.0,4.666666666666667,1.0
+12244.0,Dilruwan Perera,right-arm offbreak,2,76.0,456.0,409.0,5.381578947368421,12.0
+79067.0,Dilshan Madushanka,left-arm fast-medium,2,172.2,1038.0,1020.0,5.923344947735192,3.0
+6769.0,Dimitri Mascarenhas,right-arm fast-medium,2,137.0,822.0,634.0,4.627737226277373,11.0
+48988.0,Dimuth Karunaratne,right-arm medium,2,2.4,16.0,18.0,7.5,42.0
+5638.0,Dinanath Ramnarine,legbreak googly,2,33.2,200.0,164.0,4.939759036144578,3.0
+7730.0,Dinesh Mongia,slow left-arm orthodox,2,106.4,640.0,571.0,5.366541353383458,44.0
+12075.0,Dinusha Fernando,right-arm fast-medium,1,7.0,42.0,13.0,1.8571428571428568,0.0
+10631.0,Dion Ebrahim,right-arm medium,1,0.5,5.0,11.0,22.0,70.0
+88175.0,Dion Myers,right-arm medium,1,2.0,12.0,13.0,6.5,5.0
+2056.0,Dion Nash,right-arm fast-medium,2,568.0,3416.0,2622.0,4.616197183098592,40.0
+1861.0,Dipak Patel,right-arm offbreak,2,541.5,3251.0,2261.0,4.175438596491228,53.0
+79281.0,Dipendra Singh Airee,right-arm medium,2,323.8,1946.0,1269.0,3.919085855466337,47.0
+47695.0,Dirk Nannes,left-arm fast,1,7.0,42.0,20.0,2.857142857142857,1.0
+5613.0,Dirk Viljoen,slow left-arm orthodox,2,345.5,2075.0,1639.0,4.743849493487699,36.0
+104954.0,Divan la Cock,legbreak,1,2.0,12.0,9.0,4.5,15.0
+4354.0,Dodda Ganesh,right-arm medium,1,5.0,30.0,20.0,4.0,1.0
+48386.0,Dolar Mahmud,right-arm fast-medium,2,34.6,210.0,258.0,7.456647398843931,4.0
+63159.0,Dominic Blampied,legbreak,2,13.0,78.0,77.0,5.923076923076923,2.0
+2214.0,Dominic Cork,right-arm fast-medium,2,294.4,1772.0,1368.0,4.646739130434783,18.0
+83883.0,Dominic Drakes,left-arm medium-fast,2,19.0,114.0,73.0,3.842105263157895,2.0
+53417.0,Dominic Wesonga,right-arm fast-medium,1,7.0,42.0,28.0,4.0,3.0
+1808.0,Don Anurasiri,slow left-arm orthodox,2,350.0,2100.0,1464.0,4.182857142857143,6.0
+5603.0,Don Maxwell,right-arm fast-medium,2,12.0,72.0,70.0,5.833333333333333,6.0
+59384.0,Donald Tiripano,right-arm fast-medium,2,250.8,1508.0,1456.0,5.805422647527911,21.0
+36616.0,Donovan Blake,right-arm medium-fast,1,1.0,6.0,7.0,7.0,1.0
+45487.0,Doug Bollinger,left-arm fast-medium,2,323.0,1942.0,1482.0,4.588235294117647,6.0
+57609.0,Doug Bracewell,right-arm fast-medium,2,169.2,1016.0,845.0,4.994089834515367,12.0
+1277.0,Doug Walters,right-arm medium,2,49.0,314.0,273.0,5.571428571428571,18.0
+4228.0,Dougie Brown,right-arm fast-medium,2,158.5,953.0,919.0,5.798107255520505,18.0
+6302.0,Dougie Marillier,right-arm offbreak,2,262.2,1574.0,1235.0,4.710144927536232,37.0
+10550.0,Douglas Hondo,right-arm fast-medium,2,396.1,2381.0,2171.0,5.480939156778591,17.0
+63992.0,Duanne Olivier,right-arm fast-medium,2,19.0,114.0,124.0,6.526315789473684,0.0
+2040.0,Dulip Liyanage,right-arm fast-medium,2,107.0,642.0,510.0,4.766355140186916,9.0
+63259.0,Duncan Allan,right-arm medium-fast,2,18.4,112.0,80.0,4.347826086956522,5.0
+1723.0,Duncan Fletcher,right-arm fast-medium,2,50.1,301.0,221.0,4.411177644710579,4.0
+102835.0,Dunith Wellalage,slow left-arm orthodox,2,148.2,890.0,793.0,5.350877192982456,13.0
+47429.0,Durand Soraine,right-arm medium,1,18.5,113.0,94.0,5.081081081081081,4.0
+75337.0,Dushan Hemantha,legbreak,2,35.0,210.0,193.0,5.514285714285714,2.0
+67342.0,Dushmantha Chameera,right-arm fast,2,359.2,2160.0,1970.0,5.484409799554566,23.0
+54430.0,Dwaine Pretorius,right-arm medium-fast,2,190.4,1144.0,947.0,4.973739495798319,12.0
+45257.0,Dwayne Bravo,right-arm medium,2,1081.5,6511.0,5874.0,5.431345353675451,117.0
+36506.0,Dwayne Leverock,slow left-arm orthodox,2,280.0,1684.0,1123.0,4.010714285714286,10.0
+45554.0,Dwayne Smith,right-arm medium,2,453.8,2726.0,2285.0,5.03525782282944,84.0
+77237.0,Dylan Budge,right-arm medium,2,25.0,150.0,111.0,4.44,11.0
+86321.0,Ebadot Hossain,right-arm fast-medium,2,89.2,540.0,504.0,5.650224215246636,2.0
+45328.0,Ed Rainsford,right-arm fast-medium,2,317.5,1907.0,1401.0,4.41259842519685,10.0
+1684.0,Eddie Hemmings,right-arm offbreak,2,291.6,1752.0,1294.0,4.43758573388203,6.0
+57766.0,Eddie Richardson,right-arm medium,1,11.0,66.0,54.0,4.909090909090909,1.0
+2043.0,Eddo Brandes,right-arm fast-medium,2,469.6,2828.0,2266.0,4.825383304940375,31.0
+5694.0,Edgar Schiferli,right-arm medium-fast,2,215.4,1294.0,1008.0,4.679665738161559,16.0
+67169.0,Ehsan Adil,right-arm fast-medium,2,37.3,225.0,223.0,5.978552278820376,3.0
+45646.0,Ehsan Khan,right-arm offbreak,2,133.9,807.0,594.0,4.436146377893951,9.0
+75287.0,Ehsan Nawaz,right-arm fast-medium,2,85.3,513.0,458.0,5.369284876905041,6.0
+17861.0,Ehsanul Haque,right-arm offbreak,1,23.3,141.0,113.0,4.849785407725322,6.0
+21275.0,Eion Katchay,right-arm fast-medium,2,29.0,174.0,143.0,4.931034482758621,2.0
+1346.0,Eknath Solkar,left-arm medium,2,38.0,252.0,169.0,4.447368421052632,6.0
+1741.0,Eldine Baptiste,right-arm fast-medium,2,369.0,2214.0,1511.0,4.094850948509485,12.0
+47283.0,Elias Sunny,slow left-arm orthodox,1,34.0,204.0,161.0,4.735294117647059,2.0
+51531.0,Elijah Otieno,right-arm medium-fast,2,158.6,954.0,927.0,5.844892812105927,10.0
+66030.0,Elliot Miles,slow left-arm orthodox,2,29.0,174.0,165.0,5.689655172413793,1.0
+67361.0,Elmore Hutchinson,left-arm fast-medium,2,52.0,312.0,226.0,4.346153846153846,6.0
+45252.0,Elton Chigumbura,right-arm fast-medium,2,721.1,4339.0,4274.0,5.92705588683955,172.0
+63485.0,Emmanuel Bundi,right-arm medium-fast,1,10.0,60.0,28.0,2.8,0.0
+1964.0,Enamul Haque,slow left-arm orthodox,2,206.2,1238.0,1083.0,5.252182347235694,21.0
+45068.0,Enamul Haque jnr,slow left-arm orthodox,2,96.0,576.0,422.0,4.395833333333333,4.0
+2261.0,Eric Gouka,right-arm medium,2,3.4,22.0,51.0,15.0,1.0
+2136.0,Eric Simons,right-arm fast-medium,2,200.8,1212.0,810.0,4.033864541832669,14.0
+2208.0,Eric Upashantha,right-arm fast-medium,2,94.0,564.0,481.0,5.117021276595745,7.0
+1734.0,Evan Gray,slow left-arm orthodox,2,63.8,386.0,286.0,4.482758620689656,6.0
+4181.0,Everton Matambanadzo,right-arm medium-fast,2,49.3,297.0,217.0,4.401622718052739,2.0
+1443.0,Ewen Chatfield,right-arm medium-fast,2,1009.3,6065.0,3618.0,3.584662637471515,11.0
+18985.0,Ewen Thompson,left-arm fast-medium,1,4.0,24.0,42.0,10.5,0.0
+1954.0,Ezra Moseley,right-arm fast-medium,2,55.0,330.0,278.0,5.054545454545455,4.0
+72385.0,Fabian Allen,slow left-arm orthodox,2,111.0,666.0,627.0,5.648648648648648,13.0
+46933.0,Faf du Plessis,legbreak,2,32.0,192.0,189.0,5.90625,117.0
+48749.0,Fahad Alhashmi,right-arm fast-medium,2,37.2,224.0,202.0,5.43010752688172,3.0
+72679.0,Faheem Ashraf,right-arm medium,2,231.8,1394.0,1204.0,5.194132873166523,21.0
+15302.0,Fahim Muntasir,right-arm offbreak,2,28.1,169.0,111.0,3.950177935943061,2.0
+35512.0,Faisal Hossain,slow left-arm orthodox,2,12.1,73.0,53.0,4.380165289256198,4.0
+7160.0,Faisal Iqbal,right-arm offbreak,2,3.0,18.0,33.0,11.0,14.0
+65101.0,Fakhar Zaman,slow left-arm orthodox,2,21.9,135.0,111.0,5.068493150684932,75.0
+2114.0,Fanie de Villiers,right-arm fast-medium,2,734.6,4422.0,2636.0,3.5883473999455484,21.0
+101290.0,Faraz Akram,right-arm medium,2,20.0,120.0,101.0,5.05,1.0
+67750.0,Fareed Ahmad,left-arm fast-medium,2,115.0,690.0,649.0,5.643478260869565,3.0
+48148.0,Farhaan Behardien,right-arm fast-medium,2,124.4,748.0,719.0,5.779742765273312,35.0
+48384.0,Farhad Reza,right-arm fast-medium,2,189.5,1139.0,1017.0,5.366754617414248,25.0
+11374.0,Farveez Maharoof,right-arm fast-medium,2,771.6,4640.0,3789.0,4.910575427682737,57.0
+49401.0,Fawad Ahmed,legbreak googly,1,24.0,144.0,145.0,6.041666666666667,0.0
+47099.0,Fawad Alam,slow left-arm orthodox,2,66.2,398.0,377.0,5.694864048338368,24.0
+36090.0,Fayyaz Ahmed,slow left-arm orthodox,2,27.0,162.0,121.0,4.481481481481482,1.0
+61627.0,Fayyaz Butt,right-arm medium-fast,2,167.3,1005.0,988.0,5.905558876270173,8.0
+90231.0,Fazalhaq Farooqi,left-arm fast-medium,2,235.4,1422.0,1368.0,5.8113848768054375,5.0
+5650.0,Fazl-e-Akbar,right-arm fast-medium,1,12.0,72.0,48.0,4.0,1.0
+47408.0,Fazle Mahmud,slow left-arm orthodox,1,3.0,18.0,16.0,5.333333333333333,2.0
+5674.0,Feiko Kloppenburg,right-arm medium,2,40.2,242.0,191.0,4.751243781094527,6.0
+45774.0,Fidel Edwards,right-arm fast,2,355.4,2138.0,1812.0,5.09848058525605,8.0
+2254.0,Flavian Aponso,right-arm offbreak,2,40.2,242.0,257.0,6.393034825870647,4.0
+2274.0,Floris Jansen,right-arm medium,2,9.0,54.0,62.0,6.888888888888889,0.0
+8208.0,Francis Otieno,right-arm medium,1,1.0,6.0,2.0,2.0,4.0
+5331.0,Franklyn Rose,right-arm fast,2,221.0,1326.0,1046.0,4.733031674208145,18.0
+1462.0,Frasat Ali,right-arm medium,2,24.0,144.0,107.0,4.458333333333333,3.0
+97878.0,Fred Klaassen,left-arm fast-medium,2,174.3,1047.0,753.0,4.320137693631669,8.0
+1021.0,Fred Titmus,right-arm offbreak,1,7.0,56.0,53.0,7.571428571428571,1.0
+49032.0,Gajanand Singh,right-arm offbreak,2,18.5,113.0,95.0,5.135135135135135,27.0
+6981.0,Gareth Batty,right-arm offbreak,2,73.2,440.0,366.0,5.0,6.0
+97447.0,Gareth Delany,legbreak googly,2,65.0,390.0,410.0,6.307692307692308,13.0
+9429.0,Garnett Kruger,right-arm medium-fast,1,23.0,138.0,139.0,6.043478260869565,1.0
+985.0,Garry Sobers,left-arm fast-medium,1,10.3,63.0,31.0,3.0097087378640777,1.0
+4177.0,Gary Brent,right-arm medium,2,563.8,3390.0,2776.0,4.923731819794254,34.0
+1452.0,Gary Cosier,right-arm medium,2,60.7,409.0,248.0,4.085667215815485,5.0
+2046.0,Gary Crocker,left-arm medium-fast,2,39.4,238.0,208.0,5.279187817258883,4.0
+1419.0,Gary Gilmour,left-arm fast-medium,2,46.0,320.0,165.0,3.5869565217391304,1.0
+47405.0,Gary Kidd,slow left-arm orthodox,2,36.0,216.0,172.0,4.777777777777778,1.0
+2115.0,Gary Kirsten,right-arm offbreak,2,5.0,30.0,23.0,4.6,167.0
+2191.0,Gary Martin,right-arm medium,2,22.0,132.0,95.0,4.318181818181818,4.0
+1807.0,Gary Robertson,right-arm fast-medium,2,83.0,498.0,321.0,3.867469879518072,6.0
+1511.0,Gary Troup,left-arm fast-medium,2,194.2,1180.0,791.0,4.073120494335736,4.0
+71473.0,Gaudi Toka,right-arm medium-fast,2,16.3,99.0,110.0,6.748466257668712,21.0
+7773.0,Gautam Gambhir,legbreak,1,1.0,6.0,13.0,13.0,132.0
+10415.0,Gavin Ewing,right-arm offbreak,2,52.0,312.0,236.0,4.538461538461538,7.0
+4334.0,Gavin Hamilton,right-arm medium-fast,2,36.0,220.0,160.0,4.444444444444445,35.0
+2157.0,Gavin Larsen,right-arm medium,2,1060.0,6368.0,4000.0,3.7735849056603774,43.0
+63124.0,Gavin Main,right-arm fast,2,107.7,649.0,569.0,5.283194057567316,1.0
+4093.0,Gavin Rennie,slow left-arm orthodox,1,15.0,90.0,75.0,5.0,31.0
+2188.0,Gavin Robertson,right-arm offbreak,2,99.3,597.0,430.0,4.33031218529708,3.0
+46583.0,Gavin Tonge,right-arm fast-medium,2,50.0,300.0,224.0,4.48,2.0
+1896.0,Gazi Ashraf,right-arm offbreak,2,8.3,51.0,33.0,3.975903614457831,7.0
+45412.0,Geert-Maarten Mol,right-arm medium,2,27.0,162.0,111.0,4.111111111111111,2.0
+2238.0,Geoff Allott,left-arm fast-medium,2,254.0,1528.0,1207.0,4.751968503937008,5.0
+1300.0,Geoff Arnold,right-arm fast-medium,2,115.4,714.0,339.0,2.937608318890814,3.0
+1228.0,Geoff Boycott,right-arm medium,2,28.0,168.0,105.0,3.75,30.0
+1539.0,Geoff Cope,right-arm offbreak,1,14.0,112.0,35.0,2.5,0.0
+1423.0,Geoff Dymock,left-arm fast-medium,2,123.0,806.0,412.0,3.34959349593496,3.0
+1444.0,Geoff Howarth,right-arm offbreak,2,15.0,90.0,68.0,4.533333333333333,60.0
+1632.0,Geoff Lawson,right-arm fast,2,708.7,4259.0,2592.0,3.6574008748412585,34.0
+1502.0,Geoff Miller,right-arm offbreak,2,207.0,1268.0,813.0,3.927536231884058,16.0
+21449.0,George Codrington,right-arm medium-fast,2,121.5,731.0,577.0,4.748971193415638,12.0
+56811.0,George Dockrell,slow left-arm orthodox,2,794.6,4778.0,3870.0,4.870375031462371,58.0
+63642.0,George Linde,slow left-arm orthodox,2,15.0,90.0,72.0,4.8,1.0
+49493.0,George O'Brien,right-arm fast-medium,2,76.0,456.0,405.0,5.328947368421052,7.0
+81323.0,George Scrimshaw,right-arm medium-fast,1,8.4,52.0,66.0,7.857142857142857,0.0
+51091.0,George Worker,slow left-arm orthodox,1,1.0,6.0,5.0,5.0,8.0
+69729.0,Gerald Coetzee,right-arm fast,2,110.6,666.0,720.0,6.50994575045208,7.0
+65478.0,Gerhard Erasmus,right-arm offbreak,2,170.6,1026.0,719.0,4.214536928487691,39.0
+45578.0,Gerrie Snyman,right-arm fast-medium,1,48.0,288.0,281.0,5.854166666666667,4.0
+1836.0,Gholam Nousher,left-arm medium,2,68.0,408.0,314.0,4.617647058823529,1.0
+1845.0,Gladstone Small,right-arm fast-medium,2,464.9,2793.0,1942.0,4.1772424177242415,15.0
+4239.0,Glen Chapple,right-arm medium-fast,1,4.0,24.0,14.0,3.5,1.0
+9988.0,Glen Sulzberger,right-arm offbreak,2,22.0,132.0,102.0,4.636363636363637,1.0
+54222.0,Glenn Maxwell,right-arm offbreak,2,614.7,3695.0,3362.0,5.469334634781194,109.0
+2101.0,Glenn McGrath,right-arm fast-medium,2,2153.8,12970.0,8391.0,3.895904912248119,30.0
+80639.0,Glenn Phillips,right-arm offbreak,2,77.0,462.0,471.0,6.116883116883117,21.0
+50788.0,Glenn Rogers,slow left-arm orthodox,2,85.2,512.0,409.0,4.800469483568075,5.0
+1328.0,Glenn Turner,right-arm offbreak,1,1.0,6.0,0.0,0.0,34.0
+1600.0,Glenroy Sealy,right-arm medium,1,6.0,36.0,21.0,3.5,3.0
+1900.0,Golam Faruq,right-arm fast-medium,2,30.6,186.0,116.0,3.7908496732026142,2.0
+1776.0,Gopal Sharma,right-arm offbreak,2,81.0,486.0,361.0,4.45679012345679,2.0
+52063.0,Gordon Drummond,right-arm medium-fast,2,209.5,1263.0,932.0,4.448687350835322,13.0
+47382.0,Gordon Goudie,right-arm fast-medium,2,120.9,729.0,623.0,5.153019023986766,8.0
+1433.0,Gordon Greenidge,right-arm medium,1,10.0,60.0,45.0,4.5,114.0
+10272.0,Graeme Aldridge,right-arm fast-medium,2,19.0,114.0,98.0,5.157894736842105,0.0
+47234.0,Graeme Cremer,legbreak googly,2,777.2,4680.0,3597.0,4.628152341739578,51.0
+1989.0,Graeme Hick,right-arm offbreak,2,205.2,1236.0,1026.0,5.0,103.0
+1857.0,Graeme Labrooy,right-arm fast-medium,2,384.4,2308.0,1876.0,4.880332986472425,29.0
+56814.0,Graeme McCarter,right-arm medium,1,8.0,48.0,38.0,4.75,0.0
+1611.0,Graeme Porter,right-arm medium,1,18.0,108.0,33.0,1.8333333333333333,1.0
+10406.0,Graeme Smith,right-arm offbreak,2,170.6,1026.0,951.0,5.574443141852286,185.0
+7013.0,Graeme Swann,right-arm offbreak,2,634.5,3809.0,2888.0,4.551615445232467,36.0
+1291.0,Graeme Watson,right-arm medium,1,8.0,48.0,28.0,3.5,1.0
+1593.0,Graham Dilley,right-arm fast,2,340.3,2043.0,1291.0,3.7937114310902142,10.0
+1446.0,Graham Gooch,right-arm medium,2,343.6,2066.0,1516.0,4.412107101280559,116.0
+58407.0,Graham Hume,right-arm fast-medium,2,107.3,645.0,580.0,5.405405405405405,2.0
+1152.0,Graham McKenzie,right-arm fast,1,7.4,60.0,22.0,2.972972972972973,0.0
+45835.0,Graham Onions,right-arm medium-fast,2,34.0,204.0,185.0,5.441176470588236,1.0
+1622.0,Graham Stevenson,right-arm medium,2,31.6,192.0,125.0,3.955696202531645,1.0
+2093.0,Graham Thorpe,right-arm medium,2,20.0,120.0,97.0,4.85,64.0
+1488.0,Graham Yallop,left-arm medium,2,23.0,138.0,119.0,5.173913043478261,21.0
+1975.0,Grant Bradburn,right-arm offbreak,2,64.1,385.0,318.0,4.960998439937598,7.0
+6329.0,Grant Elliott,right-arm medium,2,216.6,1302.0,1179.0,5.443213296398892,58.0
+2048.0,Grant Flower,slow left-arm orthodox,2,908.2,5462.0,4225.0,4.65205901783748,196.0
+1720.0,Granville De Silva,right-arm fast-medium,2,32.2,194.0,169.0,5.248447204968944,1.0
+2178.0,Greg Blewett,right-arm medium,2,123.7,749.0,646.0,5.222312045270816,27.0
+1926.0,Greg Campbell,right-arm fast-medium,2,101.7,613.0,404.0,3.972468043264503,2.0
+1364.0,Greg Chappell,right-arm medium,2,511.4,3108.0,2097.0,4.100508408290966,58.0
+8247.0,Greg Lamb,right-arm offbreak,2,107.0,642.0,467.0,4.364485981308412,11.0
+1747.0,Greg Matthews,right-arm offbreak,2,467.6,2808.0,2004.0,4.285714285714286,37.0
+1801.0,Greg Thomas,right-arm fast,2,26.0,156.0,144.0,5.538461538461538,1.0
+47396.0,Greg Thompson,legbreak,2,12.0,72.0,73.0,6.083333333333333,2.0
+8224.0,Gregor Maiden,right-arm offbreak,1,8.0,48.0,38.0,4.75,4.0
+35758.0,Gregory Strydom,right-arm medium,1,11.0,66.0,61.0,5.545454545454546,10.0
+72407.0,Gudakesh Motie,slow left-arm orthodox,2,108.9,661.0,436.0,4.003673094582186,6.0
+6323.0,Gulam Bodi,left-arm wrist-spin,1,1.0,6.0,8.0,8.0,2.0
+57022.0,Gulbadin Naib,right-arm medium-fast,2,467.5,2811.0,2599.0,5.559358288770054,62.0
+108705.0,Gulsan Jha,right-arm medium,2,120.3,723.0,760.0,6.317539484621779,17.0
+64707.0,Gurinder Sandhu,right-arm fast-medium,1,20.0,120.0,107.0,5.35,0.0
+66725.0,Gurkeerat Singh Mann,right-arm offbreak,2,10.0,60.0,68.0,6.8,2.0
+93785.0,Gus Atkinson,right-arm fast-medium,2,63.4,382.0,388.0,6.1198738170347005,4.0
+1697.0,Gus Logie,right-arm offbreak,1,4.0,24.0,18.0,4.5,97.0
+7431.0,Gus Mackay,right-arm fast-medium,2,22.0,132.0,137.0,6.227272727272728,0.0
+2109.0,Guy Whittall,right-arm medium,2,675.2,4060.0,3481.0,5.155509478672985,120.0
+1891.0,Haafiz Shahid,right-arm fast-medium,1,21.1,127.0,112.0,5.308056872037914,1.0
+2204.0,Habibul Bashar,right-arm offbreak,2,29.1,175.0,142.0,4.8797250859106525,100.0
+53326.0,Hamid Hassan,right-arm fast,2,288.6,1734.0,1330.0,4.6084546084546085,16.0
+10423.0,Hamilton Masakadza,right-arm medium,2,306.0,1844.0,1636.0,5.34640522875817,205.0
+2240.0,Hamish Anthony,right-arm fast-medium,1,26.0,156.0,143.0,5.5,3.0
+48928.0,Hamish Bennett,right-arm medium-fast,2,148.4,892.0,820.0,5.525606469002695,2.0
+58881.0,Hammad Azam,right-arm medium,2,33.0,198.0,169.0,5.121212121212121,5.0
+76927.0,Hamza Tahir,slow left-arm orthodox,2,241.8,1454.0,1033.0,4.272125723738627,6.0
+10232.0,Hannan Sarkar,right-arm medium,1,0.3,3.0,13.0,43.333333333333336,20.0
+2010.0,Hansie Cronje,right-arm medium,2,890.5,5357.0,3966.0,4.453677709152162,144.0
+7139.0,Harbhajan Singh,right-arm offbreak,2,2078.3,12479.0,8973.0,4.317471009960063,93.0
+70633.0,Hardik Pandya,right-arm medium-fast,2,531.9,3199.0,2960.0,5.564955818762925,52.0
+103878.0,Haris Rauf,right-arm fast,2,305.1,1835.0,1822.0,5.971812520485086,8.0
+53639.0,Haris Sohail,slow left-arm orthodox,2,107.0,642.0,613.0,5.728971962616822,39.0
+95161.0,Harrison Carlyon,right-arm offbreak,2,30.0,180.0,141.0,4.7,5.0
+49441.0,Harry Gurney,left-arm fast-medium,2,75.5,455.0,432.0,5.7218543046357615,2.0
+89741.0,Harry Tector,right-arm offbreak,2,35.0,210.0,217.0,6.2,35.0
+84169.0,Harsh Thaker,right-arm offbreak,2,99.1,595.0,413.0,4.167507568113018,9.0
+6379.0,Harvinder Singh,right-arm fast-medium,2,114.2,686.0,609.0,5.332749562171629,4.0
+57210.0,Harvir Baidwan,right-arm medium,2,257.9,1551.0,1348.0,5.226832105467236,15.0
+72719.0,Hasan Ali,right-arm medium-fast,2,528.8,3188.0,3084.0,5.832072617246596,27.0
+21428.0,Hasan Durham,slow left-arm orthodox,2,66.0,400.0,343.0,5.196969696969697,4.0
+1484.0,Hasan Jamil,left-arm medium-fast,2,35.0,232.0,154.0,4.4,5.0
+85693.0,Hasan Mahmud,right-arm fast-medium,2,159.3,957.0,963.0,6.045197740112994,10.0
+44683.0,Hasantha Fernando,right-arm medium-fast,2,39.0,234.0,159.0,4.076923076923077,2.0
+66839.0,Haseeb Amjad,right-arm medium-fast,1,57.0,342.0,288.0,5.052631578947368,5.0
+1945.0,Hashan Tillakaratne,right-arm offbreak,2,29.2,180.0,141.0,4.828767123287672,129.0
+61861.0,Hashmatullah Shahidi,right-arm offbreak,1,3.0,18.0,25.0,8.333333333333334,65.0
+2205.0,Hasibul Hossain,right-arm fast-medium,2,228.7,1375.0,1338.0,5.85045911674683,20.0
+53785.0,Hasti Gul,right-arm medium,2,19.0,114.0,73.0,3.842105263157895,0.0
+61941.0,Hayden Walsh,legbreak googly,2,171.7,1033.0,932.0,5.428072218986605,10.0
+113981.0,Hazrat Bilal,right-arm medium-fast,2,45.0,270.0,212.0,4.711111111111111,1.0
+2156.0,Heath Davis,right-arm fast,2,71.2,432.0,436.0,6.123595505617978,2.0
+2108.0,Heath Streak,right-arm fast-medium,2,1575.2,9468.0,7129.0,4.525774504824784,104.0
+1337.0,Hedley Howarth,slow left-arm orthodox,2,77.0,492.0,280.0,3.636363636363636,3.0
+61634.0,Heinrich Klaasen,right-arm offbreak,2,5.0,30.0,33.0,6.6,43.0
+7577.0,Hemang Badani,slow left-arm orthodox,2,30.3,183.0,149.0,4.917491749174918,26.0
+108567.0,Hemant Dhami,right-arm medium-fast,1,8.0,48.0,49.0,6.125,0.0
+7415.0,Hemantha Boteju,right-arm medium,2,17.0,102.0,113.0,6.647058823529412,1.0
+8286.0,Hendy Bryan,right-arm fast-medium,2,120.2,722.0,518.0,4.309484193011647,6.0
+6368.0,Henk-Jan Mol,left-arm medium,2,30.2,182.0,149.0,4.933774834437086,8.0
+2181.0,Henry Olonga,right-arm fast,2,342.7,2059.0,1977.0,5.768894076451708,13.0
+48590.0,Henry Osinde,right-arm medium-fast,2,280.8,1692.0,1389.0,4.946581196581197,15.0
+89795.0,Henry Shipley,right-arm medium-fast,2,64.3,387.0,359.0,5.583203732503888,5.0
+4151.0,Henry Williams,right-arm fast-medium,2,54.5,329.0,228.0,4.18348623853211,1.0
+60142.0,Hiral Patel,slow left-arm orthodox,2,68.1,409.0,353.0,5.183553597650515,22.0
+49761.0,Hiren Varaiya,slow left-arm orthodox,2,490.7,2951.0,2048.0,4.173629508864887,21.0
+71461.0,Hiri Hiri,right-arm offbreak,2,17.0,102.0,113.0,6.647058823529412,30.0
+2267.0,Hitesh Modi,right-arm offbreak,1,3.1,19.0,27.0,8.709677419354838,47.0
+47708.0,Howard Johnson,right-arm medium-fast,2,10.0,60.0,69.0,6.9,1.0
+7061.0,Hrishikesh Kanitkar,right-arm offbreak,2,167.4,1006.0,803.0,4.79689366786141,19.0
+70856.0,Hussain Talat,right-arm medium-fast,1,2.0,12.0,16.0,8.0,1.0
+2184.0,Iain Butchart,right-arm medium,2,117.0,702.0,640.0,5.47008547008547,14.0
+35652.0,Iain O'Brien,right-arm fast-medium,2,75.3,453.0,488.0,6.480743691899071,0.0
+64991.0,Iain Wardlaw,right-arm fast-medium,2,183.6,1108.0,1036.0,5.642701525054466,6.0
+4204.0,Ian Austin,right-arm medium,2,78.7,475.0,360.0,4.5743329097839895,5.0
+7822.0,Ian Bell,right-arm medium,2,14.4,88.0,88.0,6.111111111111111,143.0
+1924.0,Ian Bishop,right-arm fast,2,720.0,4332.0,3127.0,4.343055555555556,25.0
+7043.0,Ian Blackwell,slow left-arm orthodox,2,205.0,1230.0,877.0,4.278048780487805,27.0
+1529.0,Ian Botham,right-arm fast-medium,2,1031.1,6271.0,4139.0,4.014159635340898,91.0
+10451.0,Ian Bradshaw,left-arm fast-medium,2,528.4,3172.0,2299.0,4.350870552611658,23.0
+10380.0,Ian Butler,right-arm fast,2,184.5,1109.0,1038.0,5.626016260162602,8.0
+1545.0,Ian Callen,right-arm fast-medium,1,30.0,180.0,148.0,4.933333333333334,1.0
+1243.0,Ian Chappell,legbreak,1,7.0,42.0,23.0,3.2857142857142856,14.0
+5657.0,Ian Harvey,right-arm medium,2,544.3,3279.0,2577.0,4.7345214036377,40.0
+55324.0,Ian Holland,right-arm medium,2,104.0,628.0,466.0,4.480769230769231,14.0
+48164.0,Ian Nicolson,right-arm fast-medium,1,12.0,72.0,118.0,9.833333333333334,2.0
+2035.0,Ian Salisbury,legbreak googly,2,31.0,186.0,177.0,5.709677419354839,1.0
+4673.0,Ian Stanger,right-arm medium,1,9.0,54.0,56.0,6.222222222222222,5.0
+63619.0,Iftikhar Ahmed,right-arm offbreak,2,132.4,796.0,742.0,5.604229607250755,16.0
+19396.0,Iftikhar Anjum,right-arm medium,2,492.0,2960.0,2430.0,4.939024390243903,15.0
+110482.0,Ihsanullah,right-arm fast,1,8.0,48.0,60.0,7.5,14.0
+1860.0,Ijaz Ahmed,left-arm medium,2,104.9,637.0,476.0,4.537654909437559,203.0
+2220.0,Ijaz Ahmed,right-arm offbreak,2,5.0,30.0,25.0,5.0,203.0
+1635.0,Ijaz Faqih,right-arm offbreak,2,186.0,1116.0,819.0,4.403225806451613,16.0
+47980.0,Ilyas Gull,right-arm offbreak,1,19.0,114.0,113.0,5.947368421052632,2.0
+48982.0,Imad Wasim,slow left-arm orthodox,2,399.9,2403.0,1957.0,4.893723430857714,23.0
+10392.0,Imran Farhat,legbreak,1,18.8,116.0,110.0,5.8510638297872335,56.0
+87643.0,Imran Haider,legbreak googly,2,157.1,943.0,841.0,5.353278166772756,7.0
+1383.0,Imran Khan,right-arm fast,2,1238.7,7461.0,4844.0,3.9105513845160247,111.0
+8177.0,Imran Nazir,legbreak,1,7.7,49.0,48.0,6.233766233766234,77.0
+19422.0,Imran Tahir,legbreak googly,2,910.9,5481.0,4255.0,4.671204303436162,19.0
+7269.0,Indika Gallage,right-arm fast-medium,2,24.0,144.0,115.0,4.791666666666667,1.0
+62733.0,Innocent Kaia,legbreak,2,4.4,28.0,22.0,5.0,18.0
+1117.0,Intikhab Alam,legbreak googly,1,23.0,158.0,118.0,5.130434782608695,2.0
+2034.0,Inzamam-ul-Haq,slow left-arm orthodox,2,9.4,58.0,64.0,6.808510638297872,297.0
+1514.0,Iqbal Qasim,slow left-arm orthodox,2,106.0,664.0,500.0,4.716981132075472,6.0
+2027.0,Iqbal Sikander,legbreak googly,2,35.0,210.0,147.0,4.2,0.0
+48482.0,Irfan Ahmed,right-arm fast-medium,2,48.2,290.0,299.0,6.203319502074688,6.0
+2132.0,Irfan Bhatti,right-arm fast-medium,1,8.0,48.0,22.0,2.75,0.0
+8345.0,Irfan Fazil,right-arm fast-medium,1,6.0,36.0,46.0,7.666666666666667,1.0
+11399.0,Irfan Pathan,left-arm medium-fast,2,973.1,5855.0,5142.0,5.284143459048402,66.0
+76559.0,Irfan Sajid,legbreak,1,5.0,30.0,23.0,4.6,1.0
+21440.0,Irving Romaine,right-arm offbreak,2,53.8,326.0,355.0,6.598513011152416,31.0
+67586.0,Ish Sodhi,legbreak,2,406.3,2443.0,2251.0,5.540241201082943,20.0
+49327.0,Ishant Sharma,right-arm fast-medium,2,620.9,3733.0,3563.0,5.738444193912064,15.0
+9586.0,Ishara Amerasinghe,right-arm fast-medium,2,71.0,426.0,363.0,5.112676056338028,0.0
+84761.0,Ishtiaq Muhammad,right-arm offbreak,1,3.0,18.0,24.0,8.0,0.0
+36508.0,Ishwar Maraj,right-arm offbreak,1,4.3,27.0,22.0,5.116279069767442,5.0
+76525.0,Ishwarjot Sohi,right-arm medium-fast,2,15.0,90.0,78.0,5.2,1.0
+54460.0,Isuru Udana,left-arm medium-fast,2,151.3,909.0,950.0,6.278916060806345,14.0
+59775.0,Izatullah Dawlatzai,right-arm fast-medium,2,35.0,210.0,146.0,4.171428571428572,2.0
+67403.0,JJ Smit,left-arm medium-fast,2,183.6,1104.0,777.0,4.23202614379085,25.0
+51232.0,JJ Smuts,slow left-arm orthodox,2,30.0,180.0,164.0,5.466666666666667,4.0
+111925.0,Jack	Brassell,right-arm medium,2,12.0,72.0,53.0,4.416666666666667,1.0
+110235.0,Jack Jarvis,right-arm medium-fast,2,10.0,60.0,71.0,7.1,3.0
+67190.0,Jacob Duffy,right-arm fast-medium,2,47.4,286.0,321.0,6.772151898734178,1.0
+91757.0,Jacob Mulder,legbreak,2,31.0,186.0,155.0,5.0,0.0
+9989.0,Jacob Oram,right-arm fast-medium,2,1148.7,6911.0,5047.0,4.393662400975015,101.0
+5682.0,Jacob-Jan Esmeijer,slow left-arm orthodox,2,38.0,228.0,208.0,5.473684210526316,4.0
+48705.0,Jacobi Robinson,right-arm fast-medium,2,23.0,138.0,170.0,7.391304347826087,2.0
+2232.0,Jacques Kallis,right-arm fast-medium,2,1788.6,10750.0,8680.0,4.852957620485296,262.0
+9630.0,Jacques Rudolph,legbreak googly,1,4.0,24.0,26.0,6.5,33.0
+46924.0,Jade Dernbach,right-arm fast-medium,2,204.6,1234.0,1308.0,6.392961876832845,7.0
+1962.0,Jahangir Alam Talukdar,left-arm medium,1,7.0,42.0,36.0,5.142857142857143,0.0
+1834.0,Jahangir Shah,right-arm fast-medium,2,39.0,234.0,172.0,4.410256410256411,2.0
+7281.0,Jai Prakash Yadav,right-arm medium,2,66.0,396.0,326.0,4.9393939393939394,4.0
+60218.0,Jake Ball,right-arm fast-medium,2,157.5,947.0,980.0,6.222222222222222,4.0
+1690.0,Jalal-ud-Din,right-arm fast-medium,2,51.0,306.0,211.0,4.137254901960785,2.0
+35523.0,Jamaluddin Ahmed,right-arm offbreak,1,4.0,24.0,28.0,7.0,0.0
+10829.0,James Anderson,right-arm fast-medium,2,1594.0,9584.0,7861.0,4.931618569636136,36.0
+4224.0,James Brinkley,right-arm fast-medium,2,28.0,168.0,117.0,4.178571428571429,5.0
+58595.0,James Cameron-Dow,slow left-arm orthodox,1,31.0,186.0,151.0,4.870967741935484,0.0
+50483.0,James Faulkner,left-arm fast-medium,2,533.1,3211.0,2962.0,5.556180829112736,30.0
+9639.0,James Franklin,left-arm medium,2,640.8,3848.0,3354.0,5.234082397003745,53.0
+9235.0,James Hopes,right-arm medium,2,525.7,3157.0,2384.0,4.534905839832604,53.0
+6263.0,James Kirtley,right-arm fast-medium,2,91.3,549.0,481.0,5.268346111719606,2.0
+57196.0,James Neesham,right-arm medium-fast,2,406.0,2448.0,2556.0,6.295566502463054,53.0
+53238.0,James Ngoche,right-arm offbreak,2,145.8,878.0,569.0,3.902606310013717,7.0
+50781.0,James Pattinson,right-arm fast-medium,2,121.1,727.0,681.0,5.623451692815855,4.0
+10831.0,James Tredwell,right-arm offbreak,2,350.4,2104.0,1666.0,4.754566210045662,14.0
+52122.0,James Vince,right-arm medium,2,7.0,42.0,38.0,5.428571428571429,22.0
+10647.0,Jamie Dalrymple,right-arm offbreak,2,140.0,840.0,666.0,4.757142857142857,25.0
+63683.0,Jan Frylinck,left-arm fast-medium,2,203.8,1226.0,888.0,4.357212953876349,22.0
+95708.0,Jan Nicol Loftie-Eaton,right-arm medium,2,76.1,461.0,375.0,4.92772667542707,28.0
+52282.0,Jan Stander,right-arm medium-fast,2,25.0,150.0,166.0,6.64,4.0
+10365.0,Jan-Berrie Burger,legbreak,1,16.0,96.0,104.0,6.5,6.0
+88439.0,Jan-Izak de Villiers,right-arm medium,1,9.3,57.0,66.0,7.096774193548386,1.0
+2196.0,Janak Gamage,right-arm fast-medium,2,22.0,132.0,104.0,4.727272727272728,0.0
+5430.0,Janeiro Tucker,right-arm medium,2,136.3,819.0,701.0,5.143066764490095,25.0
+72825.0,Janith Liyanage,right-arm fast-medium,2,21.2,128.0,129.0,6.084905660377359,5.0
+61314.0,Jaskaran Malhotra,legbreak googly,2,17.0,102.0,67.0,3.941176470588236,14.0
+50789.0,Jason Behrendorff,left-arm fast-medium,2,107.3,645.0,568.0,5.293569431500466,3.0
+2286.0,Jason Gillespie,right-arm fast,2,856.4,5144.0,3611.0,4.216487622606259,23.0
+59339.0,Jason Holder,right-arm medium-fast,2,1065.0,6402.0,5878.0,5.51924882629108,90.0
+52600.0,Jason Kila,slow left-arm orthodox,2,38.1,229.0,200.0,5.2493438320209975,10.0
+36367.0,Jason Krejza,right-arm offbreak,2,70.5,425.0,331.0,4.695035460992908,1.0
+49030.0,Jason Mohammed,right-arm offbreak,2,73.2,440.0,340.0,4.644808743169398,29.0
+48081.0,Jason Patraj,right-arm offbreak,1,15.0,90.0,76.0,5.066666666666666,2.0
+70640.0,Jasprit Bumrah,right-arm fast,2,761.2,4580.0,3509.0,4.609826589595375,12.0
+53016.0,Jatinder Singh,right-arm offbreak,2,7.0,42.0,37.0,5.285714285714286,44.0
+1997.0,Javagal Srinath,right-arm fast-medium,2,1983.1,11935.0,8847.0,4.461197115627049,83.0
+53112.0,Javed Ahmadi,right-arm offbreak,2,74.8,452.0,363.0,4.852941176470589,44.0
+1504.0,Javed Miandad,legbreak googly,2,64.0,436.0,297.0,4.640625,178.0
+101893.0,Jay Odedra,right-arm offbreak,2,58.0,348.0,258.0,4.448275862068965,2.0
+1803.0,Jayananda Warnaweera,right-arm medium,2,49.0,294.0,200.0,4.081632653061225,0.0
+62051.0,Jayant Yadav,right-arm offbreak,2,14.0,84.0,61.0,4.357142857142857,1.0
+2233.0,Jayantha Silva,slow left-arm orthodox,1,8.0,48.0,55.0,6.875,0.0
+106326.0,Jayden Seales,right-arm fast-medium,2,72.7,439.0,445.0,6.121045392022008,3.0
+59261.0,Jaydev Unadkat,left-arm medium,2,57.0,342.0,225.0,3.947368421052632,0.0
+45222.0,Jean-Paul Duminy,right-arm offbreak,2,579.7,3489.0,3119.0,5.380369156460238,138.0
+11922.0,Jeetan Patel,right-arm offbreak,2,334.2,2014.0,1691.0,5.059844404548175,7.0
+24777.0,Jeevan Mendis,legbreak,2,233.6,1404.0,1204.0,5.154109589041096,34.0
+1698.0,Jeff Crowe,right-arm bowler,1,1.0,6.0,1.0,1.0,59.0
+1411.0,Jeff Hammond,right-arm fast-medium,1,9.0,54.0,41.0,4.555555555555555,0.0
+1401.0,Jeff Thomson,right-arm fast,2,446.2,2696.0,1942.0,4.352308381891529,24.0
+2128.0,Jeff Wilson,right-arm fast-medium,2,40.2,242.0,260.0,6.467661691542288,5.0
+58084.0,Jeffrey Vandersay,legbreak,2,152.2,918.0,849.0,5.578186596583444,10.0
+8203.0,Jehan Mubarak,right-arm offbreak,2,21.3,129.0,95.0,4.460093896713615,31.0
+1421.0,Jeremy Coney,right-arm medium,2,488.3,2931.0,2039.0,4.175711652672537,61.0
+51014.0,Jeremy Gordon,right-arm fast-medium,2,74.8,452.0,393.0,5.254010695187166,5.0
+4660.0,Jeremy Snape,right-arm offbreak,2,87.7,529.0,403.0,4.595210946408209,4.0
+61417.0,Jermaine Blackwood,right-arm offbreak,1,3.0,18.0,16.0,5.333333333333333,2.0
+10227.0,Jermaine Lawson,right-arm fast-medium,2,93.0,558.0,498.0,5.354838709677419,3.0
+46591.0,Jerome Taylor,right-arm fast,2,720.5,4341.0,3780.0,5.246356696738376,33.0
+44946.0,Jesse Ryder,right-arm medium,2,67.1,407.0,412.0,6.140089418777944,41.0
+77577.0,Jessy Singh,right-arm medium,2,178.6,1074.0,947.0,5.3023516237402015,17.0
+77669.0,Jhye Richardson,right-arm fast,2,135.0,810.0,793.0,5.874074074074074,5.0
+2007.0,Jimmy Adams,slow left-arm orthodox,2,308.8,1856.0,1499.0,4.854274611398964,77.0
+60377.0,Jimmy Hansra,right-arm medium,2,74.1,445.0,413.0,5.573549257759785,18.0
+8207.0,Jimmy Kamande,right-arm offbreak,2,434.7,2619.0,2169.0,4.989648033126295,61.0
+1607.0,Jitendra Patel,slow left-arm orthodox,1,15.1,91.0,47.0,3.1125827814569536,3.0
+2075.0,Jo Angel,right-arm fast,2,27.0,162.0,113.0,4.185185185185185,1.0
+46925.0,Joe Denly,legbreak,2,17.0,102.0,101.0,5.941176470588236,13.0
+61826.0,Joe Mennie,right-arm fast-medium,1,20.0,120.0,131.0,6.55,2.0
+52656.0,Joe Root,right-arm offbreak,2,272.6,1638.0,1587.0,5.8217168011738805,137.0
+1522.0,Joel Garner,right-arm fast,2,887.4,5330.0,2752.0,3.101194500788821,26.0
+64796.0,Joel Paris,left-arm fast-medium,1,16.0,96.0,93.0,5.8125,0.0
+2162.0,Joey Benjamin,right-arm medium-fast,2,12.0,72.0,47.0,3.9166666666666665,1.0
+72379.0,Jofra Archer,right-arm fast,2,189.1,1139.0,913.0,4.828133262823902,5.0
+45592.0,Joginder Sharma,right-arm fast-medium,2,25.0,150.0,115.0,4.6,1.0
+10401.0,Johan Botha,right-arm offbreak,2,635.9,3823.0,2916.0,4.585626670860198,32.0
+4130.0,Johan van der Wath,right-arm medium-fast,2,87.4,526.0,551.0,6.304347826086956,6.0
+17857.0,Johann Louw,right-arm medium-fast,2,26.0,156.0,148.0,5.6923076923076925,1.0
+2146.0,Johanne Samarasekera,right-arm medium-fast,2,49.0,294.0,236.0,4.816326530612245,4.0
+46177.0,John Anderson,right-arm offbreak,2,5.0,30.0,20.0,4.0,8.0
+4968.0,John Blain,right-arm fast-medium,2,220.9,1329.0,1173.0,5.310095065640561,19.0
+1631.0,John Bracewell,right-arm offbreak,2,407.1,2447.0,1884.0,4.627855563743552,31.0
+56803.0,John Campbell,right-arm offbreak,1,1.0,6.0,13.0,13.0,5.0
+5712.0,John Davison,right-arm offbreak,2,239.1,1435.0,1067.0,4.462567963195316,30.0
+1567.0,John Emburey,right-arm offbreak,2,569.3,3425.0,2346.0,4.120850166871597,35.0
+49002.0,John Hastings,right-arm fast-medium,2,247.0,1486.0,1256.0,5.08502024291498,10.0
+1513.0,John Lever,left-arm fast-medium,2,181.0,1152.0,713.0,3.9392265193370166,7.0
+1746.0,John Maguire,right-arm fast-medium,2,168.1,1009.0,769.0,4.574657941701369,6.0
+10345.0,John Mooney,right-arm medium,2,298.5,1797.0,1635.0,5.477386934673367,41.0
+1420.0,John Morrison,slow left-arm orthodox,2,47.1,283.0,199.0,4.225053078556263,12.0
+1472.0,John Nagenda,right-arm fast-medium,1,9.0,54.0,50.0,5.555555555555555,0.0
+47767.0,John Nyumbu,right-arm offbreak,2,140.4,844.0,738.0,5.256410256410256,10.0
+1408.0,John Parker,legbreak googly,1,2.0,16.0,10.0,5.0,20.0
+2107.0,John Rennie,right-arm medium-fast,2,326.5,1965.0,1564.0,4.790199081163859,15.0
+55132.0,John Reva,right-arm medium,2,66.9,405.0,357.0,5.336322869955157,6.0
+1270.0,John Snow,right-arm fast-medium,2,87.0,538.0,232.0,2.6666666666666665,2.0
+1358.0,John Traicos,right-arm offbreak,2,254.0,1524.0,987.0,3.885826771653544,8.0
+1609.0,John Valentine,left-arm medium,1,19.0,114.0,66.0,3.473684210526316,0.0
+1604.0,John Vaughan,right-arm medium-fast,1,11.0,66.0,36.0,3.272727272727273,3.0
+1550.0,John Wright,right-arm medium,1,4.0,24.0,8.0,2.0,147.0
+7290.0,Jon Kent,right-arm medium-fast,1,8.0,48.0,57.0,7.125,0.0
+7037.0,Jon Lewis,right-arm medium,2,119.2,716.0,500.0,4.194630872483222,6.0
+1760.0,Jonathan Agnew,right-arm fast,1,21.0,126.0,120.0,5.714285714285714,0.0
+53389.0,Jonathan Carter,right-arm medium,2,22.4,136.0,160.0,7.142857142857143,25.0
+1961.0,Jonathan Millmow,right-arm fast-medium,2,45.0,270.0,232.0,5.155555555555556,0.0
+10407.0,Jonathan Trott,right-arm medium,2,30.3,183.0,166.0,5.478547854785479,55.0
+2062.0,Jonty Rhodes,right-arm medium,1,2.2,14.0,4.0,1.818181818181818,169.0
+51016.0,Josclyn Pitcher,right-arm medium-fast,2,13.1,79.0,80.0,6.106870229007634,3.0
+5594.0,Joseph Angara,right-arm medium-fast,2,98.0,588.0,569.0,5.806122448979592,6.0
+9104.0,Josephat Ababu,right-arm fast-medium,2,48.0,288.0,255.0,5.3125,3.0
+85959.0,Josh Clarkson,right-arm medium,2,12.0,72.0,73.0,6.083333333333333,2.0
+59951.0,Josh Davey,right-arm medium-fast,2,216.1,1301.0,1082.0,5.006941230911616,22.0
+51367.0,Josh Hazlewood,right-arm fast-medium,2,750.3,4515.0,3556.0,4.7394375583100095,7.0
+85975.0,Josh Little,left-arm fast-medium,2,288.5,1733.0,1757.0,6.090121317157712,9.0
+70880.0,Jubair Hossain,legbreak,2,19.0,114.0,114.0,6.0,1.0
+1594.0,Julien Wiener,right-arm offbreak,2,4.0,24.0,34.0,8.5,7.0
+99285.0,Julius Sumerauer,right-arm fast-medium,2,49.0,294.0,245.0,5.0,4.0
+49906.0,Junaid Khan,left-arm fast,2,598.9,3601.0,3216.0,5.369844715311404,14.0
+106639.0,Junaid Siddique,right-arm medium-fast,2,352.8,2124.0,1781.0,5.048185941043084,20.0
+64426.0,Junaid Siddiqui,legbreak,2,66.4,400.0,302.0,4.548192771084337,5.0
+36108.0,Junaid Zia,right-arm medium-fast,2,24.1,145.0,127.0,5.269709543568465,1.0
+67090.0,Junior Dala,right-arm medium,1,17.0,102.0,121.0,7.117647058823529,1.0
+6335.0,Justin Kemp,right-arm fast-medium,2,215.9,1303.0,1015.0,4.701250578971746,48.0
+7541.0,Justin Ontong,right-arm offbreak,2,89.4,538.0,396.0,4.429530201342281,14.0
+2068.0,Justin Vaughan,right-arm medium,2,116.0,696.0,524.0,4.517241379310345,9.0
+8983.0,Kabir Ali,right-arm medium-fast,2,111.7,673.0,682.0,6.1056401074306175,6.0
+2163.0,Kabir Khan,left-arm fast-medium,2,61.5,371.0,303.0,4.926829268292683,1.0
+65889.0,Kabua Morea,left-arm medium,2,122.0,732.0,575.0,4.713114754098361,7.0
+67296.0,Kagiso Rabada,right-arm fast,2,859.9,5171.0,4361.0,5.071519944179556,24.0
+58923.0,Kaleem Sana,left-arm medium-fast,2,66.8,404.0,290.0,4.341317365269461,1.0
+96344.0,Kaleemullah,right-arm medium,2,291.0,1746.0,1289.0,4.429553264604811,13.0
+10357.0,Kalpesh Patel,right-arm medium,2,5.0,30.0,34.0,6.8,1.0
+95867.0,Kamal Airee,right-arm medium,2,19.0,114.0,109.0,5.7368421052631575,1.0
+78233.0,Kamindu Mendis,right-arm offbreak,2,25.0,150.0,151.0,6.04,6.0
+19502.0,Kamran Hussain,left-arm fast-medium,2,17.0,102.0,67.0,3.941176470588236,0.0
+70560.0,Kamran Shazad,right-arm medium-fast,2,37.0,222.0,209.0,5.648648648648648,2.0
+50709.0,Kane Richardson,right-arm fast-medium,2,209.6,1264.0,1202.0,5.734732824427481,5.0
+51088.0,Kane Williamson,right-arm offbreak,2,243.9,1467.0,1310.0,5.3710537105371055,141.0
+1568.0,Kapil Dev,right-arm fast-medium,2,1863.0,11202.0,6945.0,3.727858293075685,159.0
+1996.0,Kapila Wijegunawardene,right-arm fast-medium,2,197.4,1186.0,986.0,4.994934143870314,7.0
+79527.0,Karan KC,right-arm fast,2,361.4,2174.0,1923.0,5.3209739900387385,28.0
+79163.0,Karim Janat,right-arm medium,2,13.0,78.0,90.0,6.923076923076923,3.0
+53767.0,Karim Sadiq,right-arm offbreak,2,53.2,320.0,201.0,3.778195488721804,20.0
+102004.0,Karima Gore,slow left-arm orthodox,2,92.0,552.0,406.0,4.413043478260869,13.0
+94753.0,Karl Birkenstock,right-arm fast-medium,2,41.0,246.0,264.0,6.439024390243903,17.0
+15731.0,Karn Sharma,legbreak googly,2,19.0,114.0,125.0,6.578947368421052,0.0
+1439.0,Karsan Ghavri,left-arm medium,2,172.1,1033.0,708.0,4.113887274840209,10.0
+95019.0,Karthik Meiyappan,legbreak,2,200.8,1208.0,1114.0,5.547808764940239,18.0
+47129.0,Karun Jethi,right-arm offbreak,2,17.0,102.0,85.0,5.0,2.0
+49011.0,Kashif Daud,right-arm medium-fast,2,110.3,663.0,482.0,4.369900271985494,10.0
+9268.0,Kashif Raza,right-arm medium,1,5.0,30.0,36.0,7.2,0.0
+110059.0,Kashyap Prajapati,right-arm offbreak,1,0.2,2.0,1.0,5.0,30.0
+64698.0,Kasun Rajitha,right-arm medium-fast,2,253.9,1527.0,1553.0,6.116581331232768,12.0
+10178.0,Kaushal Lokuarachchi,legbreak,2,168.3,1011.0,725.0,4.307783719548425,15.0
+10412.0,Kaushalya Weeraratne,right-arm medium-fast,2,80.0,480.0,385.0,4.8125,8.0
+1811.0,Kaushik Amalean,right-arm fast-medium,2,53.0,318.0,207.0,3.9056603773584895,2.0
+56843.0,Kavem Hodge,slow left-arm orthodox,2,18.0,108.0,113.0,6.277777777777778,3.0
+80439.0,Keacy Carty,right-arm medium,1,4.1,25.0,28.0,6.829268292682928,17.0
+51482.0,Kedar Jadhav,right-arm offbreak,2,197.5,1187.0,1020.0,5.1645569620253164,33.0
+49119.0,Keegan Meth,right-arm medium-fast,2,67.4,406.0,419.0,6.216617210682492,8.0
+72509.0,Keemo Paul,right-arm fast-medium,2,208.1,1253.0,1238.0,5.949062950504565,15.0
+1822.0,Keerthi Ranasinghe,right-arm medium,2,21.0,126.0,96.0,4.571428571428571,3.0
+1906.0,Keith Arthurton,slow left-arm orthodox,2,230.0,1384.0,1159.0,5.039130434782609,73.0
+1379.0,Keith Boyce,right-arm fast-medium,2,76.0,470.0,313.0,4.118421052631579,4.0
+21364.0,Keith Dabengwa,slow left-arm orthodox,2,184.1,1109.0,936.0,5.084193373166757,27.0
+7565.0,Keith Semple,right-arm medium,2,22.0,132.0,121.0,5.5,6.0
+1278.0,Keith Stackpole,legbreak,2,10.1,77.0,54.0,5.346534653465347,6.0
+49034.0,Kemar Roach,right-arm fast-medium,2,760.7,4579.0,3885.0,5.107138162219009,24.0
+1719.0,Ken MacLeay,right-arm medium,2,142.5,857.0,626.0,4.392982456140351,11.0
+1777.0,Ken Rutherford,right-arm medium,2,64.1,389.0,323.0,5.0390015600624025,107.0
+1362.0,Ken Shuttleworth,right-arm fast,1,7.0,56.0,29.0,4.142857142857143,1.0
+36606.0,Kenneth Kamyuka,right-arm fast-medium,2,7.5,47.0,47.0,6.266666666666667,1.0
+2008.0,Kenny Benjamin,right-arm fast,2,219.5,1319.0,923.0,4.20501138952164,6.0
+49451.0,Kenny Carroll,legbreak,1,1.0,6.0,8.0,8.0,6.0
+83889.0,Keon Harding,right-arm fast-medium,1,10.0,60.0,88.0,8.8,0.0
+10504.0,Kerry Jeremy,right-arm fast-medium,2,32.0,192.0,163.0,5.09375,2.0
+1368.0,Kerry O'Keeffe,legbreak googly,2,22.0,132.0,79.0,3.590909090909091,1.0
+2186.0,Kerry Walmsley,right-arm fast-medium,2,20.0,120.0,117.0,5.85,0.0
+50309.0,Keshav Maharaj,slow left-arm orthodox,2,369.2,2216.0,1686.0,4.566630552546045,18.0
+62138.0,Kesrick Williams,right-arm fast-medium,2,54.6,330.0,293.0,5.366300366300366,1.0
+1724.0,Kevin Curran,right-arm fast-medium,2,83.8,506.0,398.0,4.749403341288783,11.0
+2025.0,Kevin Duers,right-arm medium-fast,2,50.0,300.0,256.0,5.12,1.0
+5419.0,Kevin Hurdle,right-arm fast,2,150.5,905.0,831.0,5.521594684385383,8.0
+47397.0,Kevin O'Brien,right-arm medium-fast,2,714.8,4296.0,3726.0,5.21264689423615,123.0
+8107.0,Kevin Pietersen,right-arm offbreak,2,66.0,400.0,370.0,5.606060606060606,109.0
+10335.0,Kevin Sandher,slow left-arm orthodox,2,116.0,696.0,569.0,4.905172413793103,6.0
+106855.0,Kevin Sinclair,right-arm offbreak,2,63.3,381.0,282.0,4.454976303317536,2.0
+85937.0,Khaled Ahmed,right-arm medium,2,13.2,80.0,72.0,5.454545454545455,1.0
+7063.0,Khaled Mahmud,right-arm medium,2,561.7,3385.0,2865.0,5.100587502225387,69.0
+87603.0,Khaleel Ahmed,left-arm medium,2,80.0,480.0,465.0,5.8125,2.0
+47982.0,Khalid Khan,right-arm medium-fast,1,18.0,108.0,93.0,5.166666666666667,2.0
+46883.0,Khaliq Dad,right-arm fast-medium,2,42.0,252.0,150.0,3.571428571428572,3.0
+68400.0,Khary Pierre,slow left-arm orthodox,2,26.0,156.0,158.0,6.076923076923077,2.0
+68463.0,Khawar Ali,legbreak,2,264.7,1591.0,1265.0,4.778995088779751,23.0
+45306.0,Khurram Chohan,right-arm fast-medium,2,197.0,1186.0,1029.0,5.223350253807107,13.0
+36602.0,Khurram Khan,slow left-arm orthodox,2,83.0,498.0,432.0,5.204819277108434,14.0
+75215.0,Khushdil Shah,slow left-arm orthodox,1,18.0,108.0,122.0,6.777777777777778,6.0
+49040.0,Kieron Pollard,right-arm medium,2,377.9,2275.0,2161.0,5.718444032812914,104.0
+1530.0,Kim Hughes,right-arm medium,1,0.1,1.0,4.0,40.0,82.0
+59684.0,Kinchit Shah,right-arm offbreak,1,18.2,110.0,79.0,4.340659340659341,10.0
+1638.0,Kirti Azad,right-arm offbreak,2,65.0,390.0,273.0,4.2,19.0
+96980.0,Kishore Mahato,right-arm medium-fast,1,13.0,78.0,76.0,5.846153846153846,0.0
+56508.0,Kithuruwan Vithanage,legbreak,1,2.0,12.0,17.0,8.5,5.0
+46575.0,Kosala Kulasekara,right-arm fast-medium,2,13.0,78.0,80.0,6.153846153846154,3.0
+56801.0,Kraigg Brathwaite,right-arm offbreak,2,25.2,152.0,140.0,5.555555555555555,10.0
+1653.0,Kris Srikkanth,right-arm offbreak,2,117.6,712.0,641.0,5.450680272108844,143.0
+51466.0,Krishna Chandran,right-arm medium-fast,2,69.4,418.0,431.0,6.210374639769452,8.0
+60737.0,Krishnappa Gowtham,right-arm offbreak,1,8.0,48.0,49.0,6.125,1.0
+63224.0,Krunal Pandya,slow left-arm orthodox,2,38.0,228.0,223.0,5.868421052631579,2.0
+104045.0,Kuldeep Sen,right-arm fast,1,5.0,30.0,37.0,7.4,0.0
+67609.0,Kuldeep Yadav,left-arm wrist-spin,2,863.7,5189.0,4370.0,5.059627185365288,19.0
+2100.0,Kumar Dharmasena,right-arm offbreak,2,1165.7,7009.0,4998.0,4.287552543536073,54.0
+70888.0,Kusal Mendis,legbreak,2,3.2,20.0,28.0,8.75,118.0
+79287.0,Kushal Bhurtel,legbreak googly,2,53.0,318.0,257.0,4.849056603773585,51.0
+102117.0,Kushal Malla,slow left-arm orthodox,2,177.1,1063.0,785.0,4.432523997741389,29.0
+52222.0,Kyle Abbott,right-arm fast-medium,2,216.7,1303.0,1051.0,4.850023073373327,9.0
+95204.0,Kyle Christie,right-arm medium-fast,1,1.0,6.0,18.0,18.0,1.0
+46048.0,Kyle Coetzer,right-arm medium-fast,2,44.6,270.0,253.0,5.672645739910314,82.0
+52909.0,Kyle Hodsoll,right-arm medium-fast,2,17.0,102.0,100.0,5.882352941176471,1.0
+70691.0,Kyle Jamieson,right-arm fast-medium,2,100.4,604.0,511.0,5.089641434262948,4.0
+55140.0,Kyle Jarvis,right-arm fast-medium,2,392.2,2362.0,2088.0,5.323814380418154,23.0
+106012.0,Kyle Klein,right-arm medium,2,9.1,55.0,48.0,5.274725274725275,0.0
+56832.0,Kyle Mayers,right-arm medium,2,113.8,686.0,632.0,5.553602811950791,26.0
+4346.0,Kyle McCallan,right-arm offbreak,2,300.4,1804.0,1208.0,4.021304926764315,18.0
+10303.0,Kyle Mills,right-arm fast-medium,2,1367.0,8230.0,6485.0,4.743964886613021,67.0
+102675.0,Kyle Phillip,right-arm fast-medium,2,40.3,243.0,245.0,6.0794044665012414,2.0
+50388.0,Lahiru Gamage,right-arm fast-medium,2,67.0,402.0,392.0,5.850746268656716,2.0
+78235.0,Lahiru Kumara,right-arm fast,2,209.5,1263.0,1356.0,6.47255369928401,11.0
+60945.0,Lahiru Madushanka,right-arm fast-medium,2,24.0,144.0,172.0,7.166666666666667,3.0
+52405.0,Lahiru Thirimanne,right-arm medium-fast,2,17.2,104.0,94.0,5.465116279069767,92.0
+61115.0,Lakshan Sandakan,left-arm wrist-spin,2,247.2,1488.0,1539.0,6.225728155339806,12.0
+9022.0,Lakshmipathy Balaji,right-arm medium-fast,2,240.3,1447.0,1344.0,5.593008739076154,10.0
+84063.0,Lalit Rajbanshi,slow left-arm orthodox,2,205.6,1236.0,784.0,3.813229571984436,6.0
+1663.0,Lalith Kaluperuma,right-arm offbreak,2,34.4,208.0,137.0,3.982558139534884,0.0
+2278.0,Lameck Onyango,right-arm medium,2,165.1,995.0,981.0,5.941853422168383,11.0
+1422.0,Lance Cairns,right-arm medium-fast,2,657.1,4015.0,2717.0,4.134834880535687,59.0
+1067.0,Lance Gibbs,right-arm offbreak,2,26.0,156.0,59.0,2.269230769230769,0.0
+9993.0,Lance Hamilton,left-arm fast-medium,2,18.0,108.0,143.0,7.944444444444445,0.0
+2245.0,Lance Klusener,right-arm fast-medium,2,1220.0,7336.0,5751.0,4.713934426229508,87.0
+101390.0,Lance Morris,right-arm fast,1,14.3,87.0,72.0,5.034965034965035,0.0
+1497.0,Larry Gomes,right-arm offbreak,2,223.7,1345.0,1045.0,4.6714349575324094,50.0
+45105.0,Lasith Malinga,right-arm fast,2,1815.2,10936.0,9760.0,5.376817981489643,83.0
+2280.0,Laurie Williams,right-arm medium,2,109.5,659.0,556.0,5.077625570776256,11.0
+1711.0,Laxman Sivaramakrishnan,legbreak googly,2,126.0,756.0,538.0,4.26984126984127,2.0
+7704.0,Laxmi Shukla,right-arm medium,2,19.0,114.0,94.0,4.947368421052632,2.0
+61866.0,Lega Siaka,right-arm fast-medium,2,40.0,240.0,181.0,4.525,47.0
+1525.0,Len Pascoe,right-arm fast,2,260.0,1568.0,1066.0,4.1,4.0
+45256.0,Lendl Simmons,right-arm medium-fast,2,26.0,156.0,172.0,6.615384615384615,62.0
+10499.0,Leon Romero,right-arm medium,1,4.0,24.0,52.0,13.0,2.0
+1781.0,Les Taylor,right-arm fast-medium,1,14.0,84.0,47.0,3.357142857142857,0.0
+57579.0,Lewis Gregory,right-arm medium-fast,2,19.0,114.0,97.0,5.105263157894737,2.0
+48572.0,Liam Dawson,slow left-arm orthodox,2,44.0,264.0,284.0,6.454545454545454,5.0
+59832.0,Liam Livingstone,right-arm offbreak,2,93.8,566.0,523.0,5.575692963752665,19.0
+45443.0,Liam Plunkett,right-arm fast,2,688.1,4137.0,4010.0,5.82764133120186,31.0
+69721.0,Liam Roche,right-arm offbreak,2,23.0,138.0,157.0,6.826086956521739,2.0
+1445.0,Liaqat Ali,left-arm medium-fast,2,29.0,188.0,111.0,3.827586206896552,1.0
+46585.0,Lionel Baker,right-arm medium-fast,2,71.0,426.0,355.0,5.0,2.0
+5416.0,Lionel Cann,right-arm medium,2,16.4,100.0,129.0,7.865853658536586,22.0
+58488.0,Lizaad Williams,right-arm medium-fast,2,35.4,214.0,238.0,6.72316384180791,1.0
+64402.0,Lockie Ferguson,right-arm fast,2,549.2,3300.0,3124.0,5.688273852876911,17.0
+61845.0,Logan van Beek,right-arm medium-fast,2,284.5,1713.0,1612.0,5.666080843585237,22.0
+48182.0,Lonwabo Tsotsobe,left-arm fast-medium,2,492.8,2964.0,2347.0,4.7625811688311686,8.0
+10311.0,Lou Vincent,right-arm medium,2,3.2,20.0,25.0,7.8125,89.0
+36568.0,Louis Burger,right-arm medium,1,55.0,330.0,297.0,5.4,5.0
+61834.0,Lucas Oluoch,left-arm fast-medium,1,16.0,96.0,79.0,4.9375,1.0
+66876.0,Luke Jongwe,right-arm fast-medium,2,235.5,1415.0,1339.0,5.685774946921444,31.0
+68020.0,Luke Wood,left-arm fast-medium,1,10.0,60.0,59.0,5.9,1.0
+44791.0,Luke Woodcock,slow left-arm orthodox,2,27.2,164.0,155.0,5.698529411764706,1.0
+44660.0,Luke Wright,right-arm medium,2,173.0,1038.0,884.0,5.109826589595376,35.0
+66941.0,Lungi Ngidi,right-arm fast-medium,2,435.5,2619.0,2508.0,5.758897818599311,8.0
+74305.0,Lutho Sipamla,right-arm fast-medium,2,30.2,182.0,172.0,5.695364238410596,0.0
+4190.0,Luuk van Troost,left-arm medium,2,41.0,246.0,280.0,6.829268292682927,19.0
+7593.0,MS Dhoni,right-arm medium,1,6.0,36.0,31.0,5.166666666666667,213.0
+1428.0,Madan Lal,right-arm medium,2,521.4,3164.0,2137.0,4.0985807441503646,21.0
+6267.0,Mafizur Rahman,right-arm fast-medium,2,11.0,66.0,73.0,6.636363636363637,3.0
+48389.0,Mahbubul Alam,right-arm medium-fast,1,37.0,222.0,280.0,7.567567567567567,2.0
+80875.0,Mahedi Hasan,right-arm offbreak,2,88.0,528.0,436.0,4.954545454545454,8.0
+101991.0,Maheesh Theekshana,right-arm offbreak,2,348.9,2101.0,1623.0,4.651762682717111,16.0
+6315.0,Mahela Jayawardene,right-arm medium,2,98.1,593.0,563.0,5.739041794087666,379.0
+7624.0,Mahendra Nagamootoo,legbreak googly,2,197.7,1189.0,998.0,5.048052604957006,12.0
+47352.0,Mahmudullah,right-arm offbreak,2,722.6,4350.0,3791.0,5.246332687517299,151.0
+46828.0,Mahuru Dai,right-arm medium,2,159.0,954.0,675.0,4.245283018867925,16.0
+46091.0,Majid Haq,right-arm offbreak,2,438.5,2633.0,1975.0,4.503990877993158,34.0
+1239.0,Majid Khan,right-arm medium,2,107.0,658.0,374.0,3.4953271028037385,21.0
+4073.0,Makhaya Ntini,right-arm fast,2,1445.5,8687.0,6559.0,4.5375302663438255,23.0
+49870.0,Malachi Jones,right-arm medium-fast,2,76.2,458.0,482.0,6.3254593175853016,10.0
+2050.0,Malcolm Jarvis,left-arm medium-fast,2,99.7,601.0,451.0,4.523570712136409,2.0
+1571.0,Malcolm Marshall,right-arm fast,2,1195.1,7175.0,4233.0,3.5419630156472266,64.0
+48205.0,Malcolm Waller,right-arm offbreak,2,111.0,666.0,566.0,5.099099099099099,66.0
+45970.0,Malinda Pushpakumara,slow left-arm orthodox,2,19.0,114.0,105.0,5.526315789473684,2.0
+7270.0,Malinga Bandara,legbreak,2,244.6,1470.0,1232.0,5.036794766966476,13.0
+52325.0,Mangesh Panchal,legbreak,1,5.0,30.0,10.0,2.0,0.0
+1694.0,Maninder Singh,slow left-arm orthodox,2,522.1,3133.0,2066.0,3.957096341696993,4.0
+12206.0,Manjula Guruge,left-arm fast-medium,2,58.3,351.0,337.0,5.780445969125215,0.0
+2152.0,Manjula Munasinghe,right-arm fast-medium,2,35.7,217.0,146.0,4.089635854341736,3.0
+8231.0,Manjurul Islam,left-arm fast-medium,2,265.1,1591.0,1284.0,4.843455299886835,9.0
+1771.0,Manoj Prabhakar,right-arm medium,2,1058.0,6360.0,4534.0,4.285444234404537,77.0
+47624.0,Manoj Tiwary,legbreak googly,2,22.0,132.0,150.0,6.818181818181818,12.0
+53549.0,Manpreet Gony,right-arm medium,2,13.0,78.0,76.0,5.846153846153846,0.0
+1630.0,Mansoor Akhtar,right-arm medium,2,23.0,138.0,110.0,4.782608695652174,34.0
+45295.0,Mansoor Amjad,legbreak googly,1,8.0,48.0,44.0,5.5,1.0
+1965.0,Mansoor Rana,right-arm offbreak,1,1.0,6.0,7.0,7.0,2.0
+24671.0,Manzarul Islam,slow left-arm orthodox,2,165.2,996.0,689.0,4.170702179176756,16.0
+6456.0,Manzoor Akhtar,legbreak,2,33.1,199.0,184.0,5.5589123867069485,4.0
+1764.0,Manzoor Elahi,right-arm fast-medium,2,289.5,1743.0,1262.0,4.3592400690846285,33.0
+1959.0,Maqsood Rana,right-arm fast-medium,1,2.0,12.0,11.0,5.5,1.0
+59394.0,Marchant de Lange,right-arm fast,2,34.5,209.0,198.0,5.739130434782608,0.0
+73871.0,Marco Jansen,left-arm medium-fast,2,178.8,1076.0,1138.0,6.364653243847874,14.0
+8240.0,Marcus North,right-arm offbreak,1,3.0,18.0,16.0,5.333333333333333,2.0
+54212.0,Marcus Stoinis,right-arm medium,2,340.9,2053.0,2059.0,6.039894397183925,55.0
+3865.0,Marcus Trescothick,right-arm medium,2,38.4,232.0,219.0,5.703125,116.0
+1925.0,Margashayam Venkataramana,right-arm offbreak,1,10.0,60.0,36.0,3.6,0.0
+66012.0,Mark Adair,right-arm fast-medium,2,357.9,2163.0,2085.0,5.8256496227996655,22.0
+4198.0,Mark Alleyne,right-arm medium,2,61.0,366.0,280.0,4.590163934426229,7.0
+1311.0,Mark Burgess,right-arm offbreak,1,12.0,74.0,69.0,5.75,20.0
+2044.0,Mark Burmester,right-arm medium,2,34.5,209.0,213.0,6.173913043478261,6.0
+26887.0,Mark Cosgrove,right-arm medium,2,5.0,30.0,13.0,2.6,3.0
+2105.0,Mark Dekker,left-arm medium,2,57.5,347.0,290.0,5.043478260869565,21.0
+2358.0,Mark Ealham,right-arm medium-fast,2,536.3,3227.0,2197.0,4.096587730747716,41.0
+15357.0,Mark Gillespie,right-arm fast-medium,2,252.5,1521.0,1369.0,5.421782178217822,6.0
+1882.0,Mark Greatbatch,right-arm medium,1,1.0,6.0,5.0,5.0,78.0
+2053.0,Mark Haslam,slow left-arm orthodox,1,5.0,30.0,28.0,5.6,1.0
+49461.0,Mark Jonkman,right-arm fast,2,119.1,719.0,565.0,4.743912678421495,5.0
+1969.0,Mark Priest,slow left-arm orthodox,2,124.8,752.0,590.0,4.727564102564103,10.0
+1990.0,Mark Ramprakash,right-arm offbreak,2,22.0,132.0,108.0,4.909090909090909,14.0
+6307.0,Mark Vermeulen,right-arm offbreak,1,0.5,5.0,5.0,10.0,40.0
+71959.0,Mark Watt,slow left-arm orthodox,2,558.1,3361.0,2316.0,4.149793943737682,29.0
+1985.0,Mark Waugh,right-arm medium,2,613.1,3687.0,2938.0,4.79204045017126,216.0
+56993.0,Mark Wood,right-arm fast,2,549.5,3299.0,3039.0,5.5304822565969065,11.0
+8175.0,Marlon Black,right-arm fast-medium,2,38.0,228.0,196.0,5.157894736842105,2.0
+10238.0,Marlon Samuels,right-arm offbreak,2,847.1,5091.0,4127.0,4.87191594853028,170.0
+78285.0,Marnus Labuschagne,legbreak,2,33.5,203.0,230.0,6.865671641791045,44.0
+2094.0,Martin Bicknell,right-arm fast-medium,2,68.5,413.0,347.0,5.065693430656935,4.0
+1669.0,Martin Crowe,right-arm medium,2,215.6,1296.0,954.0,4.424860853432282,123.0
+48927.0,Martin Guptill,right-arm offbreak,2,17.7,109.0,98.0,5.536723163841808,177.0
+1640.0,Martin Snedden,right-arm medium-fast,2,752.1,4525.0,3237.0,4.303948942959713,35.0
+1602.0,Martin Stead,right-arm medium,1,4.5,29.0,24.0,5.333333333333333,2.0
+2271.0,Martin Suji,right-arm medium-fast,2,491.6,2952.0,2190.0,4.454841334418226,30.0
+4132.0,Martin van Jaarsveld,right-arm medium,1,5.1,31.0,18.0,3.5294117647058827,6.0
+1979.0,Marvan Atapattu,legbreak,2,8.3,51.0,41.0,4.939759036144578,227.0
+24672.0,Mashrafe Mortaza,right-arm fast-medium,2,1816.2,10922.0,8893.0,4.896487171016408,130.0
+105938.0,Matheesha Pathirana,right-arm fast,2,84.0,508.0,616.0,7.333333333333333,5.0
+108265.0,Matiullah Khan,right-arm medium,1,5.0,30.0,37.0,7.4,0.0
+64947.0,Matt Henry,right-arm fast-medium,2,710.9,4277.0,3722.0,5.235616823744549,23.0
+52184.0,Matt Machan,right-arm offbreak,2,67.0,402.0,384.0,5.731343283582089,22.0
+71869.0,Matt Parkinson,legbreak,2,34.4,208.0,203.0,5.901162790697675,0.0
+4269.0,Matthew Fleming,right-arm medium,2,86.7,523.0,434.0,5.005767012687428,9.0
+106984.0,Matthew Forde,right-arm medium,2,23.0,138.0,138.0,6.0,3.0
+2117.0,Matthew Hart,slow left-arm orthodox,2,95.2,572.0,373.0,3.918067226890756,8.0
+2119.0,Matthew Hayden,right-arm medium,1,1.0,6.0,18.0,18.0,140.0
+6984.0,Matthew Hoggard,right-arm fast-medium,2,217.0,1306.0,1152.0,5.308755760368664,4.0
+109425.0,Matthew Humphreys,slow left-arm orthodox,2,11.0,66.0,95.0,8.636363636363637,0.0
+77665.0,Matthew Kuhnemann,slow left-arm orthodox,2,38.0,228.0,191.0,5.026315789473684,2.0
+52284.0,Matthew Parker,right-arm medium-fast,2,69.0,414.0,327.0,4.739130434782608,6.0
+93003.0,Matthew Potts,right-arm fast-medium,2,14.0,84.0,95.0,6.785714285714286,0.0
+70472.0,Matthew Short,right-arm offbreak,2,12.0,72.0,66.0,5.5,3.0
+10324.0,Matthew Walker,right-arm medium,2,22.0,132.0,119.0,5.409090909090909,1.0
+1330.0,Maurice Foster,right-arm offbreak,1,5.0,30.0,22.0,4.4,1.0
+2266.0,Maurice Odumbe,right-arm offbreak,2,372.1,2237.0,1807.0,4.85622144584789,54.0
+52861.0,Maurits Jonkman,right-arm medium,2,22.4,136.0,113.0,5.044642857142858,2.0
+71363.0,Max O'Dowd,right-arm offbreak,2,12.3,75.0,75.0,6.097560975609756,44.0
+66284.0,Max Sorensen,right-arm fast-medium,2,90.3,543.0,520.0,5.758582502768549,6.0
+1402.0,Max Walker,right-arm fast-medium,2,157.8,1006.0,546.0,3.460076045627376,8.0
+59599.0,Mayank Agarwal,right-arm offbreak,1,1.0,6.0,10.0,10.0,5.0
+2142.0,Mazhar Hussain,legbreak,1,8.0,48.0,60.0,7.5,7.0
+35534.0,Mazharul Haque,right-arm offbreak,1,0.4,4.0,4.0,10.0,1.0
+55162.0,McLaren Smith,right-arm medium-fast,1,2.0,12.0,14.0,7.0,0.0
+70877.0,Mehidy Hasan Miraz,right-arm offbreak,2,764.9,4593.0,3695.0,4.830696823114133,58.0
+7254.0,Mehrab Hossain,right-arm medium,2,5.0,30.0,42.0,8.4,18.0
+48388.0,Mehrab Hossain jnr,slow left-arm orthodox,2,42.1,253.0,214.0,5.083135391923991,16.0
+1792.0,Merv Hughes,right-arm fast,2,272.3,1639.0,1115.0,4.094748439221447,9.0
+5432.0,Mervyn Dillon,right-arm fast-medium,2,910.8,5480.0,4218.0,4.631093544137023,31.0
+1480.0,Mevan Pieris,right-arm fast-medium,2,22.0,132.0,135.0,6.136363636363637,2.0
+2015.0,Meyrick Pringle,right-arm fast-medium,2,145.0,870.0,604.0,4.165517241379311,5.0
+44937.0,Michael Bates,left-arm medium-fast,1,14.0,84.0,52.0,3.7142857142857135,1.0
+2167.0,Michael Bevan,left-arm wrist-spin,2,327.0,1966.0,1655.0,5.061162079510703,130.0
+54369.0,Michael Bracewell,right-arm offbreak,2,123.0,738.0,634.0,5.154471544715447,12.0
+7823.0,Michael Carberry,right-arm offbreak,1,1.0,6.0,12.0,12.0,6.0
+47777.0,Michael Chinouya,right-arm fast-medium,1,11.0,66.0,50.0,4.545454545454546,1.0
+8876.0,Michael Clarke,slow left-arm orthodox,2,430.1,2585.0,2146.0,4.9895373169030455,179.0
+1451.0,Michael Holding,right-arm fast,2,908.9,5473.0,3034.0,3.338101001210254,31.0
+6256.0,Michael Hussey,right-arm medium,2,40.0,240.0,235.0,5.875,113.0
+2243.0,Michael Kasprowicz,right-arm fast-medium,2,370.1,2225.0,1674.0,4.523101864360983,4.0
+60198.0,Michael Leask,right-arm offbreak,2,387.0,2326.0,1929.0,4.984496124031008,48.0
+95739.0,Michael Levitt,right-arm fast,1,6.0,36.0,31.0,5.166666666666667,4.0
+9992.0,Michael Mason,right-arm fast-medium,2,196.3,1179.0,1024.0,5.21650534895568,3.0
+58276.0,Michael Neser,right-arm medium-fast,2,36.4,220.0,239.0,6.565934065934067,4.0
+2067.0,Michael Owens,right-arm fast-medium,1,8.0,48.0,37.0,4.625,1.0
+58594.0,Michael Rippon,left-arm wrist-spin,2,67.0,402.0,299.0,4.462686567164179,6.0
+2088.0,Michael Slater,right-arm medium,1,2.0,12.0,11.0,5.5,41.0
+53266.0,Michael Swart,right-arm offbreak,2,61.0,366.0,306.0,5.016393442622951,10.0
+4709.0,Michael Vaughan,right-arm offbreak,2,132.4,796.0,649.0,4.901812688821752,73.0
+8307.0,Michael Yardy,slow left-arm orthodox,2,222.0,1332.0,1075.0,4.842342342342342,16.0
+80905.0,Michael van Lingen,left-arm medium,2,16.2,98.0,79.0,4.876543209876544,26.0
+9432.0,Mick Lewis,right-arm fast-medium,2,56.5,341.0,391.0,6.920353982300885,0.0
+1531.0,Mick Malone,right-arm fast-medium,2,102.0,612.0,315.0,3.088235294117647,4.0
+67512.0,Miguel Cummins,right-arm fast-medium,2,75.0,450.0,474.0,6.32,2.0
+1543.0,Mike Gatting,right-arm medium,2,65.0,392.0,336.0,5.1692307692307695,72.0
+1427.0,Mike Hendrick,right-arm fast-medium,2,196.0,1248.0,681.0,3.474489795918368,5.0
+2218.0,Mike Watkinson,right-arm medium,1,9.0,54.0,43.0,4.777777777777778,0.0
+1649.0,Mike Whitney,left-arm fast-medium,2,351.0,2106.0,1249.0,3.5584045584045585,6.0
+48821.0,Milinda Siriwardana,slow left-arm orthodox,2,99.7,601.0,547.0,5.486459378134403,23.0
+88829.0,Milton Shumba,slow left-arm orthodox,2,6.5,41.0,42.0,6.461538461538462,7.0
+1755.0,Milton Small,right-arm fast-medium,2,14.0,84.0,54.0,3.857142857142857,0.0
+1831.0,Minhajul Abedin,right-arm offbreak,2,91.0,546.0,511.0,5.615384615384615,24.0
+59061.0,Mirwais Ashraf,right-arm fast-medium,2,334.5,2009.0,1360.0,4.06576980568012,27.0
+19596.0,Misbah-ul-Haq,legbreak,1,4.0,24.0,30.0,7.5,118.0
+10130.0,Mitchell Johnson,left-arm fast,2,1236.3,7435.0,6008.0,4.85966189436221,58.0
+50771.0,Mitchell Marsh,right-arm medium,2,359.1,2159.0,1986.0,5.530492898913951,74.0
+53716.0,Mitchell McClenaghan,left-arm fast-medium,2,387.2,2336.0,2313.0,5.973657024793389,5.0
+64864.0,Mitchell Santner,slow left-arm orthodox,2,811.5,4875.0,3960.0,4.87985212569316,49.0
+53330.0,Mitchell Starc,left-arm fast,2,1027.2,6192.0,5373.0,5.23072429906542,46.0
+68884.0,Mitchell Swepson,legbreak,2,26.2,158.0,161.0,6.145038167938932,1.0
+6305.0,Mluleki Nkala,right-arm medium,2,262.6,1582.0,1570.0,5.978674790555978,30.0
+46597.0,Moeen Ali,right-arm offbreak,2,996.4,5988.0,5311.0,5.330188679245283,97.0
+107263.0,Mohammad Aadil Alam,right-arm medium,2,44.0,264.0,166.0,3.772727272727273,4.0
+59220.0,Mohammad Abbas,right-arm medium-fast,2,27.0,162.0,153.0,5.666666666666667,0.0
+2222.0,Mohammad Akram,right-arm fast-medium,2,164.5,989.0,790.0,4.802431610942249,2.0
+51498.0,Mohammad Amir,left-arm fast-medium,2,500.9,3013.0,2400.0,4.791375524056698,20.0
+24667.0,Mohammad Ashraful,right-arm offbreak,2,114.9,697.0,661.0,5.752828546562228,156.0
+19627.0,Mohammad Asif,right-arm fast-medium,2,322.9,1941.0,1524.0,4.719727469804893,9.0
+1774.0,Mohammad Azharuddin,right-arm medium,2,91.2,552.0,479.0,5.25219298245614,254.0
+101421.0,Mohammad Boota,right-arm medium,1,2.0,12.0,10.0,5.0,8.0
+19647.0,Mohammad Hafeez,right-arm offbreak,2,1287.3,7733.0,5400.0,4.194826380797017,201.0
+103402.0,Mohammad Hasnain,right-arm fast,2,77.1,463.0,497.0,6.446173800259404,2.0
+4182.0,Mohammad Hussain,slow left-arm orthodox,2,112.0,672.0,547.0,4.883928571428571,5.0
+61264.0,Mohammad Irfan,left-arm fast,2,517.7,3109.0,2549.0,4.923700985126521,12.0
+49420.0,Mohammad Kashif,right-arm offbreak,2,75.0,450.0,410.0,5.466666666666667,3.0
+19664.0,Mohammad Khalil,left-arm medium,2,24.0,144.0,144.0,6.0,0.0
+46888.0,Mohammad Nabi,right-arm offbreak,2,1263.0,7598.0,5410.0,4.283452098178939,127.0
+45702.0,Mohammad Nadeem,right-arm medium-fast,2,134.8,812.0,753.0,5.586053412462907,18.0
+66386.0,Mohammad Naveed,right-arm medium,2,322.2,1938.0,1757.0,5.453134698944755,24.0
+56883.0,Mohammad Nawaz,slow left-arm orthodox,2,294.9,1773.0,1507.0,5.110206849779587,22.0
+1347.0,Mohammad Nazir,right-arm offbreak,2,37.0,222.0,156.0,4.216216216216216,0.0
+2200.0,Mohammad Rafique,slow left-arm orthodox,2,1067.8,6414.0,4739.0,4.438097021914216,89.0
+70884.0,Mohammad Saifuddin,right-arm medium-fast,2,213.5,1283.0,1279.0,5.990632318501171,10.0
+104685.0,Mohammad Saleem,right-arm fast,2,10.2,62.0,70.0,6.862745098039216,0.0
+10776.0,Mohammad Sami,right-arm fast,2,711.2,4284.0,3567.0,5.015466816647919,27.0
+58361.0,Mohammad Sanuth,right-arm offbreak,1,10.0,60.0,61.0,6.1,2.0
+76501.0,Mohammad Shahzad,right-arm medium-fast,2,40.0,240.0,233.0,5.825,87.0
+24677.0,Mohammad Sharif,right-arm medium-fast,2,82.3,499.0,424.0,5.151883353584448,4.0
+6397.0,Mohammad Sheikh,slow left-arm orthodox,2,129.4,778.0,625.0,4.829984544049458,10.0
+48987.0,Mohammad Talha,right-arm medium-fast,2,20.2,122.0,146.0,7.227722772277228,1.0
+47712.0,Mohammad Tauqir,right-arm offbreak,2,81.5,491.0,383.0,4.699386503067485,7.0
+105513.0,Mohammad Wasim,right-arm fast-medium,2,159.4,962.0,856.0,5.370138017565872,30.0
+6455.0,Mohammad Yousuf,right-arm offbreak,1,0.2,2.0,1.0,5.0,233.0
+4185.0,Mohammad Zahid,right-arm fast-medium,2,85.2,512.0,391.0,4.589201877934272,2.0
+63646.0,Mohammed Shami,right-arm fast,2,828.5,4985.0,4618.0,5.573928786964394,28.0
+87477.0,Mohammed Siraj,right-arm fast,2,303.3,1825.0,1550.0,5.11045169798879,6.0
+1353.0,Mohinder Amarnath,right-arm medium,2,449.8,2730.0,1971.0,4.381947532236549,63.0
+66722.0,Mohit Sharma,right-arm medium,2,186.1,1121.0,1020.0,5.480924234282644,4.0
+1756.0,Mohsin Kamal,right-arm fast,2,146.5,881.0,760.0,5.187713310580205,3.0
+1544.0,Mohsin Khan,right-arm medium,1,2.0,12.0,5.0,2.5,70.0
+52327.0,Mohsin Mulla,right-arm medium,1,10.0,60.0,64.0,6.4,1.0
+47078.0,Moises Henriques,right-arm fast-medium,2,67.0,402.0,347.0,5.17910447761194,13.0
+58225.0,Mominul Haque,slow left-arm orthodox,2,39.0,234.0,190.0,4.871794871794871,25.0
+15625.0,Monde Zondeki,right-arm fast,2,93.0,558.0,504.0,5.419354838709677,1.0
+45550.0,Moneeb Iqbal,legbreak,2,45.0,270.0,270.0,6.0,8.0
+10782.0,Monty Panesar,slow left-arm orthodox,2,218.0,1308.0,980.0,4.495412844036697,5.0
+47289.0,Morne Morkel,right-arm fast,2,948.6,5706.0,4710.0,4.965211891208096,28.0
+7255.0,Morshed Ali Khan,left-arm medium,2,23.0,138.0,85.0,3.695652173913044,0.0
+67276.0,Mosaddek Hossain,right-arm offbreak,2,187.8,1130.0,969.0,5.159744408945687,25.0
+45158.0,Mosharraf Hossain,slow left-arm orthodox,2,33.0,198.0,147.0,4.454545454545454,4.0
+92095.0,Mrittunjoy Chowdhury,left-arm medium-fast,1,8.0,48.0,64.0,8.0,1.0
+49443.0,Mudassar Bukhari,right-arm medium-fast,2,339.2,2036.0,1601.0,4.719929245283019,30.0
+1515.0,Mudassar Nazar,right-arm medium,2,808.1,4855.0,3432.0,4.246999133770573,105.0
+114456.0,Muhammad Jawadullah,left-arm fast-medium,2,37.1,223.0,239.0,6.442048517520216,2.0
+95857.0,Muhammad Musa,right-arm fast-medium,1,16.1,97.0,101.0,6.273291925465838,0.0
+108314.0,Muhammad Waseem,right-arm medium,2,8.5,53.0,66.0,7.764705882352941,48.0
+108290.0,Muhammad Zuhaib,legbreak googly,2,17.0,102.0,83.0,4.882352941176471,3.0
+4358.0,Mujahid Jamshed,right-arm medium,1,4.0,24.0,6.0,1.5,2.0
+90165.0,Mujeeb Ur Rahman,right-arm offbreak,2,660.0,3968.0,2863.0,4.337878787878788,26.0
+85763.0,Mukesh Kumar,right-arm medium,2,39.0,234.0,217.0,5.564102564102564,1.0
+47100.0,Munaf Patel,right-arm medium-fast,2,523.8,3154.0,2603.0,4.969453990072547,11.0
+48750.0,Munir Dar,slow left-arm orthodox,1,18.0,108.0,89.0,4.944444444444445,2.0
+7136.0,Murali Kartik,slow left-arm orthodox,2,317.5,1907.0,1612.0,5.077165354330709,9.0
+49342.0,Murali Vijay,right-arm offbreak,1,6.0,36.0,37.0,6.166666666666667,16.0
+2003.0,Murphy Su'a,left-arm fast-medium,2,77.1,463.0,367.0,4.760051880674449,5.0
+1772.0,Murray Bennett,slow left-arm orthodox,2,68.0,408.0,275.0,4.044117647058823,3.0
+6292.0,Murray Goodwin,legbreak,2,40.8,248.0,210.0,5.147058823529412,67.0
+11246.0,Mushfiqur Rahman,right-arm fast-medium,2,221.2,1332.0,983.0,4.443942133815551,22.0
+1946.0,Mushtaq Ahmed,legbreak googly,2,1255.5,7543.0,5361.0,4.270011947431303,42.0
+1105.0,Mushtaq Mohammad,legbreak googly,1,7.0,42.0,23.0,3.2857142857142856,6.0
+54674.0,Mustafizur Rahman,left-arm fast-medium,2,831.5,5003.0,4307.0,5.179795550210463,21.0
+2041.0,Muthiah Muralidaran,right-arm offbreak,2,3129.1,18811.0,12326.0,3.939151832795373,99.0
+10409.0,Muthumudalige Pushpakumara,right-arm offbreak,1,5.0,30.0,21.0,4.2,0.0
+47983.0,Nadeem Ahmed,slow left-arm orthodox,2,221.1,1327.0,932.0,4.215287200361828,12.0
+1949.0,Nadeem Ghauri,slow left-arm orthodox,2,57.0,342.0,230.0,4.035087719298246,1.0
+2084.0,Nadeem Khan,slow left-arm orthodox,2,16.0,96.0,81.0,5.0625,1.0
+1487.0,Naeem Ahmed,slow left-arm orthodox,1,10.0,60.0,43.0,4.3,0.0
+2207.0,Naeem Ashraf,left-arm fast-medium,1,7.0,42.0,52.0,7.428571428571429,1.0
+47189.0,Naeem Islam,right-arm offbreak,2,289.9,1743.0,1407.0,4.853397723352881,36.0
+2209.0,Naimur Rahman,right-arm offbreak,2,181.4,1094.0,904.0,4.983461962513782,25.0
+35689.0,Najaf Shah,left-arm medium-fast,1,10.0,60.0,59.0,5.9,1.0
+19786.0,Najeeb Amar,slow left-arm orthodox,1,40.0,240.0,172.0,4.3,3.0
+65861.0,Najibullah Zadran,right-arm offbreak,2,5.0,30.0,30.0,6.0,71.0
+70872.0,Najmul Hossain Shanto,right-arm offbreak,2,12.8,80.0,75.0,5.859375,41.0
+89925.0,Nandre Burger,left-arm fast-medium,2,24.4,148.0,129.0,5.286885245901639,1.0
+106332.0,Nangeyalia Kharote,slow left-arm orthodox,1,9.0,54.0,30.0,3.333333333333333,1.0
+4015.0,Nantie Hayward,right-arm fast,2,165.3,993.0,858.0,5.190562613430127,4.0
+1876.0,Narendra Hirwani,legbreak googly,2,160.0,960.0,719.0,4.49375,4.0
+10223.0,Narsingh Deonarine,right-arm offbreak,2,83.3,501.0,475.0,5.702280912364946,26.0
+103399.0,Naseem Shah,right-arm fast,2,114.7,695.0,543.0,4.734088927637314,1.0
+1460.0,Naseer Malik,right-arm medium-fast,2,30.0,180.0,98.0,3.2666666666666666,0.0
+62028.0,Nasir Aziz,right-arm offbreak,2,44.0,264.0,257.0,5.840909090909091,3.0
+52363.0,Nasir Hossain,right-arm offbreak,2,208.4,1256.0,988.0,4.74088291746641,44.0
+65860.0,Nasir Jamal,right-arm offbreak,1,1.0,6.0,7.0,7.0,13.0
+56825.0,Nasum Ahmed,slow left-arm orthodox,2,120.7,727.0,550.0,4.556752278376139,7.0
+2235.0,Nathan Astle,right-arm medium,2,806.6,4850.0,3809.0,4.722291098437887,203.0
+7445.0,Nathan Bracken,left-arm fast-medium,2,956.3,5759.0,4240.0,4.433755097772666,17.0
+49958.0,Nathan Coulter-Nile,right-arm fast,2,279.0,1678.0,1555.0,5.573476702508961,15.0
+80817.0,Nathan Ellis,right-arm fast-medium,2,64.0,384.0,382.0,5.96875,3.0
+10122.0,Nathan Hauritz,right-arm offbreak,2,453.2,2724.0,2152.0,4.748455428067079,15.0
+50724.0,Nathan Lyon,right-arm offbreak,2,261.0,1566.0,1281.0,4.908045977011494,4.0
+10386.0,Nathan McCullum,right-arm offbreak,2,588.4,3536.0,2956.0,5.023793337865398,51.0
+59383.0,Natsai M'shangwe,legbreak,2,56.0,336.0,260.0,4.642857142857143,5.0
+74633.0,Navdeep Saini,right-arm fast,2,70.0,420.0,481.0,6.871428571428571,2.0
+1937.0,Naved Anjum,right-arm fast-medium,2,78.4,472.0,344.0,4.387755102040816,9.0
+8334.0,Naved Latif,right-arm medium,2,8.0,48.0,51.0,6.375,11.0
+19820.0,Naved-ul-Hasan,right-arm medium-fast,2,576.6,3466.0,3221.0,5.586194935830732,33.0
+110065.0,Naveed Zadran,right-arm medium,1,3.0,18.0,21.0,7.0,0.0
+79151.0,Naveen-ul-Haq,right-arm medium-fast,2,114.3,691.0,708.0,6.194225721784777,5.0
+1743.0,Navjot Sidhu,right-arm medium,1,0.4,4.0,3.0,7.5,119.0
+80083.0,Navneet Dhaliwal,right-arm medium-fast,1,1.0,6.0,20.0,20.0,7.0
+53602.0,Nawroz Mangal,right-arm offbreak,2,48.5,293.0,235.0,4.845360824742268,42.0
+47194.0,Nazmul Hossain,right-arm medium-fast,2,274.1,1649.0,1386.0,5.056548704852244,8.0
+62002.0,Nazmul Islam,slow left-arm orthodox,2,44.0,264.0,224.0,5.090909090909091,1.0
+1842.0,Neal Radford,right-arm fast-medium,2,58.0,348.0,230.0,3.9655172413793114,1.0
+8238.0,Neeyamur Rashid,right-arm medium-fast,1,13.0,78.0,66.0,5.076923076923077,1.0
+49383.0,Nehemiah Odhiambo,right-arm medium-fast,2,466.4,2808.0,2585.0,5.54245283018868,44.0
+8172.0,Nehemiah Perry,right-arm offbreak,2,157.0,946.0,783.0,4.987261146496815,8.0
+10176.0,Neil Carter,left-arm medium-fast,2,29.1,175.0,132.0,4.536082474226804,1.0
+1865.0,Neil Fairbrother,left-arm medium,1,1.0,6.0,9.0,9.0,53.0
+1733.0,Neil Foster,right-arm fast-medium,2,437.5,2627.0,1836.0,4.196571428571429,13.0
+4030.0,Neil Johnson,right-arm fast-medium,2,249.9,1503.0,1220.0,4.881952781112445,46.0
+7181.0,Neil McGarrell,slow left-arm orthodox,2,143.1,859.0,681.0,4.7589098532494765,8.0
+4060.0,Neil McKenzie,right-arm medium,1,7.4,46.0,27.0,3.6486486486486487,45.0
+2244.0,Neil Smith,right-arm offbreak,2,43.3,261.0,190.0,4.387990762124711,6.0
+49033.0,Nelon Pascal,right-arm fast,1,4.0,24.0,29.0,7.25,1.0
+53171.0,Nelson Odhiambo,right-arm medium-fast,2,53.0,318.0,256.0,4.830188679245283,6.0
+97318.0,Nestor Dhamba,right-arm offbreak,2,58.0,348.0,242.0,4.172413793103448,4.0
+62307.0,Neville Madziva,right-arm medium-fast,2,86.4,520.0,519.0,6.006944444444444,9.0
+21452.0,Nicholas Ifill,right-arm medium,2,12.0,72.0,88.0,7.333333333333333,3.0
+70405.0,Nicholas Pooran,right-arm offbreak,2,27.7,169.0,174.0,6.28158844765343,50.0
+8167.0,Nicholas de Groot,right-arm medium,2,13.3,81.0,88.0,6.616541353383458,6.0
+1732.0,Nick Cook,slow left-arm orthodox,2,24.0,144.0,95.0,3.9583333333333335,0.0
+7237.0,Nick Dyer,right-arm offbreak,2,26.0,156.0,117.0,4.5,1.0
+2239.0,Nicky Boje,slow left-arm orthodox,2,754.9,4541.0,3415.0,4.52377798383892,53.0
+59933.0,Nigel Jones,right-arm medium,2,64.1,389.0,234.0,3.650546021840874,5.0
+7271.0,Nikhil Chopra,right-arm offbreak,2,305.5,1835.0,1286.0,4.20949263502455,20.0
+56872.0,Nikhil Dutta,right-arm offbreak,2,48.0,288.0,206.0,4.291666666666667,4.0
+48087.0,Nikita Miller,slow left-arm orthodox,2,352.9,2125.0,1660.0,4.703882119580618,14.0
+1955.0,Nilantha Ratnayake,right-arm fast-medium,1,16.5,101.0,98.0,5.9393939393939394,0.0
+6233.0,Nilesh Kulkarni,slow left-arm orthodox,2,67.0,402.0,357.0,5.328358208955224,2.0
+7267.0,Niroshan Bandaratilleke,slow left-arm orthodox,2,24.0,144.0,111.0,4.625,1.0
+49174.0,Nisarg Patel,slow left-arm orthodox,2,268.7,1615.0,1281.0,4.767398585783401,28.0
+2125.0,Nishantha Ranatunga,right-arm medium-fast,2,17.0,102.0,82.0,4.823529411764706,1.0
+56868.0,Nitish Kumar,right-arm offbreak,2,11.0,66.0,63.0,5.727272727272728,14.0
+70411.0,Nitish Rana,right-arm medium,1,3.0,18.0,10.0,3.333333333333333,1.0
+3325.0,Nixon McLean,right-arm fast,2,352.4,2120.0,1729.0,4.906356413166856,26.0
+56923.0,Nizakat Khan,legbreak,2,24.1,145.0,119.0,4.937759336099584,20.0
+55146.0,Njabulo Ncube,right-arm fast-medium,1,8.5,53.0,69.0,8.117647058823529,0.0
+53396.0,Nkrumah Bonner,legbreak,2,10.5,65.0,55.0,5.238095238095238,5.0
+5617.0,Noel David,right-arm offbreak,2,32.0,192.0,133.0,4.15625,0.0
+105215.0,Noor Ahmad,left-arm wrist-spin,2,85.0,510.0,515.0,6.0588235294117645,3.0
+1560.0,Norbert Phillip,right-arm fast-medium,1,7.0,42.0,22.0,3.142857142857143,1.0
+1691.0,Norman Cowans,right-arm fast,2,213.4,1282.0,913.0,4.278350515463917,5.0
+1230.0,Norman Gifford,slow left-arm orthodox,2,20.0,120.0,50.0,2.5,1.0
+65887.0,Norman Vanua,right-arm medium,2,398.6,2402.0,2085.0,5.230807827395886,49.0
+71463.0,Nosaina Pokana,left-arm fast,2,164.1,989.0,762.0,4.643510054844607,9.0
+93827.0,Nosthush Kenjige,slow left-arm orthodox,2,312.0,1876.0,1327.0,4.253205128205129,17.0
+46206.0,Nuwan Kulasekara,right-arm fast-medium,2,1374.3,8263.0,6751.0,4.912318998763007,86.0
+54131.0,Nuwan Pradeep,right-arm fast-medium,2,390.1,2345.0,2339.0,5.99589848756729,8.0
+5413.0,Nuwan Zoysa,left-arm fast-medium,2,709.5,4259.0,3213.0,4.528541226215645,26.0
+96014.0,Nuwanidu Fernando,right-arm offbreak,1,2.0,12.0,22.0,11.0,4.0
+83915.0,Obed McCoy,left-arm fast-medium,2,14.0,84.0,109.0,7.785714285714286,0.0
+80451.0,Odean Smith,right-arm fast-medium,2,47.1,283.0,261.0,5.54140127388535,7.0
+110231.0,Oliver Davidson,slow left-arm orthodox,1,9.0,54.0,30.0,3.333333333333333,1.0
+10331.0,Oliver Pitcher,right-arm medium,1,2.3,15.0,25.0,10.869565217391305,5.0
+62459.0,Olly Stone,right-arm fast,2,53.0,318.0,317.0,5.981132075471698,2.0
+2059.0,Omar Henry,slow left-arm orthodox,2,24.5,149.0,125.0,5.1020408163265305,2.0
+17794.0,Omari Banks,right-arm offbreak,2,45.0,270.0,189.0,4.2,5.0
+51176.0,Oronde Bascome,right-arm medium,1,3.0,18.0,22.0,7.333333333333333,6.0
+57982.0,Oshada Fernando,legbreak,1,2.0,12.0,16.0,8.0,8.0
+84225.0,Oshane Thomas,right-arm fast,2,152.4,920.0,1034.0,6.784776902887139,6.0
+2215.0,Ottis Gibson,right-arm fast,2,121.9,739.0,621.0,5.09433962264151,10.0
+6377.0,Owais Shah,right-arm offbreak,2,32.1,193.0,184.0,5.73208722741433,60.0
+48249.0,Pankaj Singh,right-arm medium-fast,1,7.0,42.0,45.0,6.428571428571429,0.0
+47455.0,Paras Khadka,right-arm medium-fast,2,62.0,372.0,243.0,3.9193548387096775,9.0
+2293.0,Paras Mhambrey,right-arm medium,2,21.0,126.0,120.0,5.714285714285714,0.0
+1471.0,Parbhu Nana,slow left-arm orthodox,2,28.5,173.0,116.0,4.0701754385964914,1.0
+61997.0,Pargat Singh,right-arm offbreak,1,14.0,84.0,61.0,4.357142857142857,10.0
+61863.0,Parth Desai,slow left-arm orthodox,2,102.0,612.0,485.0,4.754901960784314,3.0
+58365.0,Parvez Rasool,right-arm offbreak,1,10.0,60.0,60.0,6.0,0.0
+64244.0,Pat Cummins,right-arm fast,2,761.5,4583.0,4042.0,5.307944845699278,36.0
+1315.0,Pat Pocock,right-arm offbreak,1,10.0,60.0,20.0,2.0,1.0
+2098.0,Pat Symcox,right-arm offbreak,2,665.1,3991.0,2762.0,4.152758983611487,41.0
+1799.0,Patrick Patterson,right-arm fast,2,507.0,3050.0,2206.0,4.351084812623274,5.0
+2284.0,Patterson Thompson,right-arm fast-medium,2,19.0,114.0,110.0,5.789473684210527,1.0
+2234.0,Paul Adams,left-arm wrist-spin,2,184.5,1109.0,815.0,4.417344173441735,4.0
+1648.0,Paul Allott,right-arm fast-medium,2,135.9,819.0,552.0,4.061810154525386,5.0
+2314.0,Paul Collingwood,right-arm medium,2,863.4,5186.0,4294.0,4.97336113041464,144.0
+7008.0,Paul Franks,right-arm fast-medium,1,9.0,54.0,48.0,5.333333333333333,1.0
+4280.0,Paul Grayson,slow left-arm orthodox,1,15.0,90.0,60.0,4.0,2.0
+20369.0,Paul Harris,slow left-arm orthodox,1,30.0,180.0,83.0,2.7666666666666666,0.0
+10325.0,Paul Hitchcock,right-arm medium,2,93.0,558.0,468.0,5.032258064516129,4.0
+45549.0,Paul Hoffmann,right-arm medium-fast,2,123.5,743.0,555.0,4.493927125506073,11.0
+1880.0,Paul Jarvis,right-arm fast-medium,2,145.9,879.0,672.0,4.605894448252228,6.0
+1625.0,Paul McEwan,right-arm medium,2,70.0,420.0,353.0,5.042857142857143,15.0
+9205.0,Paul Mooney,right-arm medium,2,14.3,87.0,100.0,6.9930069930069925,1.0
+2005.0,Paul Reiffel,right-arm fast-medium,2,788.0,4732.0,3096.0,3.928934010152284,36.0
+52631.0,Paul Stirling,right-arm offbreak,2,406.1,2441.0,1942.0,4.782073380940655,151.0
+2169.0,Paul Strang,legbreak googly,2,723.9,4351.0,3173.0,4.383202099737533,49.0
+2074.0,Paul Taylor,left-arm fast-medium,1,3.0,18.0,20.0,6.666666666666667,1.0
+6291.0,Paul Wilson,right-arm fast-medium,2,93.4,562.0,450.0,4.817987152034261,3.0
+7211.0,Paul Wiseman,right-arm offbreak,2,74.6,450.0,368.0,4.9329758713136735,2.0
+56854.0,Paul van Meekeren,right-arm fast-medium,2,171.2,1028.0,987.0,5.765186915887851,11.0
+2262.0,Paul-Jan Bakker,right-arm medium-fast,2,43.0,258.0,215.0,5.0,0.0
+95870.0,Pawan Sarraf,right-arm offbreak,2,53.4,322.0,251.0,4.700374531835206,9.0
+7567.0,Pedro Collins,left-arm fast-medium,2,262.5,1577.0,1212.0,4.617142857142857,7.0
+1461.0,Pervez Mir,right-arm medium-fast,1,19.0,122.0,77.0,4.052631578947368,2.0
+45001.0,Peter Borren,right-arm medium,2,329.5,1979.0,1620.0,4.916540212443096,45.0
+2253.0,Peter Cantrell,right-arm offbreak,2,31.0,186.0,170.0,5.483870967741935,5.0
+65913.0,Peter Chase,right-arm medium-fast,2,206.2,1238.0,1356.0,6.5761396702230845,10.0
+52609.0,Peter Connell,right-arm medium-fast,2,94.0,564.0,518.0,5.51063829787234,2.0
+2013.0,Peter Kirsten,right-arm offbreak,2,30.3,183.0,152.0,5.016501650165017,35.0
+1365.0,Peter Lever,right-arm fast-medium,2,67.2,440.0,261.0,3.883928571428571,1.0
+2213.0,Peter Martin,right-arm fast-medium,2,174.4,1048.0,806.0,4.621559633027522,6.0
+9228.0,Peter Ongondo,right-arm fast-medium,2,516.2,3102.0,2350.0,4.552499031383184,43.0
+1725.0,Peter Rawson,right-arm fast-medium,2,95.1,571.0,427.0,4.490010515247109,5.0
+45980.0,Peter Siddle,right-arm fast-medium,2,150.1,901.0,743.0,4.9500333111259165,3.0
+1859.0,Peter Taylor,right-arm offbreak,2,655.7,3937.0,2740.0,4.17874027756596,22.0
+1501.0,Peter Willey,right-arm offbreak,2,171.5,1031.0,659.0,3.8425655976676394,23.0
+1576.0,Phil Carlson,right-arm medium,2,21.0,168.0,70.0,3.333333333333333,2.0
+1850.0,Phil DeFreitas,right-arm fast-medium,2,949.6,5712.0,3775.0,3.975358045492839,43.0
+46819.0,Phil Eaglestone,left-arm medium,1,7.0,42.0,60.0,8.571428571428571,1.0
+1450.0,Phil Edmonds,slow left-arm orthodox,2,246.2,1534.0,965.0,3.9195775792038994,11.0
+1879.0,Phil Simmons,right-arm medium,2,645.2,3880.0,2876.0,4.457532548047117,127.0
+1984.0,Phil Tufnell,slow left-arm orthodox,2,170.0,1020.0,699.0,4.1117647058823525,1.0
+93297.0,Philippe Boissevain,legbreak googly,2,46.3,279.0,326.0,7.041036717062635,6.0
+45237.0,Piet Rinke,right-arm fast-medium,2,45.7,277.0,273.0,5.973741794310722,18.0
+48503.0,Pieter Seelaar,slow left-arm orthodox,2,434.1,2609.0,2034.0,4.6855563234277815,29.0
+4122.0,Pieter Strydom,slow left-arm orthodox,2,42.0,252.0,206.0,4.904761904761905,5.0
+53164.0,Pikky Ya France,right-arm offbreak,2,144.1,865.0,661.0,4.587092297015961,10.0
+73499.0,Pipi Raho,right-arm fast-medium,1,7.3,45.0,32.0,4.383561643835616,0.0
+47185.0,Piyush Chawla,legbreak,2,218.4,1312.0,1117.0,5.114468864468864,7.0
+3399.0,Pommie Mbangwa,right-arm fast-medium,2,227.7,1369.0,1140.0,5.006587615283268,7.0
+60591.0,Prabath Jayasuriya,slow left-arm orthodox,2,16.0,96.0,95.0,5.9375,1.0
+8201.0,Prabath Nissanka,right-arm medium-fast,2,165.7,997.0,857.0,5.171997585998794,8.0
+47095.0,Pradeep Jeyapragash,right-arm fast-medium,1,6.0,36.0,21.0,3.5,0.0
+48431.0,Pragyan Ojha,slow left-arm orthodox,2,145.6,876.0,652.0,4.478021978021978,2.0
+80773.0,Pramod Madushan,right-arm medium-fast,2,60.2,362.0,426.0,7.07641196013289,5.0
+1998.0,Pramodya Wickramasinghe,right-arm fast-medium,2,951.6,5720.0,4321.0,4.540773434216057,40.0
+2195.0,Prashant Vaidya,right-arm medium-fast,1,30.4,184.0,174.0,5.723684210526316,2.0
+84635.0,Prasidh Krishna,right-arm fast-medium,2,131.8,794.0,742.0,5.6297420333839145,2.0
+105076.0,Pratis GC,left-arm medium,2,21.0,126.0,90.0,4.285714285714286,0.0
+93043.0,Praveen Jayawickrama,slow left-arm orthodox,2,33.0,198.0,177.0,5.363636363636363,1.0
+48319.0,Praveen Kumar,right-arm medium,2,539.8,3242.0,2774.0,5.13894034827714,21.0
+2057.0,Pravin Amre,legbreak,1,0.2,2.0,4.0,20.0,25.0
+62583.0,Preston Mommsen,right-arm offbreak,2,22.0,132.0,130.0,5.909090909090909,36.0
+49118.0,Prince Masvaure,left-arm fast-medium,1,3.0,18.0,19.0,6.333333333333333,2.0
+45326.0,Prosper Utseya,right-arm offbreak,2,1427.1,8571.0,6239.0,4.371802957045757,84.0
+20731.0,Pulasthi Gunaratne,right-arm fast-medium,2,159.1,959.0,908.0,5.707102451288498,5.0
+87553.0,Qadeer Ahmed,right-arm medium-fast,2,86.0,516.0,467.0,5.430232558139535,2.0
+84117.0,Qais Ahmad,legbreak,2,21.4,130.0,133.0,6.214953271028038,2.0
+48703.0,Qaiser Ali,right-arm offbreak,2,30.2,182.0,132.0,4.370860927152318,16.0
+1825.0,R.P.Singh,left-arm fast-medium,2,13.4,82.0,77.0,5.746268656716418,0.0
+47123.0,RP Singh,left-arm fast-medium,2,426.9,2565.0,2343.0,5.488404778636683,10.0
+89105.0,Rachin Ravindra,slow left-arm orthodox,2,138.7,835.0,839.0,6.049026676279741,20.0
+53786.0,Raees Ahmadzai,right-arm offbreak,1,4.0,24.0,16.0,4.0,3.0
+47212.0,Ragheb Aga,right-arm medium-fast,2,67.0,402.0,320.0,4.776119402985074,9.0
+54013.0,Rahat Ali,left-arm fast-medium,2,113.1,679.0,658.0,5.817860300618921,3.0
+66398.0,Rahmat Shah,legbreak googly,2,89.9,543.0,532.0,5.917686318131256,103.0
+103385.0,Rahul Bhatia,slow left-arm orthodox,1,17.9,111.0,124.0,6.927374301675978,2.0
+95219.0,Rahul Chahar,legbreak googly,1,10.0,60.0,54.0,5.4,1.0
+2281.0,Rahul Dravid,right-arm offbreak,2,31.0,186.0,170.0,5.483870967741935,278.0
+7058.0,Rahul Sanghvi,slow left-arm orthodox,2,83.0,498.0,399.0,4.807228915662651,2.0
+50810.0,Rahul Sharma,legbreak googly,2,34.2,206.0,177.0,5.175438596491228,3.0
+2272.0,Rajab Ali,right-arm medium-fast,2,56.2,338.0,255.0,4.537366548042704,0.0
+47179.0,Rajesh Bhudia,right-arm medium,2,30.0,180.0,151.0,5.033333333333333,5.0
+2072.0,Rajesh Chauhan,right-arm offbreak,2,272.2,1634.0,1216.0,4.46730345334313,13.0
+10340.0,Rajin Saleh,right-arm offbreak,2,89.5,539.0,459.0,5.128491620111732,42.0
+1816.0,Rajinder Singh Ghai,right-arm medium-fast,2,45.5,275.0,260.0,5.714285714285714,1.0
+2172.0,Rajindra Dhanraj,legbreak googly,2,44.0,264.0,170.0,3.863636363636364,1.0
+1847.0,Raju Kulkarni,right-arm fast-medium,2,74.0,444.0,345.0,4.662162162162162,2.0
+50293.0,Rakep Patel,right-arm offbreak,2,28.0,168.0,135.0,4.821428571428571,31.0
+1858.0,Raman Lamba,right-arm medium,2,3.1,19.0,20.0,6.451612903225806,29.0
+48747.0,Rameez Shahzad,right-arm offbreak,2,5.0,30.0,33.0,6.6,23.0
+57853.0,Ramesh David,right-arm offbreak,2,16.0,96.0,74.0,4.625,3.0
+70898.0,Ramesh Mendis,right-arm offbreak,2,12.0,72.0,74.0,6.166666666666667,2.0
+10671.0,Ramesh Powar,right-arm offbreak,2,255.6,1536.0,1191.0,4.65962441314554,14.0
+1464.0,Ramesh Sethi,right-arm offbreak,2,20.0,120.0,100.0,5.0,3.0
+1750.0,Ramiz Raja,legbreak,1,1.0,6.0,10.0,10.0,183.0
+6405.0,Ramnaresh Sarwan,legbreak,2,96.5,581.0,586.0,6.072538860103627,138.0
+1714.0,Randhir Singh,right-arm fast-medium,1,12.0,72.0,48.0,4.0,0.0
+8460.0,Rangana Herath,slow left-arm orthodox,2,539.4,3242.0,2362.0,4.378939562476826,15.0
+1664.0,Ranjan Madugalle,right-arm offbreak,1,0.4,4.0,1.0,2.5,51.0
+1913.0,Ranjith Madurasinghe,right-arm offbreak,2,80.0,480.0,358.0,4.475,2.0
+36618.0,Rashid,right-arm offbreak,2,9.5,59.0,69.0,7.263157894736842,2.0
+1670.0,Rashid Khan,right-arm fast-medium,2,235.0,1414.0,923.0,3.927659574468085,75.0
+79159.0,Rashid Khan,legbreak googly,2,880.0,5300.0,3748.0,4.259090909090909,75.0
+1919.0,Rashid Patel,left-arm fast-medium,1,10.0,60.0,58.0,5.8,0.0
+55398.0,Rassie van der Dussen,legbreak,1,1.0,6.0,3.0,3.0,45.0
+104770.0,Ravi Bishnoi,legbreak googly,1,8.0,48.0,69.0,8.625,0.0
+44691.0,Ravi Bopara,right-arm medium,2,309.2,1860.0,1523.0,4.925614489003881,88.0
+45258.0,Ravi Rampaul,right-arm fast-medium,2,670.1,4033.0,3434.0,5.124608267422772,29.0
+1671.0,Ravi Ratnayeke,right-arm fast-medium,2,593.3,3573.0,2866.0,4.830608461149503,55.0
+7256.0,Ravi Shah,right-arm medium-fast,2,10.0,60.0,72.0,7.2,54.0
+1639.0,Ravi Shastri,slow left-arm orthodox,2,1101.3,6613.0,4650.0,4.2222827567420325,107.0
+12894.0,Ravichandran Ashwin,right-arm offbreak,2,1049.5,6303.0,5180.0,4.935683658885184,43.0
+49247.0,Ravindra Jadeja,slow left-arm orthodox,2,1621.4,9750.0,7936.0,4.894535586530159,85.0
+2164.0,Ravindra Pushpakumara,right-arm fast-medium,2,238.2,1430.0,1181.0,4.958018471872377,4.0
+5330.0,Rawl Lewis,legbreak googly,2,191.4,1150.0,983.0,5.135841170323928,16.0
+1528.0,Ray Bright,slow left-arm orthodox,2,74.4,462.0,350.0,4.704301075268817,4.0
+1081.0,Ray Illingworth,right-arm offbreak,2,19.0,130.0,84.0,4.421052631578948,2.0
+7432.0,Ray Price,slow left-arm orthodox,2,894.2,5374.0,3575.0,3.997987027510624,42.0
+47134.0,Rayad Emrit,right-arm medium-fast,1,14.0,84.0,99.0,7.071428571428571,1.0
+62139.0,Raymon Reifer,left-arm medium-fast,2,26.5,161.0,149.0,5.622641509433962,5.0
+65665.0,Rayyan Pathan,right-arm fast-medium,1,6.0,36.0,50.0,8.333333333333334,1.0
+56573.0,Raza Hasan,slow left-arm orthodox,1,10.0,60.0,68.0,6.8,1.0
+49902.0,Raza-ur-Rehman,left-arm medium-fast,2,19.8,122.0,128.0,6.4646464646464645,5.0
+62587.0,Reece Topley,left-arm fast-medium,2,221.4,1338.0,1202.0,5.429087624209576,3.0
+7128.0,Reetinder Sodhi,right-arm medium,2,77.0,462.0,365.0,4.740259740259741,11.0
+50416.0,Reeza Hendricks,right-arm offbreak,2,7.0,42.0,47.0,6.714285714285714,32.0
+10313.0,Regan West,left-arm fast-medium,2,74.3,447.0,279.0,3.7550471063257063,2.0
+109430.0,Rehan Ahmed,legbreak googly,2,47.0,282.0,233.0,4.957446808510638,4.0
+52606.0,Reinhardt Strydom,left-arm medium-fast,1,8.0,48.0,63.0,7.875,6.0
+6403.0,Reon King,right-arm fast-medium,2,433.1,2603.0,1807.0,4.172246594320018,9.0
+8353.0,Ricardo Powell,right-arm offbreak,2,78.1,473.0,491.0,6.286811779769526,84.0
+1250.0,Richard Collinge,left-arm medium-fast,2,129.1,859.0,479.0,3.710302091402014,6.0
+1761.0,Richard Ellison,right-arm medium-fast,2,116.0,696.0,510.0,4.396551724137931,8.0
+1407.0,Richard Hadlee,right-arm fast,2,1016.2,6182.0,3407.0,3.352686479039559,82.0
+1993.0,Richard Illingworth,slow left-arm orthodox,2,250.1,1501.0,1059.0,4.234306277489004,6.0
+4481.0,Richard Johnson,right-arm medium,2,67.0,402.0,239.0,3.567164179104477,3.0
+79665.0,Richard Ngarava,left-arm fast-medium,2,325.3,1957.0,1739.0,5.345834614202275,15.0
+1966.0,Richard Petrie,right-arm fast-medium,2,110.0,660.0,449.0,4.081818181818182,5.0
+21404.0,Richard Sims,right-arm offbreak,2,22.0,132.0,127.0,5.7727272727272725,1.0
+2018.0,Richard Snell,right-arm fast-medium,2,347.9,2095.0,1574.0,4.5242885886749065,20.0
+7500.0,Richard Staple,right-arm offbreak,1,10.0,60.0,76.0,7.6,2.0
+1718.0,Richard Webb,right-arm fast-medium,2,26.5,161.0,105.0,3.962264150943396,0.0
+2103.0,Richard de Groen,right-arm fast-medium,2,91.3,549.0,478.0,5.235487404162103,5.0
+48469.0,Richie Berrington,right-arm medium-fast,2,257.4,1550.0,1345.0,5.225330225330226,96.0
+1744.0,Richie Richardson,right-arm medium,2,9.4,58.0,46.0,4.893617021276596,188.0
+2230.0,Ricky Ponting,right-arm medium,2,25.0,150.0,104.0,4.16,327.0
+99208.0,Rijan Dhakal,left-arm medium,2,14.0,84.0,75.0,5.357142857142857,1.0
+36483.0,Rikki Clarke,right-arm medium-fast,2,77.7,469.0,415.0,5.341055341055341,13.0
+53649.0,Rilee Rossouw,right-arm offbreak,1,7.3,45.0,44.0,6.027397260273973,32.0
+71475.0,Riley Hekure,right-arm medium,2,158.1,953.0,733.0,4.636306135357369,22.0
+89779.0,Riley Meredith,right-arm fast,1,5.0,30.0,36.0,7.2,0.0
+75591.0,Rinku Singh,right-arm offbreak,1,1.0,6.0,2.0,2.0,2.0
+102030.0,Rishad Hossain,legbreak googly,2,21.2,128.0,117.0,5.518867924528302,1.0
+51491.0,Rishi Dhawan,right-arm medium-fast,2,25.0,150.0,160.0,6.4,1.0
+8274.0,Rizwan Ahmed,legbreak googly,1,4.0,24.0,26.0,6.5,0.0
+57551.0,Rizwan Cheema,right-arm medium,2,220.2,1330.0,1095.0,4.9727520435967305,31.0
+47753.0,Rizwan Latif,slow left-arm orthodox,1,9.0,54.0,69.0,7.666666666666667,1.0
+1909.0,Rob Bailey,right-arm offbreak,1,6.0,36.0,25.0,4.166666666666667,2.0
+44895.0,Rob Nicol,right-arm medium,2,56.3,339.0,329.0,5.843694493783304,19.0
+57140.0,Rob Taylor,left-arm medium,2,118.5,713.0,617.0,5.206751054852321,11.0
+1613.0,Robert Callender,right-arm medium-fast,1,9.0,54.0,26.0,2.888888888888889,2.0
+2334.0,Robert Croft,right-arm offbreak,2,411.0,2466.0,1743.0,4.240875912408759,24.0
+1455.0,Robert Haynes,legbreak googly,2,45.0,270.0,224.0,4.977777777777778,5.0
+2237.0,Robert Kennedy,right-arm medium,2,52.0,312.0,283.0,5.4423076923076925,1.0
+1643.0,Robin Jackman,right-arm fast-medium,2,145.3,873.0,598.0,4.115622849277357,8.0
+9492.0,Robin Peterson,slow left-arm orthodox,2,545.0,3278.0,2680.0,4.91743119266055,27.0
+1956.0,Robin Singh,right-arm medium-fast,2,621.0,3734.0,2985.0,4.806763285024155,90.0
+8742.0,Robin Uthappa,right-arm medium,1,0.2,2.0,0.0,0.0,36.0
+48957.0,Robiul Islam,right-arm fast-medium,1,21.7,133.0,117.0,5.391705069124424,0.0
+2006.0,Rod Latham,right-arm medium,2,75.0,450.0,386.0,5.1466666666666665,29.0
+1817.0,Rod McCurdy,right-arm fast-medium,2,85.1,515.0,375.0,4.406580493537016,4.0
+1569.0,Rodney Hogg,right-arm fast,2,610.1,3677.0,2418.0,3.963284707425012,16.0
+50292.0,Rodney Trott,right-arm offbreak,2,88.9,537.0,412.0,4.634420697412823,6.0
+47391.0,Roelof van der Merwe,slow left-arm orthodox,2,222.3,1335.0,1088.0,4.894286999550157,14.0
+1590.0,Roger Binny,right-arm medium,2,490.5,2957.0,2260.0,4.607543323139653,39.0
+1745.0,Roger Harper,right-arm offbreak,2,862.3,5175.0,3431.0,3.978893656500058,53.0
+2352.0,Roger Telemachus,right-arm fast-medium,2,319.4,1918.0,1565.0,4.899812147777082,12.0
+2226.0,Roger Twose,right-arm medium,2,44.8,272.0,235.0,5.245535714285714,71.0
+49448.0,Roger Whelan,right-arm medium-fast,2,15.0,90.0,99.0,6.6,2.0
+1678.0,Roger Wijesuriya,slow left-arm orthodox,2,52.0,312.0,287.0,5.519230769230769,1.0
+7133.0,Rohan Gavaskar,slow left-arm orthodox,2,12.0,72.0,74.0,6.166666666666667,8.0
+53033.0,Rohan Mustafa,right-arm offbreak,2,629.9,3787.0,2831.0,4.494364184791237,70.0
+95873.0,Rohit Paudel,right-arm offbreak,2,51.1,311.0,194.0,3.796477495107632,53.0
+48405.0,Rohit Sharma,right-arm offbreak,2,99.0,598.0,522.0,5.2727272727272725,219.0
+79177.0,Rokhan Barakzai,slow left-arm orthodox,1,10.0,60.0,45.0,4.5,0.0
+2256.0,Roland Lefebvre,right-arm medium,2,89.0,534.0,346.0,3.8876404494382015,6.0
+72505.0,Romario Shepherd,right-arm fast-medium,2,194.2,1170.0,1083.0,5.576725025746653,22.0
+2359.0,Ronnie Irani,right-arm medium,2,213.5,1283.0,989.0,4.63231850117096,25.0
+64516.0,Ronsford Beaton,right-arm fast-medium,2,17.0,102.0,102.0,6.0,1.0
+45889.0,Rory Kleinveldt,right-arm fast-medium,2,85.3,513.0,448.0,5.2520515826494725,7.0
+47381.0,Ross Lyons,slow left-arm orthodox,2,182.1,1093.0,901.0,4.947830862163647,4.0
+44930.0,Ross Taylor,right-arm offbreak,2,7.0,42.0,35.0,5.0,181.0
+59349.0,Roston Chase,right-arm offbreak,2,258.5,1553.0,1255.0,4.854932301740813,30.0
+80425.0,Rovman Powell,right-arm medium-fast,2,46.0,280.0,275.0,5.978260869565218,45.0
+1661.0,Roy Dias,right-arm offbreak,2,9.2,56.0,70.0,7.608695652173914,50.0
+1322.0,Roy Fredericks,left-arm wrist-spin,1,1.4,10.0,10.0,7.142857142857143,12.0
+15350.0,Roy Lamsam,right-arm medium,1,6.0,36.0,47.0,7.833333333333333,2.0
+62479.0,Ruaidhri Smith,right-arm medium,1,15.0,90.0,97.0,6.466666666666667,1.0
+52364.0,Rubel Hossain,right-arm fast,2,777.8,4678.0,4427.0,5.691694523013629,29.0
+74479.0,Ruben Trumpelmann,left-arm fast,2,307.5,1855.0,1462.0,4.754471544715448,24.0
+7989.0,Ruchira Perera,left-arm medium-fast,2,148.0,888.0,820.0,5.54054054054054,5.0
+3956.0,Rudi Bryson,right-arm fast-medium,2,63.0,378.0,323.0,5.126984126984127,1.0
+5527.0,Rudi van Vuuren,right-arm fast-medium,1,50.0,300.0,298.0,5.96,3.0
+1704.0,Rumesh Ratnayake,right-arm fast-medium,2,593.1,3575.0,2712.0,4.572584724329793,37.0
+62088.0,Rumman Raees,left-arm medium-fast,2,76.7,463.0,464.0,6.049543676662321,3.0
+10460.0,Runako Morton,right-arm medium,1,1.0,6.0,2.0,2.0,45.0
+64411.0,Runish Gudhka,right-arm offbreak,1,13.0,78.0,60.0,4.615384615384615,1.0
+5611.0,Russel Arnold,right-arm offbreak,2,357.7,2157.0,1739.0,4.861615879228403,112.0
+48863.0,Rusty Theron,right-arm medium-fast,2,129.6,780.0,667.0,5.146604938271605,10.0
+46517.0,Ruud Nijman,right-arm medium-fast,1,8.1,49.0,31.0,3.8271604938271606,0.0
+2095.0,Ruwan Kalpage,right-arm offbreak,2,659.2,3960.0,2975.0,4.513046116504854,41.0
+64447.0,Ryan Burl,legbreak,2,120.6,730.0,766.0,6.351575456053069,38.0
+12601.0,Ryan Harris,right-arm fast,2,171.1,1031.0,832.0,4.862653419053186,6.0
+48461.0,Ryan Higgins,legbreak,2,90.0,544.0,380.0,4.222222222222222,6.0
+9723.0,Ryan Hinds,slow left-arm orthodox,2,67.5,407.0,350.0,5.185185185185185,6.0
+10498.0,Ryan Hurley,right-arm offbreak,2,63.0,378.0,313.0,4.968253968253968,4.0
+69371.0,Ryan Klein,right-arm medium-fast,2,102.3,615.0,521.0,5.0928641251221896,7.0
+45890.0,Ryan McLaren,right-arm medium-fast,2,391.5,2355.0,2046.0,5.226053639846743,25.0
+4647.0,Ryan Sidebottom,left-arm fast-medium,2,212.1,1277.0,1039.0,4.8986327204148985,10.0
+48009.0,Ryan Steede,right-arm fast-medium,2,52.0,312.0,257.0,4.9423076923076925,6.0
+45548.0,Ryan Watson,right-arm medium,2,95.0,570.0,528.0,5.557894736842106,31.0
+45358.0,Ryan ten Doeschate,right-arm medium-fast,2,262.8,1580.0,1327.0,5.049467275494672,23.0
+57366.0,Saad Bin Zafar,slow left-arm orthodox,2,110.0,660.0,486.0,4.418181818181818,8.0
+53538.0,Saad Nasim,legbreak,2,6.0,36.0,46.0,7.666666666666667,2.0
+1730.0,Saadat Ali,right-arm offbreak,2,4.3,27.0,29.0,6.744186046511628,6.0
+58220.0,Sabbir Rahman,legbreak,2,50.6,306.0,345.0,6.818181818181818,52.0
+112929.0,Sabir Ali,left-arm fast-medium,2,17.0,102.0,91.0,5.352941176470588,2.0
+1934.0,Sachin Tendulkar,right-arm offbreak,2,1339.8,8054.0,6850.0,5.112703388565458,412.0
+48620.0,Sachith Pathirana,slow left-arm orthodox,2,127.3,765.0,720.0,5.655930871956009,13.0
+50837.0,Sachithra Senanayake,right-arm offbreak,2,392.2,2358.0,1874.0,4.77817440081591,22.0
+7574.0,Sadagoppan Ramesh,right-arm offbreak,2,6.0,36.0,38.0,6.333333333333333,23.0
+1348.0,Sadiq Mohammad,legbreak googly,1,6.2,38.0,26.0,4.193548387096774,18.0
+19930.0,Saeed Ajmal,right-arm offbreak,2,997.6,6000.0,4182.0,4.1920609462710505,46.0
+1981.0,Saeed Anwar,slow left-arm orthodox,2,39.8,242.0,191.0,4.798994974874372,225.0
+2276.0,Saeed-al-Saffar,left-arm medium-fast,1,3.0,18.0,25.0,8.333333333333334,0.0
+60201.0,Safyaan Sharif,right-arm medium-fast,2,625.7,3769.0,3123.0,4.991209844973629,30.0
+102478.0,Sagar Dhakal,slow left-arm orthodox,2,38.1,229.0,148.0,3.884514435695538,1.0
+73497.0,Sahan Arachchige,right-arm offbreak,1,7.0,42.0,28.0,4.0,3.0
+102753.0,Sai Sudharsan,legbreak,1,0.3,3.0,8.0,26.666666666666668,2.0
+1968.0,Saiful Islam,right-arm medium,2,50.3,303.0,256.0,5.0894632206759445,2.0
+6978.0,Sairaj Bahutule,legbreak,2,49.0,294.0,283.0,5.775510204081633,3.0
+21172.0,Sajeewa Weerakoon,slow left-arm orthodox,1,10.0,60.0,49.0,4.9,0.0
+4172.0,Sajeewa de Silva,left-arm fast-medium,2,268.7,1619.0,1323.0,4.923706736136956,6.0
+45098.0,Sajid Mahmood,right-arm fast-medium,2,198.9,1197.0,1169.0,5.8773252890899945,11.0
+1963.0,Sajjad Akbar,right-arm offbreak,1,10.0,60.0,45.0,4.5,1.0
+1298.0,Saleem Altaf,right-arm fast-medium,2,40.7,285.0,151.0,3.71007371007371,1.0
+2227.0,Saleem Elahi,right-arm offbreak,1,1.0,6.0,10.0,10.0,43.0
+1853.0,Saleem Jaffar,left-arm fast-medium,2,316.0,1900.0,1382.0,4.373417721518988,2.0
+1672.0,Saleem Malik,right-arm slow-medium,2,582.1,3505.0,2959.0,5.083319017350971,218.0
+47975.0,Saleem Mukuddem,right-arm medium,2,160.0,960.0,752.0,4.7,14.0
+2145.0,Saleem Raza,right-arm offbreak,2,32.0,192.0,179.0,5.59375,6.0
+1932.0,Salil Ankola,right-arm medium-fast,2,134.3,807.0,615.0,4.579300074460163,9.0
+1783.0,Saliya Ahangama,right-arm medium,1,3.0,18.0,23.0,7.666666666666667,0.0
+11647.0,Salman Butt,right-arm offbreak,2,11.3,69.0,90.0,7.964601769911503,75.0
+15534.0,Salman Farooq,right-arm offbreak,1,6.0,36.0,23.0,3.8333333333333335,0.0
+72103.0,Sam Curran,left-arm medium-fast,2,211.7,1277.0,1323.0,6.24940954180444,21.0
+8962.0,Saman Jayantha,right-arm offbreak,2,9.1,55.0,46.0,5.054945054945055,15.0
+46718.0,Sami Faridi,left-arm wrist-spin,2,10.0,60.0,63.0,6.3,2.0
+34736.0,Samit Patel,slow left-arm orthodox,2,197.5,1187.0,1091.0,5.5240506329113925,15.0
+36130.0,Samiullah Khan,left-arm medium-fast,2,20.0,120.0,115.0,5.75,0.0
+53605.0,Samiullah Shinwari,legbreak,2,351.1,2111.0,1729.0,4.924522927940758,62.0
+1835.0,Samiur Rahman,right-arm fast-medium,1,10.0,60.0,30.0,3.0,2.0
+1988.0,Sanath Jayasuriya,slow left-arm orthodox,2,2471.8,14874.0,11871.0,4.802573023707419,418.0
+1753.0,Sanath Kaluperuma,right-arm offbreak,1,1.0,6.0,3.0,3.0,2.0
+106351.0,Sanchit Sharma,right-arm medium,2,57.0,342.0,323.0,5.666666666666667,4.0
+104599.0,Sandeep Goud,right-arm medium,2,16.0,96.0,89.0,5.5625,23.0
+47081.0,Sandeep Jyoti,right-arm offbreak,2,20.0,120.0,90.0,4.5,12.0
+89165.0,Sandeep Lamichhane,legbreak googly,2,461.8,2774.0,2023.0,4.380684278908618,27.0
+1618.0,Sandeep Patil,right-arm medium,2,144.0,864.0,589.0,4.090277777777778,41.0
+8040.0,Sanjay Bangar,right-arm medium-fast,2,73.4,442.0,384.0,5.231607629427793,13.0
+110163.0,Sanjay Krishnamurthi,slow left-arm orthodox,2,7.0,42.0,27.0,3.857142857142857,3.0
+1869.0,Sanjay Manjrekar,right-arm offbreak,1,0.8,8.0,10.0,12.5,60.0
+7135.0,Sanjay Raul,right-arm offbreak,2,6.0,36.0,27.0,4.5,2.0
+21461.0,Sanjayan Thuraisingam,right-arm fast-medium,2,69.7,421.0,305.0,4.375896700143472,7.0
+1920.0,Sanjeev Sharma,right-arm medium,2,162.3,979.0,813.0,5.009242144177449,8.0
+7062.0,Sanuar Hossain,right-arm offbreak,2,63.5,383.0,327.0,5.149606299212598,25.0
+71381.0,Saqib Mahmood,right-arm fast-medium,2,69.5,419.0,320.0,4.60431654676259,2.0
+66040.0,Saqib Zulfiqar,legbreak,2,52.0,312.0,336.0,6.461538461538462,13.0
+2221.0,Saqlain Mushtaq,right-arm offbreak,2,1454.6,8770.0,6275.0,4.313900728722674,60.0
+1967.0,Saradindu Mukherjee,right-arm offbreak,1,29.0,174.0,98.0,3.3793103448275863,0.0
+7718.0,Sarandeep Singh,right-arm offbreak,2,43.0,258.0,180.0,4.186046511627907,3.0
+45577.0,Sarel Burger,right-arm medium-fast,1,11.0,66.0,67.0,6.090909090909091,2.0
+48983.0,Sarfaraz Ahmed,right-arm offbreak,1,2.0,12.0,15.0,7.5,69.0
+1329.0,Sarfraz Nawaz,right-arm fast-medium,2,394.2,2412.0,1463.0,3.711314053779808,23.0
+71839.0,Saud Shakeel,left-arm slow,2,7.5,47.0,37.0,4.933333333333334,11.0
+59607.0,Saurabh Netravalkar,left-arm fast-medium,2,408.6,2458.0,1626.0,3.9794419970631423,15.0
+65862.0,Sayed Shirzad,left-arm medium,1,8.0,48.0,56.0,7.0,1.0
+61993.0,Scott Boland,right-arm fast-medium,2,119.2,716.0,725.0,6.082214765100671,3.0
+53306.0,Scott Borthwick,legbreak,1,9.0,54.0,72.0,8.0,2.0
+97874.0,Scott Currie,right-arm medium-fast,2,20.0,120.0,86.0,4.3,2.0
+66844.0,Scott Kuggeleijn,right-arm fast-medium,1,14.0,84.0,58.0,4.142857142857143,0.0
+9570.0,Scott Styris,right-arm medium,2,1016.6,6114.0,4839.0,4.759984261263034,138.0
+59610.0,Sean Abbott,right-arm fast-medium,2,164.3,991.0,894.0,5.441265976871576,14.0
+10422.0,Sean Ervine,right-arm medium,2,273.7,1649.0,1561.0,5.703324808184144,27.0
+47206.0,Sean Williams,slow left-arm orthodox,2,796.8,4792.0,3946.0,4.952309236947792,131.0
+50378.0,Seekkuge Prasanna,legbreak,2,322.9,1945.0,1767.0,5.47228244038402,34.0
+100456.0,Semo Kamea,left-arm fast,2,166.4,1000.0,868.0,5.216346153846153,7.0
+57117.0,Seren Waters,legbreak,1,3.0,18.0,14.0,4.666666666666667,20.0
+60468.0,Sese Bau,right-arm offbreak,2,118.2,710.0,576.0,4.873096446700507,54.0
+59454.0,Seth Rance,right-arm medium,2,17.3,105.0,110.0,6.358381502890174,0.0
+1561.0,Sew Shivnarine,slow left-arm orthodox,1,3.0,18.0,16.0,5.333333333333333,0.0
+10221.0,Sewnarine Chattergoon,legbreak,2,13.2,80.0,48.0,3.6363636363636367,15.0
+8273.0,Shabbir Ahmed,right-arm fast-medium,2,273.4,1642.0,1192.0,4.359912216532553,6.0
+84937.0,Shadab Khan,legbreak,2,563.6,3388.0,2960.0,5.251951738821859,33.0
+15257.0,Shadeep Silva,slow left-arm orthodox,1,7.0,42.0,33.0,4.714285714285714,1.0
+3921.0,Shafiek Abrahams,right-arm offbreak,1,10.0,60.0,40.0,4.0,0.0
+6398.0,Shafiuddin Ahmed,right-arm fast-medium,2,82.3,495.0,426.0,5.176184690157959,4.0
+51377.0,Shafiul Islam,right-arm fast-medium,2,421.2,2540.0,2529.0,6.004273504273504,22.0
+47353.0,Shahadat Hossain,right-arm medium-fast,2,365.4,2198.0,2143.0,5.8648056923919,10.0
+103588.0,Shahbaz Ahmed,slow left-arm orthodox,2,26.0,156.0,125.0,4.807692307692308,1.0
+47425.0,Shaheed Keshvani,right-arm offbreak,2,8.0,48.0,48.0,6.0,2.0
+95855.0,Shaheen Shah Afridi,left-arm fast,2,448.3,2695.0,2490.0,5.554316306045059,12.0
+4169.0,Shahid Afridi,legbreak googly,2,2938.2,17670.0,13632.0,4.639575250153155,342.0
+100953.0,Shahid Ahmadzai,slow left-arm orthodox,2,28.0,168.0,94.0,3.357142857142857,1.0
+1942.0,Shahid Mahboob,right-arm fast-medium,2,90.0,540.0,382.0,4.2444444444444445,5.0
+2356.0,Shahid Nazir,right-arm fast-medium,2,135.0,810.0,649.0,4.807407407407408,1.0
+1933.0,Shahid Saeed,right-arm medium,2,37.0,222.0,159.0,4.297297297297297,10.0
+70962.0,Shahidullah,slow left-arm orthodox,1,3.0,18.0,16.0,5.333333333333333,3.0
+106697.0,Shahnawaz Dahani,right-arm fast-medium,1,16.0,96.0,73.0,4.5625,0.0
+2251.0,Shahzad Altaf,right-arm medium,1,13.0,78.0,37.0,2.8461538461538463,0.0
+45742.0,Shaiman Anwar,legbreak googly,2,18.9,117.0,134.0,7.08994708994709,39.0
+1889.0,Shakeel Khan,right-arm fast-medium,1,9.0,54.0,50.0,5.555555555555555,1.0
+48277.0,Shakib Al Hasan,slow left-arm orthodox,2,2090.7,12575.0,9360.0,4.476969436074042,204.0
+24700.0,Shakti Gauchan,slow left-arm orthodox,1,4.0,24.0,15.0,3.75,0.0
+103786.0,Shamim Hossain,right-arm offbreak,1,2.0,12.0,18.0,9.0,4.0
+50290.0,Shaminda Eranga,right-arm fast-medium,2,118.8,716.0,686.0,5.774410774410774,3.0
+10280.0,Shane Bond,right-arm fast,2,713.1,4295.0,3070.0,4.305146543261815,18.0
+52646.0,Shane Getkate,right-arm medium-fast,2,32.0,192.0,145.0,4.53125,1.0
+8399.0,Shane Harwood,right-arm fast-medium,1,10.0,60.0,57.0,5.7,1.0
+2242.0,Shane Lee,right-arm medium,2,283.8,1706.0,1245.0,4.386892177589852,27.0
+73615.0,Shane Snater,right-arm fast-medium,2,24.6,150.0,188.0,7.642276422764227,3.0
+1951.0,Shane Thomson,right-arm slow-medium,2,352.9,2121.0,1602.0,4.539529611788042,42.0
+2000.0,Shane Warne,legbreak googly,2,1771.0,10642.0,7541.0,4.258046301524562,78.0
+10125.0,Shane Watson,right-arm fast-medium,2,1073.4,6466.0,5342.0,4.976709521147755,142.0
+61982.0,Shannon Gabriel,right-arm fast,2,190.8,1148.0,1134.0,5.943396226415094,7.0
+53755.0,Shapoor Zadran,left-arm fast-medium,2,329.9,1983.0,1589.0,4.816611094270992,10.0
+47457.0,Sharad Vesawkar,right-arm offbreak,1,6.0,36.0,21.0,3.5,3.0
+70961.0,Sharafuddin Ashraf,slow left-arm orthodox,2,147.2,884.0,652.0,4.429347826086957,8.0
+63477.0,Shardul Thakur,right-arm medium,2,322.4,1940.0,2014.0,6.246898263027296,19.0
+7066.0,Shariful Haque,right-arm offbreak,1,3.0,18.0,21.0,7.0,1.0
+110224.0,Shariz Ahmad,legbreak googly,2,77.4,466.0,478.0,6.175710594315245,10.0
+2250.0,Shaukat Dukanwala,right-arm offbreak,2,33.0,198.0,153.0,4.636363636363637,2.0
+88217.0,Shaun Fouché,right-arm medium,2,26.0,156.0,130.0,5.0,7.0
+1617.0,Shaun Graf,right-arm fast-medium,2,87.0,522.0,345.0,3.9655172413793114,6.0
+2228.0,Shaun Pollock,right-arm fast-medium,2,2612.4,15712.0,9631.0,3.686648292757617,133.0
+17780.0,Shaun Tait,right-arm fast,2,280.4,1688.0,1461.0,5.210413694721827,2.0
+2155.0,Shaun Udal,right-arm offbreak,2,102.0,612.0,400.0,3.92156862745098,3.0
+5615.0,Shayne O'Connor,left-arm fast-medium,2,246.7,1487.0,1396.0,5.658694770976895,7.0
+60602.0,Shehan Jayasuriya,right-arm offbreak,2,52.0,312.0,277.0,5.326923076923077,9.0
+93873.0,Shehan Madushanka,right-arm fast-medium,1,6.1,37.0,26.0,4.262295081967213,1.0
+6265.0,Sheikh Salahuddin,right-arm offbreak,2,41.0,246.0,249.0,6.073170731707317,2.0
+64443.0,Sheldon Cottrell,left-arm fast-medium,2,286.6,1722.0,1685.0,5.87927424982554,8.0
+53203.0,Shem Ngoche,slow left-arm orthodox,2,94.5,569.0,431.0,4.560846560846561,9.0
+84201.0,Sherfane Rutherford,right-arm fast-medium,1,4.0,24.0,24.0,6.0,3.0
+96825.0,Shermon Lewis,right-arm fast,1,9.5,59.0,67.0,7.052631578947368,0.0
+2182.0,Sherwin Campbell,right-arm medium,2,32.4,196.0,170.0,5.246913580246914,87.0
+56570.0,Shingi Masakadza,right-arm fast-medium,2,131.1,791.0,891.0,6.796338672768879,8.0
+74975.0,Shivam Dube,right-arm medium,1,7.5,47.0,68.0,9.066666666666666,1.0
+1589.0,Shivlal Yadav,right-arm offbreak,2,55.0,330.0,228.0,4.1454545454545455,0.0
+2120.0,Shivnarine Chanderpaul,legbreak,2,122.8,740.0,636.0,5.179153094462541,212.0
+5649.0,Shoaib Akhtar,right-arm fast,2,1291.2,7764.0,6169.0,4.77772614622057,44.0
+110058.0,Shoaib Khan,right-arm medium,1,8.0,48.0,41.0,5.125,21.0
+8270.0,Shoaib Malik,right-arm offbreak,2,1324.2,7958.0,6192.0,4.676030811055732,220.0
+1739.0,Shoaib Mohammad,right-arm offbreak,2,153.1,919.0,725.0,4.735467015022861,53.0
+91235.0,Shoriful Islam,left-arm medium-fast,2,272.9,1645.0,1515.0,5.551484060095273,11.0
+71331.0,Shreyas Iyer,right-arm offbreak,2,6.1,37.0,39.0,6.39344262295082,48.0
+95316.0,Shubman Gill,right-arm offbreak,1,2.0,12.0,11.0,5.5,37.0
+59805.0,Shuvagata Hom,right-arm offbreak,1,2.0,12.0,9.0,4.5,2.0
+1668.0,Sidath Wettimuny,right-arm medium,1,9.3,57.0,70.0,7.526881720430107,32.0
+54283.0,Siddarth Kaul,right-arm medium,1,27.0,162.0,179.0,6.62962962962963,2.0
+52319.0,Sikandar Raza,right-arm offbreak,2,767.8,4610.0,3738.0,4.868455326908049,114.0
+1510.0,Sikander Bakht,right-arm medium-fast,2,210.1,1277.0,860.0,4.093288910042837,4.0
+91741.0,Simi Singh,right-arm offbreak,2,252.3,1519.0,1011.0,4.007134363852557,26.0
+1797.0,Simon Davis,right-arm fast-medium,2,334.4,2016.0,1133.0,3.3881578947368425,4.0
+2052.0,Simon Doull,right-arm medium,2,290.1,1745.0,1459.0,5.029300241296104,14.0
+5610.0,Simon Jones,right-arm fast-medium,2,58.0,348.0,275.0,4.741379310344827,1.0
+1779.0,Simon O'Donnell,right-arm fast-medium,2,723.8,4350.0,3102.0,4.285714285714286,49.0
+58466.0,Sisanda Magala,right-arm fast-medium,2,57.0,342.0,381.0,6.684210526315789,3.0
+48481.0,Skhawat Ali,right-arm offbreak,1,8.0,48.0,68.0,8.5,4.0
+61947.0,Sohag Gazi,right-arm offbreak,2,152.3,919.0,722.0,4.740643466841759,12.0
+47686.0,Sohaib Maqsood,right-arm offbreak,2,9.0,54.0,42.0,4.666666666666667,26.0
+2150.0,Sohail Butt,right-arm fast-medium,2,13.0,78.0,79.0,6.076923076923077,1.0
+1957.0,Sohail Fazal,right-arm fast-medium,1,1.0,6.0,4.0,4.0,2.0
+53540.0,Sohail Khan,right-arm fast-medium,2,110.6,666.0,597.0,5.397830018083183,5.0
+48128.0,Sohail Tanvir,left-arm medium-fast,2,490.1,2949.0,2566.0,5.235666190573352,29.0
+48390.0,Sohrawordi Shuvo,slow left-arm orthodox,2,127.0,762.0,572.0,4.503937007874016,7.0
+51444.0,Solomon Mire,right-arm medium-fast,2,84.3,507.0,515.0,6.109134045077106,47.0
+1659.0,Somachandra De Silva,legbreak googly,2,346.0,2076.0,1557.0,4.5,19.0
+74675.0,Sompal Kami,right-arm fast-medium,2,396.1,2385.0,2038.0,5.145165362282252,28.0
+61619.0,Soumya Sarkar,right-arm medium-fast,2,88.6,534.0,525.0,5.925507900677201,61.0
+2024.0,Sourav Ganguly,right-arm medium,2,758.5,4561.0,3849.0,5.074489123269611,279.0
+101328.0,Spencer Johnson,left-arm fast-medium,1,8.0,48.0,61.0,7.625,0.0
+12020.0,Sreesanth,right-arm fast-medium,2,410.4,2476.0,2508.0,6.111111111111112,11.0
+1702.0,Sridharan Jeganathan,slow left-arm orthodox,2,46.0,276.0,208.0,4.521739130434782,3.0
+7575.0,Sridharan Sriram,slow left-arm orthodox,2,54.0,324.0,274.0,5.074074074074074,6.0
+1260.0,Srinivas Venkataraghavan,right-arm offbreak,2,140.0,868.0,542.0,3.871428571428571,5.0
+1597.0,Stanley De Silva,right-arm fast-medium,1,20.0,120.0,54.0,2.7,1.0
+49648.0,Stefan Kelly,right-arm fast-medium,2,64.5,389.0,371.0,5.751937984496124,0.0
+1549.0,Stephen Boock,slow left-arm orthodox,2,116.4,700.0,513.0,4.40721649484536,3.0
+48666.0,Stephen Parry,slow left-arm orthodox,2,19.0,114.0,92.0,4.842105263157895,0.0
+2106.0,Stephen Peall,right-arm offbreak,2,150.0,900.0,678.0,4.52,14.0
+2954.0,Steve Elworthy,right-arm fast-medium,2,283.4,1702.0,1235.0,4.357798165137615,8.0
+7041.0,Steve Harmison,right-arm fast-medium,2,481.9,2899.0,2481.0,5.148371031334302,11.0
+2265.0,Steve Tikolo,right-arm offbreak,2,667.6,4016.0,3215.0,4.81575793888556,118.0
+1991.0,Steve Watkin,right-arm medium-fast,2,36.5,221.0,193.0,5.287671232876712,2.0
+1795.0,Steve Waugh,right-arm medium,2,1476.7,8883.0,6761.0,4.578451953680504,232.0
+48529.0,Steven Finn,right-arm fast-medium,2,590.6,3550.0,2996.0,5.072807314595327,17.0
+2176.0,Steven Jack,right-arm fast,2,18.0,108.0,86.0,4.777777777777778,2.0
+2255.0,Steven Lubbers,right-arm offbreak,2,36.0,216.0,187.0,5.194444444444445,3.0
+10332.0,Steven Outerbridge,right-arm offbreak,2,20.0,120.0,94.0,4.7,23.0
+50281.0,Steven Smith,legbreak googly,2,178.8,1076.0,971.0,5.430648769574944,123.0
+56870.0,Steven Taylor,right-arm offbreak,2,247.5,1487.0,1124.0,4.541414141414141,45.0
+46557.0,Steven Welsh,right-arm medium-fast,2,20.0,120.0,147.0,7.35,2.0
+1798.0,Stu Gillespie,right-arm fast-medium,2,160.3,963.0,736.0,4.591391141609482,6.0
+1960.0,Stu Roberts,right-arm fast-medium,2,7.0,42.0,47.0,6.714285714285714,0.0
+10553.0,Stuart Binny,right-arm medium,2,81.4,490.0,439.0,5.393120393120393,8.0
+48440.0,Stuart Broad,right-arm fast-medium,2,1014.5,6109.0,5364.0,5.287333661902415,43.0
+60055.0,Stuart Chalmers,right-arm medium-fast,2,10.0,60.0,49.0,4.9,0.0
+6973.0,Stuart Clark,right-arm fast-medium,2,304.5,1829.0,1477.0,4.850574712643678,5.0
+2231.0,Stuart Law,right-arm medium,2,134.3,807.0,635.0,4.728220402084884,46.0
+4376.0,Stuart MacGill,legbreak googly,1,30.0,180.0,105.0,3.5,1.0
+10639.0,Stuart Matsikenyeri,right-arm offbreak,2,153.2,920.0,778.0,5.078328981723238,101.0
+52245.0,Stuart Meaker,right-arm fast-medium,2,19.0,114.0,110.0,5.789473684210527,2.0
+60195.0,Stuart Thompson,right-arm medium-fast,2,92.7,559.0,490.0,5.285868392664509,14.0
+70837.0,Stuart Whittingham,right-arm fast-medium,2,41.5,251.0,224.0,5.397590361445783,2.0
+2122.0,Stuart Williams,right-arm medium,1,4.0,24.0,30.0,7.5,49.0
+52508.0,Subashis Roy,right-arm fast-medium,1,10.0,60.0,45.0,4.5,0.0
+1999.0,Subroto Banerjee,right-arm medium-fast,2,40.0,240.0,202.0,5.05,2.0
+1596.0,Sudath Pasqual,right-arm medium,1,4.4,28.0,20.0,4.545454545454545,1.0
+53581.0,Sudeep Tyagi,right-arm medium,1,27.3,165.0,144.0,5.274725274725275,0.0
+59720.0,Sufyan Mehmood,right-arm medium,1,1.2,8.0,8.0,6.666666666666667,1.0
+10506.0,Sulieman Benn,slow left-arm orthodox,2,397.5,2387.0,1913.0,4.8125786163522015,23.0
+81831.0,Sultan Ahmed,slow left-arm orthodox,1,12.0,72.0,58.0,4.833333333333333,2.0
+2148.0,Sultan Zarawani,legbreak googly,2,44.0,264.0,257.0,5.840909090909091,6.0
+21252.0,Sunil Dhaniram,slow left-arm orthodox,2,294.1,1769.0,1240.0,4.21625297517851,38.0
+1378.0,Sunil Gavaskar,right-arm medium,1,2.8,20.0,25.0,8.928571428571429,88.0
+2292.0,Sunil Joshi,slow left-arm orthodox,2,563.4,3386.0,2509.0,4.453319133830316,34.0
+49039.0,Sunil Narine,right-arm offbreak,2,588.8,3540.0,2435.0,4.135529891304349,33.0
+58601.0,Sunzamul Islam,slow left-arm orthodox,2,25.0,150.0,79.0,3.16,1.0
+11385.0,Suraj Randiv,right-arm offbreak,2,238.9,1437.0,1214.0,5.081624110506488,16.0
+46995.0,Suranga Lakmal,right-arm fast-medium,2,645.3,3881.0,3534.0,5.476522547652255,26.0
+7268.0,Suresh Perera,right-arm fast-medium,2,96.3,579.0,522.0,5.420560747663552,11.0
+15716.0,Suresh Raina,right-arm offbreak,2,353.8,2126.0,1811.0,5.118711136235161,159.0
+1682.0,Suru Nayak,right-arm medium,2,37.0,222.0,161.0,4.351351351351352,1.0
+103760.0,Surya Tamang,slow left-arm orthodox,2,15.0,90.0,78.0,5.2,0.0
+61990.0,Suryakumar Yadav,right-arm medium,1,2.0,12.0,17.0,8.5,30.0
+71018.0,Sushan Bhari,slow left-arm orthodox,2,70.2,422.0,273.0,3.888888888888889,2.0
+110010.0,Sushant Modani,right-arm offbreak,1,2.0,12.0,6.0,3.0,31.0
+53408.0,Sybrand Engelbrecht,right-arm offbreak,1,2.0,12.0,17.0,8.5,11.0
+1304.0,Syed Abid Ali,right-arm medium-fast,2,56.0,336.0,187.0,3.3392857142857144,3.0
+47714.0,Syed Maqsood,right-arm medium,1,11.0,66.0,84.0,7.636363636363637,2.0
+45573.0,Syed Rasel,left-arm medium-fast,2,442.1,2657.0,2051.0,4.639221895498756,16.0
+1556.0,Sylvester Clarke,right-arm fast,2,87.2,524.0,245.0,2.809633027522936,6.0
+79597.0,T Natarajan,left-arm medium,1,20.0,120.0,143.0,7.15,0.0
+58408.0,Tabraiz Shamsi,left-arm wrist-spin,2,412.5,2481.0,2284.0,5.536969696969697,4.0
+49272.0,Tafadzwa Kamungozi,legbreak,2,106.0,636.0,548.0,5.169811320754717,5.0
+1674.0,Tahir Naqqash,right-arm fast-medium,2,265.6,1596.0,1240.0,4.66867469879518,14.0
+59679.0,Taijul Islam,slow left-arm orthodox,2,175.0,1050.0,805.0,4.6,11.0
+24670.0,Talha Jubair,right-arm medium,2,34.0,204.0,255.0,7.5,2.0
+8109.0,Tama Canning,right-arm fast-medium,2,34.0,204.0,203.0,5.970588235294118,3.0
+52911.0,Tamauri Tucker,right-arm offbreak,2,29.0,174.0,157.0,5.413793103448276,0.0
+95058.0,Tanaka Chivanga,right-arm fast,2,49.7,301.0,295.0,5.935613682092555,3.0
+60515.0,Tanbir Hayder,legbreak,2,10.0,60.0,67.0,6.7,2.0
+65868.0,Tangeni Lungameni,left-arm medium,2,178.6,1074.0,779.0,4.361702127659575,6.0
+48189.0,Tanmay Mishra,right-arm fast-medium,2,1.3,9.0,12.0,9.23076923076923,33.0
+84815.0,Tanveer Ahmed,right-arm medium-fast,2,38.1,229.0,208.0,5.459317585301837,0.0
+104403.0,Tanveer Sangha,legbreak,2,18.0,108.0,125.0,6.944444444444445,1.0
+20125.0,Tanvir Ahmed,right-arm fast-medium,2,10.0,60.0,83.0,8.3,1.0
+2029.0,Tanvir Mehdi,right-arm fast-medium,1,11.0,66.0,72.0,6.545454545454546,1.0
+49912.0,Tanwir Afzal,right-arm fast-medium,2,142.0,852.0,601.0,4.232394366197183,16.0
+102028.0,Tanzim Hasan Sakib,right-arm medium,2,54.3,331.0,311.0,5.72744014732965,2.0
+35577.0,Tapash Baisya,right-arm fast-medium,2,434.0,2608.0,2452.0,5.649769585253456,28.0
+62324.0,Tapiwa Mufudza,right-arm offbreak,2,17.0,102.0,75.0,4.411764705882353,1.0
+44992.0,Tareq Aziz,right-arm medium-fast,2,77.3,465.0,424.0,5.485122897800776,1.0
+69878.0,Tarisai Musakanda,right-arm medium,1,2.0,12.0,11.0,5.5,15.0
+58346.0,Tarun Nethula,legbreak,2,44.0,264.0,249.0,5.659090909090909,2.0
+66808.0,Taskin Ahmed,right-arm fast,2,569.0,3422.0,3088.0,5.427065026362039,27.0
+10421.0,Tatenda Taibu,right-arm medium,2,14.0,84.0,61.0,4.357142857142857,116.0
+8272.0,Taufeeq Umar,right-arm offbreak,2,12.0,72.0,85.0,7.083333333333333,21.0
+49120.0,Taurai Muzarabani,right-arm fast-medium,2,53.5,323.0,262.0,4.897196261682243,4.0
+1624.0,Tauseef Ahmed,right-arm offbreak,2,541.0,3250.0,2247.0,4.153419593345657,11.0
+45215.0,Tawanda Mupariwa,right-arm fast-medium,2,335.5,2019.0,1690.0,5.03725782414307,22.0
+101586.0,Teja Nidamanuru,right-arm offbreak,1,1.0,6.0,8.0,8.0,24.0
+58190.0,Temba Bavuma,right-arm medium,1,6.1,37.0,22.0,3.60655737704918,34.0
+60782.0,Tendai Chatara,right-arm fast-medium,2,706.6,4254.0,3752.0,5.309934899518822,32.0
+49271.0,Tendai Chisoro,left-arm fast-medium,2,150.0,900.0,684.0,4.56,11.0
+1645.0,Terry Alderman,right-arm fast-medium,2,561.5,3371.0,2056.0,3.6616206589492433,12.0
+1359.0,Terry Jenner,legbreak googly,1,8.0,64.0,28.0,3.5,1.0
+2009.0,Tertius Bosch,right-arm fast,1,8.3,51.0,66.0,7.951807228915662,0.0
+47176.0,Thandi Tshabalala,right-arm offbreak,2,25.0,150.0,151.0,6.04,0.0
+62763.0,Tharindu Kaushal,right-arm offbreak,1,6.0,36.0,25.0,4.166666666666667,1.0
+67186.0,Theo van Woerkom,slow left-arm orthodox,1,28.0,168.0,176.0,6.285714285714286,0.0
+7420.0,Thilan Samaraweera,right-arm offbreak,2,117.0,702.0,542.0,4.632478632478633,31.0
+15267.0,Thilan Thushara,left-arm fast-medium,2,278.4,1676.0,1393.0,5.003591954022989,21.0
+8195.0,Thilina Kandamby,legbreak,2,29.0,174.0,173.0,5.965517241379311,30.0
+49452.0,Thinus Fourie,right-arm medium-fast,2,29.5,179.0,128.0,4.338983050847458,2.0
+1696.0,Thirumalai Sekhar,right-arm medium-fast,2,26.0,156.0,128.0,4.923076923076923,0.0
+7827.0,Thirunavukkarasu Kumaran,right-arm medium,2,63.0,378.0,348.0,5.523809523809524,3.0
+49193.0,Thisara Perera,right-arm medium-fast,2,980.4,5900.0,5740.0,5.854753161974704,117.0
+2268.0,Thomas Odoyo,right-arm medium-fast,2,940.1,5649.0,4335.0,4.61121157323689,103.0
+104396.0,Tilak Varma,right-arm offbreak,2,7.0,42.0,39.0,5.571428571428571,3.0
+7419.0,Tillakaratne Dilshan,right-arm offbreak,2,976.4,5880.0,4778.0,4.893486276116346,262.0
+34739.0,Tim Bresnan,right-arm medium-fast,2,700.9,4221.0,3813.0,5.440148380653445,44.0
+83439.0,Tim David,right-arm offbreak,1,2.0,12.0,20.0,10.0,4.0
+57764.0,Tim Gruijters,right-arm medium,2,20.0,120.0,79.0,3.95,3.0
+1874.0,Tim May,right-arm offbreak,2,417.2,2504.0,1772.0,4.247363374880154,4.0
+8305.0,Tim Murtagh,right-arm fast-medium,2,502.4,3020.0,2290.0,4.55812101910828,24.0
+105883.0,Tim Pringle,slow left-arm orthodox,2,33.1,199.0,221.0,6.676737160120846,4.0
+2022.0,Tim Shaw,slow left-arm orthodox,2,84.0,504.0,298.0,3.5476190476190474,2.0
+49108.0,Tim Southee,right-arm medium-fast,2,1341.1,8075.0,7448.0,5.5536499888151525,61.0
+2257.0,Tim de Leede,right-arm medium,2,189.1,1139.0,999.0,5.2829190904283445,24.0
+9898.0,Timil Patel,legbreak,2,39.0,234.0,150.0,3.8461538461538463,4.0
+55246.0,Timm van der Gugten,right-arm fast-medium,2,54.0,324.0,195.0,3.611111111111111,4.0
+49274.0,Timycen Maruma,legbreak googly,2,36.9,225.0,230.0,6.233062330623307,17.0
+47209.0,Tinashe Panyangara,right-arm fast-medium,2,538.6,3242.0,3024.0,5.614556256962495,36.0
+45405.0,Tino Best,right-arm fast,2,216.0,1300.0,1157.0,5.356481481481482,8.0
+55145.0,Tinotenda Mutombodzi,legbreak googly,2,61.5,371.0,359.0,5.837398373983739,12.0
+8762.0,Tinu Yohannan,right-arm medium-fast,2,20.0,120.0,122.0,6.1,0.0
+2269.0,Tito Odumbe,right-arm medium,2,22.5,137.0,137.0,6.088888888888889,6.0
+58090.0,Toby Roland-Jones,right-arm medium-fast,1,7.0,42.0,34.0,4.857142857142857,0.0
+48641.0,Todd Astle,legbreak,2,45.0,270.0,246.0,5.466666666666667,3.0
+48736.0,Tom Cooper,right-arm offbreak,2,107.7,649.0,516.0,4.79108635097493,29.0
+67312.0,Tom Curran,right-arm fast-medium,2,217.2,1308.0,1290.0,5.939226519337017,8.0
+102682.0,Tom Hartley,slow left-arm orthodox,1,10.0,60.0,48.0,4.8,0.0
+62816.0,Tom Heggelman,right-arm medium,2,17.0,102.0,86.0,5.0588235294117645,5.0
+1708.0,Tom Hogan,slow left-arm orthodox,2,152.5,917.0,574.0,3.763934426229508,8.0
+1940.0,Tom Moody,right-arm medium,2,465.3,2797.0,2014.0,4.328390285837094,52.0
+66048.0,Tom Sole,right-arm offbreak,2,84.0,504.0,387.0,4.607142857142857,6.0
+6362.0,Tom de Grooth,right-arm offbreak,1,1.0,6.0,2.0,2.0,29.0
+1875.0,Tony Dodemaide,right-arm fast-medium,2,220.7,1327.0,753.0,3.411871318531944,9.0
+1848.0,Tony Gray,right-arm fast,2,211.4,1270.0,835.0,3.9498580889309367,6.0
+1393.0,Tony Greig,right-arm medium,2,147.2,916.0,619.0,4.205163043478261,16.0
+101292.0,Tony Munyonga,right-arm offbreak,1,1.0,6.0,10.0,10.0,5.0
+1481.0,Tony Opatha,right-arm medium,2,42.1,253.0,180.0,4.275534441805226,3.0
+21494.0,Tony Reid,right-arm medium,2,13.0,78.0,63.0,4.846153846153846,2.0
+4171.0,Tony Suji,right-arm medium,2,215.5,1295.0,1175.0,5.452436194895592,39.0
+91227.0,Towhid Hridoy,right-arm offbreak,1,0.1,1.0,2.0,20.0,23.0
+10413.0,Travis Friend,right-arm fast-medium,2,321.0,1930.0,1779.0,5.542056074766355,34.0
+66190.0,Travis Head,right-arm offbreak,2,174.9,1053.0,999.0,5.711835334476843,58.0
+51092.0,Trent Boult,left-arm fast-medium,2,1027.6,6180.0,5146.0,5.007785130400935,24.0
+8228.0,Trent Johnston,right-arm fast-medium,2,487.4,2930.0,2115.0,4.33935166187936,38.0
+47422.0,Trevin Bastiampillai,right-arm offbreak,2,4.0,24.0,31.0,7.75,13.0
+1646.0,Trevor Chappell,right-arm medium,2,122.0,736.0,538.0,4.409836065573771,13.0
+48196.0,Trevor Garwe,right-arm fast-medium,1,6.0,36.0,50.0,8.333333333333334,0.0
+8069.0,Trevor Gripper,right-arm offbreak,2,20.0,120.0,76.0,3.8,8.0
+1716.0,Trevor Jesty,right-arm medium,2,18.0,108.0,93.0,5.166666666666667,6.0
+1558.0,Trevor Laughlin,right-arm medium,2,44.8,308.0,224.0,5.0,4.0
+48506.0,Tyson Gordon,right-arm fast-medium,1,2.3,15.0,25.0,10.869565217391305,5.0
+115381.0,Uday Bhagwan,right-arm fast-medium,2,24.3,147.0,172.0,7.078189300411522,1.0
+2080.0,Ujesh Ranchod,right-arm offbreak,2,29.0,174.0,130.0,4.482758620689655,0.0
+83377.0,Umair Ali,right-arm medium,1,18.0,108.0,125.0,6.944444444444445,2.0
+51362.0,Umar Amin,right-arm medium,2,7.0,42.0,24.0,3.4285714285714284,15.0
+47143.0,Umar Bhatti,left-arm medium,2,271.0,1630.0,1149.0,4.239852398523985,22.0
+44908.0,Umar Gul,right-arm fast-medium,2,1005.6,6064.0,5253.0,5.223747016706444,47.0
+58274.0,Umesh Yadav,right-arm fast,2,590.2,3558.0,3565.0,6.040325313453066,10.0
+108529.0,Umran Malik,right-arm fast,2,61.0,366.0,399.0,6.540983606557377,1.0
+2151.0,Upul Chandana,legbreak,2,1021.4,6142.0,4818.0,4.717055022518113,94.0
+71527.0,Usama Mir,legbreak,2,106.0,636.0,634.0,5.981132075471698,6.0
+46530.0,Usman Mushtaq,right-arm medium-fast,1,2.0,12.0,9.0,4.5,1.0
+56885.0,Usman Qadir,legbreak,1,9.0,54.0,48.0,5.333333333333333,0.0
+77575.0,Usman Rafiq,right-arm offbreak,2,5.2,32.0,47.0,9.038461538461538,1.0
+74145.0,Usman Shinwari,left-arm medium-fast,2,127.6,768.0,633.0,4.960815047021944,3.0
+2203.0,Utpal Chatterjee,slow left-arm orthodox,2,26.5,161.0,117.0,4.415094339622642,1.0
+1731.0,Uvais Karnain,right-arm medium,2,105.5,635.0,505.0,4.786729857819905,12.0
+3317.0,VVS Laxman,right-arm offbreak,2,7.0,42.0,40.0,5.714285714285714,76.0
+1331.0,Vanburn Holder,right-arm fast-medium,2,110.3,681.0,454.0,4.116047144152312,5.0
+57444.0,Varun Aaron,right-arm fast,2,62.8,380.0,419.0,6.671974522292994,1.0
+2194.0,Vasbert Drakes,right-arm fast,2,272.4,1640.0,1293.0,4.746696035242291,12.0
+1790.0,Vaughan Brown,right-arm offbreak,2,11.0,66.0,75.0,6.818181818181818,3.0
+50885.0,Veerasammy Permaul,slow left-arm orthodox,2,55.1,331.0,271.0,4.918330308529946,3.0
+1947.0,Venkatapathy Raju,slow left-arm orthodox,2,461.0,2770.0,2014.0,4.368763557483731,8.0
+81147.0,Venkatesh Iyer,right-arm medium,1,5.0,30.0,28.0,5.6,2.0
+2137.0,Venkatesh Prasad,right-arm medium-fast,2,1352.5,8129.0,6332.0,4.681700554528651,32.0
+46935.0,Vernon Philander,right-arm fast-medium,2,212.3,1279.0,986.0,4.644371172868582,12.0
+1686.0,Vic Marks,right-arm offbreak,2,306.2,1838.0,1135.0,3.706727629000653,21.0
+6242.0,Victor Grandia,right-arm medium,1,5.0,30.0,40.0,8.0,1.0
+7291.0,Victor Mpitsang,right-arm fast-medium,1,10.0,60.0,63.0,6.3,0.0
+62301.0,Victor Nyauchi,right-arm fast-medium,2,67.0,402.0,353.0,5.268656716417911,6.0
+7571.0,Vijay Bharadwaj,right-arm offbreak,2,62.0,372.0,307.0,4.951612903225806,5.0
+63509.0,Vijay Shankar,right-arm medium,2,38.5,233.0,210.0,5.454545454545454,7.0
+47184.0,Vikram Singh,right-arm medium-fast,2,12.0,72.0,105.0,8.75,1.0
+4661.0,Vikram Solanki,right-arm offbreak,2,18.3,111.0,105.0,5.737704918032787,41.0
+102987.0,Vikramjit Singh,right-arm medium,2,38.0,228.0,240.0,6.315789473684211,31.0
+10556.0,Vinay Kumar,right-arm medium,2,238.8,1436.0,1423.0,5.958961474036851,9.0
+1726.0,Vince Hogg,right-arm fast-medium,2,15.0,90.0,49.0,3.2666666666666666,0.0
+7026.0,Vince Wells,right-arm medium,2,36.4,220.0,189.0,5.1923076923076925,7.0
+2073.0,Vinod Kambli,right-arm offbreak,1,0.4,4.0,7.0,17.5,76.0
+1703.0,Vinothen John,right-arm medium-fast,2,384.3,2311.0,1655.0,4.306531355711684,9.0
+49752.0,Virat Kohli,right-arm medium,2,109.0,662.0,680.0,6.238532110091743,236.0
+7781.0,Virender Sehwag,right-arm offbreak,2,730.0,4392.0,3853.0,5.278082191780822,236.0
+109160.0,Vishnu Sukumaran,slow left-arm orthodox,1,2.0,12.0,4.0,2.0,2.0
+62757.0,Vishwa Fernando,left-arm medium-fast,2,49.3,297.0,337.0,6.835699797160244,2.0
+1435.0,Viv Richards,right-arm slow,2,939.2,5644.0,4228.0,4.501703577512776,143.0
+1938.0,Vivek Razdan,right-arm fast-medium,2,14.0,84.0,77.0,5.5,2.0
+60259.0,Vivian Kingma,right-arm medium-fast,2,160.1,965.0,833.0,5.202998126171143,7.0
+45240.0,Vusi Sibanda,right-arm medium,2,44.3,267.0,265.0,5.981941309255079,122.0
+45339.0,Waddington Mwayenga,right-arm medium,2,21.0,126.0,157.0,7.476190476190476,2.0
+24723.0,Wahab Riaz,left-arm fast,2,717.9,4327.0,4117.0,5.734782003064494,51.0
+88709.0,Waheed Ahmed,right-arm medium,2,20.0,120.0,94.0,4.7,5.0
+1902.0,Wahidul Gani,legbreak,1,6.0,36.0,32.0,5.333333333333333,0.0
+7155.0,Wajahatullah Wasti,right-arm offbreak,2,9.1,55.0,69.0,7.582417582417583,15.0
+1436.0,Wally Edwards,legbreak,1,0.1,1.0,0.0,0.0,1.0
+78239.0,Wanindu Hasaranga,legbreak,2,427.7,2577.0,2194.0,5.129763853168108,39.0
+1935.0,Waqar Younis,right-arm fast,2,2111.4,12698.0,9919.0,4.697830823150516,94.0
+56926.0,Waqas Barkat,legbreak,1,15.0,90.0,75.0,5.0,8.0
+1598.0,Warren Stott,right-arm medium,1,12.0,72.0,48.0,4.0,0.0
+9712.0,Warren Wisneski,right-arm medium,1,19.0,114.0,123.0,6.473684210526316,1.0
+75311.0,Washington Sundar,right-arm offbreak,2,106.0,636.0,521.0,4.915094339622642,10.0
+1775.0,Wasim Akram,left-arm fast,2,3019.4,18186.0,11812.0,3.9120355037424654,225.0
+94970.0,Wasim Ali,slow left-arm orthodox,1,1.3,9.0,13.0,10.0,0.0
+2026.0,Wasim Haider,right-arm fast-medium,2,19.0,114.0,79.0,4.157894736842105,2.0
+1409.0,Wasim Raja,legbreak googly,2,169.2,1036.0,687.0,4.060283687943262,36.0
+6401.0,Wavell Hinds,right-arm medium,2,156.9,945.0,837.0,5.334608030592734,101.0
+1532.0,Wayne Clark,right-arm fast-medium,1,16.4,100.0,61.0,3.719512195121952,0.0
+1495.0,Wayne Daniel,right-arm fast,2,152.0,912.0,595.0,3.914473684210526,1.0
+1620.0,Wayne Larkins,right-arm medium,2,2.3,15.0,22.0,9.56521739130435,24.0
+50121.0,Wayne Parnell,left-arm medium-fast,2,535.2,3224.0,3010.0,5.62406576980568,28.0
+67884.0,Wellington Masakadza,slow left-arm orthodox,2,257.6,1548.0,1266.0,4.914596273291925,20.0
+89137.0,Wes Agar,right-arm fast,1,11.0,66.0,39.0,3.5454545454545454,2.0
+48111.0,Wesley Barresi,right-arm offbreak,2,5.0,30.0,37.0,7.4,44.0
+87157.0,Wessly Madhevere,right-arm offbreak,2,134.2,806.0,683.0,5.089418777943369,34.0
+74351.0,Wiaan Mulder,right-arm medium,2,74.0,444.0,422.0,5.702702702702703,8.0
+83741.0,Will Jacks,right-arm offbreak,2,25.0,150.0,121.0,4.84,7.0
+96337.0,Will Sutherland,right-arm medium-fast,2,8.3,51.0,33.0,3.975903614457831,1.0
+107211.0,William O’Rourke,right-arm fast-medium,2,18.5,113.0,115.0,6.216216216216216,1.0
+52588.0,Willie Gavera,right-arm fast,2,32.0,192.0,160.0,5.0,0.0
+1844.0,Willie Watson,right-arm fast-medium,2,540.7,3251.0,2247.0,4.155724061401886,11.0
+1868.0,Winston Benjamin,right-arm fast,2,739.0,4442.0,3079.0,4.166441136671177,40.0
+1710.0,Winston Davis,right-arm fast,2,319.9,1923.0,1302.0,4.070021881838075,2.0
+1877.0,Woorkeri Raman,slow left-arm orthodox,2,27.0,162.0,170.0,6.296296296296297,26.0
+94319.0,Xavier Bartlett,right-arm fast-medium,1,16.1,97.0,38.0,2.3602484472049685,0.0
+12912.0,Xavier Doherty,slow left-arm orthodox,2,464.4,2792.0,2224.0,4.788975021533162,7.0
+47107.0,Xavier Marshall,right-arm offbreak,2,1.3,9.0,6.0,4.615384615384615,34.0
+61859.0,Yamin Ahmadzai,right-arm medium-fast,2,56.4,340.0,304.0,5.390070921985815,3.0
+61414.0,Yannic Cariah,legbreak,2,99.3,597.0,622.0,6.263846928499497,6.0
+1585.0,Yashpal Sharma,right-arm medium,2,33.3,201.0,199.0,5.9759759759759765,31.0
+70873.0,Yasir Ali,right-arm offbreak,1,1.0,6.0,2.0,2.0,7.0
+10394.0,Yasir Arafat,right-arm fast-medium,2,69.0,414.0,373.0,5.405797101449275,5.0
+12634.0,Yasir Hameed,right-arm medium,2,3.0,18.0,26.0,8.666666666666666,55.0
+111096.0,Yasir Mohammad,legbreak googly,2,18.0,108.0,113.0,6.277777777777778,1.0
+45170.0,Yasir Shah,legbreak googly,2,215.3,1293.0,1150.0,5.341384115188109,7.0
+1641.0,Yograj Singh,right-arm fast-medium,2,40.4,244.0,186.0,4.6039603960396045,2.0
+1701.0,Yohan Goonasekera,left-arm medium,2,6.0,36.0,35.0,5.833333333333333,3.0
+10439.0,Younis Khan,right-arm medium,2,47.2,284.0,288.0,6.101694915254237,232.0
+15473.0,Yusuf Pathan,right-arm offbreak,2,247.8,1490.0,1365.0,5.508474576271186,30.0
+7716.0,Yuvraj Singh,slow left-arm orthodox,2,840.0,5048.0,4294.0,5.1119047619047615,238.0
+61325.0,Yuzvendra Chahal,legbreak googly,2,621.5,3739.0,3283.0,5.28238133547868,9.0
+56887.0,Zafar Gohar,slow left-arm orthodox,1,10.0,60.0,54.0,5.4,1.0
+2206.0,Zafar Iqbal,right-arm fast-medium,2,33.0,198.0,137.0,4.151515151515151,6.0
+1350.0,Zaheer Abbas,right-arm offbreak,2,46.4,280.0,223.0,4.806034482758621,54.0
+7678.0,Zaheer Khan,left-arm fast-medium,2,1678.1,10097.0,8301.0,4.946665872117276,66.0
+36141.0,Zaheer Maqsood,legbreak,1,20.0,120.0,116.0,5.8,0.0
+1888.0,Zahid Ahmed,slow left-arm orthodox,2,16.0,96.0,61.0,3.8125,1.0
+20245.0,Zahid Hussain,slow left-arm orthodox,1,20.0,120.0,94.0,4.7,1.0
+61491.0,Zahid Mahmood,legbreak,2,36.0,216.0,220.0,6.111111111111111,1.0
+20253.0,Zahid Shah,right-arm fast-medium,1,20.0,120.0,98.0,4.9,0.0
+74917.0,Zahir Khan,left-arm wrist-spin,1,10.0,60.0,55.0,5.5,0.0
+58886.0,Zahoor Khan,right-arm medium-fast,2,477.2,2880.0,2405.0,5.039815590947192,23.0
+51501.0,Zain Abbas,right-arm medium,1,6.0,36.0,56.0,9.333333333333334,1.0
+6266.0,Zakir Hasan,right-arm fast-medium,1,2.0,12.0,17.0,8.5,1.0
+35584.0,Zakir Hossain,right-arm medium-fast,1,4.0,24.0,18.0,4.5,1.0
+1812.0,Zakir Khan,right-arm fast-medium,2,107.4,646.0,494.0,4.599627560521415,1.0
+52980.0,Zakiullah Zaki,legbreak,1,4.0,24.0,27.0,6.75,0.0
+109723.0,Zaman Khan,right-arm fast,1,6.0,36.0,39.0,6.5,0.0
+59989.0,Zameer Zahir,legbreak,1,5.0,30.0,35.0,7.0,0.0
+106148.0,Zawar Farid,right-arm medium,2,33.3,201.0,187.0,5.615615615615616,7.0
+68465.0,Zeeshan Maqsood,slow left-arm orthodox,2,339.5,2039.0,1456.0,4.288659793814433,37.0
+62009.0,Zhivago Groenewald,slow left-arm orthodox,2,33.0,198.0,130.0,3.939393939393939,1.0
+70964.0,Zia-ur-Rehman,slow left-arm orthodox,1,3.3,21.0,22.0,6.666666666666667,1.0
+47190.0,Ziaur Rahman,right-arm fast-medium,2,65.0,390.0,301.0,4.630769230769231,11.0
+1469.0,Zulfiqar Ali,right-arm medium,2,35.0,210.0,166.0,4.742857142857143,2.0
+45764.0,Zulfiqar Babar,slow left-arm orthodox,2,49.0,294.0,246.0,5.020408163265306,2.0
+47218.0,Zunaed Siddique,right-arm offbreak,2,2.0,12.0,13.0,6.5,52.0
